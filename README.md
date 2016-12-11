@@ -1,11 +1,11 @@
 # greek-mythology-data
 
-Collections greek mythological figures.
+Collections of greek mythological figures.
 
 ## Intallation
 
 ```
-npm i --save greek-mythology-data
+npm i greek-mythology-data --save
 ```
 
 ## Usage

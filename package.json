@@ -1,7 +1,7 @@
 {
   "name": "greek-mythology-data",
   "version": "0.0.1",
-  "description": "A list of greek mythological figures",
+  "description": "Collections of greek mythological figures",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
