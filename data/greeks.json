@@ -2,1311 +2,227 @@
   {
     "name": "Hyperion",
     "type": "titan",
-    "description":"Of Hyperion we are told that he was the first to understand, by diligent attention and observation, the movement of both the sun and the moon and the other stars, and the seasons as well, in that they are caused by these bodies, and to make these facts known to others; and that for this reason he was called the father of these bodies, since he had begotten, so to speak, the speculation about them and their nature."
+    "description": "Of Hyperion we are told that he was the first to understand, by diligent attention and observation, the movement of both the sun and the moon and the other stars, and the seasons as well, in that they are caused by these bodies, and to make these facts known to others; and that for this reason he was called the father of these bodies, since he had begotten, so to speak, the speculation about them and their nature."
   },
   {
-    "name": "Iapetus"
+    "name": "Iapetus",
+    "type": "titan",
+    "description": ""
   },
   {
-    "name": "Coeus"
+    "name": "Coeus",
+    "type": "titan",
+    "description": ""
   },
   {
-    "name": "Crius"
+    "name": "Crius",
+    "type": "titan",
+    "description": ""
   },
   {
-    "name": "Cronus"
+    "name": "Cronus",
+    "type": "titan",
+    "description": ""
   },
   {
-    "name": "Mnemosyne"
+    "name": "Mnemosyne",
+    "type": "titan",
+    "description": ""
   },
   {
-    "name": "Oceanus"
+    "name": "Oceanus",
+    "type": "titan",
+    "description": ""
   },
   {
-    "name": "Phoebe"
+    "name": "Phoebe",
+    "type": "titan",
+    "description": ""
   },
   {
-    "name": "Rhea"
+    "name": "Rhea",
+    "type": "titan",
+    "description": ""
   },
   {
-    "name": "Tethys"
+    "name": "Tethys",
+    "type": "titan",
+    "description": ""
   },
   {
-    "name": "Theia"
+    "name": "Theia",
+    "type": "titan",
+    "description": ""
   },
   {
-    "name": "Themis"
+    "name": "Themis",
+    "type": "titan",
+    "description": ""
   },
   {
-    "name": "Asteria"
+    "name": "Asteria",
+    "type": "titan",
+    "description": ""
   },
   {
-    "name": "Astraeus"
+    "name": "Astraeus",
+    "type": "titan",
+    "description": ""
   },
   {
-    "name": "Atlas"
+    "name": "Atlas",
+    "type": "titan",
+    "description": ""
   },
   {
-    "name": "Aura"
+    "name": "Aura",
+    "type": "titan",
+    "description": ""
   },
   {
-    "name": "Dione"
+    "name": "Dione",
+    "type": "titan",
+    "description": ""
   },
   {
-    "name": "Eos"
+    "name": "Eos",
+    "type": "titan",
+    "description": ""
   },
   {
-    "name": "Epimetheus"
+    "name": "Epimetheus",
+    "type": "titan",
+    "description": ""
   },
   {
-    "name": "Eurybia"
+    "name": "Eurybia",
+    "type": "titan",
+    "description": ""
   },
   {
-    "name": "Eurynome"
+    "name": "Eurynome",
+    "type": "titan",
+    "description": ""
   },
   {
-    "name": "Helios"
+    "name": "Helios",
+    "type": "titan",
+    "description": ""
   },
   {
-    "name": "Clymene"
+    "name": "Clymene",
+    "type": "titan",
+    "description": ""
   },
   {
-    "name": "Lelantos"
+    "name": "Lelantos",
+    "type": "titan",
+    "description": ""
   },
   {
-    "name": "Leto"
+    "name": "Leto",
+    "type": "titan",
+    "description": ""
   },
   {
-    "name": "Menoetius"
+    "name": "Menoetius",
+    "type": "titan",
+    "description": ""
   },
   {
-    "name": "Metis"
+    "name": "Metis",
+    "type": "titan",
+    "description": ""
   },
   {
-    "name": "Ophion"
+    "name": "Ophion",
+    "type": "titan",
+    "description": ""
   },
   {
-    "name": "Pallas"
+    "name": "Pallas",
+    "type": "titan",
+    "description": ""
   },
   {
-    "name": "Perses"
+    "name": "Perses",
+    "type": "titan",
+    "description": ""
   },
   {
-    "name": "Prometheus"
+    "name": "Prometheus",
+    "type": "titan",
+    "description": ""
   },
   {
-    "name": "Selene"
+    "name": "Selene",
+    "type": "titan",
+    "description": ""
   },
   {
-    "name": "Styx"
+    "name": "Styx",
+    "type": "titan",
+    "description": ""
   },
   {
-    "name": "Hyperion"
+    "name": "Hyperion",
+    "type": "titan",
+    "description": ""
   },
   {
-    "name": "Iapetus"
+    "name": "Iapetus",
+    "type": "titan",
+    "description": ""
   },
   {
-    "name": "Coeus"
+    "name": "Coeus",
+    "type": "titan",
+    "description": ""
   },
   {
-    "name": "Crius"
+    "name": "Crius",
+    "type": "titan",
+    "description": ""
   },
   {
-    "name": "Cronus"
+    "name": "Cronus",
+    "type": "titan",
+    "description": ""
   },
   {
-    "name": "Mnemosyne"
+    "name": "Mnemosyne",
+    "type": "titan",
+    "description": ""
   },
   {
-    "name": "Oceanus"
+    "name": "Oceanus",
+    "type": "titan",
+    "description": ""
   },
   {
-    "name": "Phoebe"
+    "name": "Phoebe",
+    "type": "titan",
+    "description": ""
   },
   {
-    "name": "Rhea"
+    "name": "Rhea",
+    "type": "titan",
+    "description": ""
   },
   {
-    "name": "Tethys"
+    "name": "Tethys",
+    "type": "titan",
+    "description": ""
   },
   {
-    "name": "Theia"
+    "name": "Theia",
+    "type": "titan",
+    "description": ""
   },
   {
-    "name": "Themis"
-  },
-  {
-    "name": "Thetis"
-  },
-  {
-    "name": "Arethusa"
-  },
-  {
-    "name": "Galene"
-  },
-  {
-    "name": "Psamathe"
-  },
-  {
-    "name": "Karkinos"
-  },
-  {
-    "name": "Ladon"
-  },
-  {
-    "name": "Leucothea"
-  },
-  {
-    "name": "Bythos"
-  },
-  {
-    "name": "Aphros"
-  },
-  {
-    "name": "Aegaeon"
-  },
-  {
-    "name": "Achelous"
-  },
-  {
-    "name": "Amphitrite"
-  },
-  {
-    "name": "Benthesikyme"
-  },
-  {
-    "name": "Brizo"
-  },
-  {
-    "name": "Ceto"
-  },
-  {
-    "name": "Charybdis"
-  },
-  {
-    "name": "Cymopoleia"
-  },
-  {
-    "name": "Delphin"
-  },
-  {
-    "name": "Eidothea"
-  },
-  {
-    "name": "Glaucus"
-  },
-  {
-    "name": "Stheno"
-  },
-  {
-    "name": "Euryale"
-  },
-  {
-    "name": "Medusa"
-  },
-  {
-    "name": "Deino"
-  },
-  {
-    "name": "Enyo"
-  },
-  {
-    "name": "Pemphredo"
-  },
-  {
-    "name": "Aello"
-  },
-  {
-    "name": "Ocypete"
-  },
-  {
-    "name": "Podarge"
-  },
-  {
-    "name": "Celaeno"
-  },
-  {
-    "name": "Nicothoe"
-  },
-  {
-    "name": "Hippocampi"
-  },
-  {
-    "name": "Hydros"
-  },
-  {
-    "name": "Nereus"
-  },
-  {
-    "name": "Nerites"
-  },
-  {
-    "name": "Oceanus"
-  },
-  {
-    "name": "Palaemon"
-  },
-  {
-    "name": "Poseidon"
-  },
-  {
-    "name": "Phorcys"
-  },
-  {
-    "name": "Pontos"
-  },
-  {
-    "name": "Proteus"
-  },
-  {
-    "name": "Scylla"
-  },
-  {
-    "name": "Aglaope"
-  },
-  {
-    "name": "Himerope"
-  },
-  {
-    "name": "Leucosia"
-  },
-  {
-    "name": "Ligeia"
-  },
-  {
-    "name": "Molpe"
-  },
-  {
-    "name": "Parthenope"
-  },
-  {
-    "name": "Peisinoe"
-  },
-  {
-    "name": "Raidne"
-  },
-  {
-    "name": "Teles"
-  },
-  {
-    "name": "Thelchtereia"
-  },
-  {
-    "name": "Thelxiope"
-  },
-  {
-    "name": "Actaeus"
-  },
-  {
-    "name": "Argyron"
-  },
-  {
-    "name": "Atabyrius"
-  },
-  {
-    "name": "Chalcon"
-  },
-  {
-    "name": "Chryson"
-  },
-  {
-    "name": "Damon"
-  },
-  {
-    "name": "Damnameneus"
-  },
-  {
-    "name": "Dexithea"
-  },
-  {
-    "name": "Lycos"
-  },
-  {
-    "name": "Lysagora"
-  },
-  {
-    "name": "Makelo"
-  },
-  {
-    "name": "Megalesius"
-  },
-  {
-    "name": "Mylas"
-  },
-  {
-    "name": "Nikon"
-  },
-  {
-    "name": "Ormenos"
-  },
-  {
-    "name": "Simon"
-  },
-  {
-    "name": "Skelmis"
-  },
-  {
-    "name": "Tethys"
-  },
-  {
-    "name": "Thalassa"
-  },
-  {
-    "name": "Thaumas"
-  },
-  {
-    "name": "Thoosa"
-  },
-  {
-    "name": "Triteia"
-  },
-  {
-    "name": "Triton"
-  },
-  {
-    "name": "Tritones"
-  },
-  {
-    "name": "Hades"
-  },
-  {
-    "name": "Zeus"
-  },
-  {
-    "name": "Poseidon"
-  },
-  {
-    "name": "Apollo"
-  },
-  {
-    "name": "Ares"
-  },
-  {
-    "name": "Dionysus"
-  },
-  {
-    "name": "Hephaestus"
-  },
-  {
-    "name": "Hestia"
-  },
-  {
-    "name": "Demeter"
-  },
-  {
-    "name": "Hera"
-  },
-  {
-    "name": "Artemis"
-  },
-  {
-    "name": "Athena"
-  },
-  {
-    "name": "Aphrodite"
-  },
-  {
-    "name": "Hermes"
-  },
-  {
-    "name": "Aether"
-  },
-  {
-    "name": "Ananke"
-  },
-  {
-    "name": "Chaos"
-  },
-  {
-    "name": "Chronos",
-    "type": "titan"
-  },
-  {
-    "name": "Erebos"
-  },
-  {
-    "name": "Eros"
-  },
-  {
-    "name": "Gaia"
-  },
-  {
-    "name": "Hemera"
-  },
-  {
-    "name": "Hypnos"
-  },
-  {
-    "name": "Nyx"
-  },
-  {
-    "name": "Uranus"
-  },
-  {
-    "name": "Phanes"
-  },
-  {
-    "name": "Pontus"
-  },
-  {
-    "name": "Tartarus"
-  },
-  {
-    "name": "Thalassa"
-  },
-  {
-    "name": "Thanatos"
-  },
-  {
-    "name": "Briareus",
-    "type": "Hekatoncheires"
-  },
-  {
-    "name": "Cottus"
-  },
-  {
-    "name": "Gyges"
-  },
-  {
-    "name": "Agrius"
-  },
-  {
-    "name": "Alcyoneus"
-  },
-  {
-    "name": "Otos"
-  },
-  {
-    "name": "Ephialtes"
-  },
-  {
-    "name": "Antaeus"
-  },
-  {
-    "name": "Argus Panoptes"
-  },
-  {
-    "name": "Arges"
-  },
-  {
-    "name": "Brontes"
-  },
-  {
-    "name": "Steropes"
-  },
-  {
-    "name": "Polyphemus"
-  },
-  {
-    "name": "Enceladus"
-  },
-  {
-    "name": "Geryon"
-  },
-  {
-    "name": "Orion"
-  },
-  {
-    "name": "Porphyrion"
-  },
-  {
-    "name": "Talos"
-  },
-  {
-    "name": "Tityos"
-  },
-  {
-    "name": "Typhon"
-  },
-  {
-    "name": "Alke"
-  },
-  {
-    "name": "Amechania"
-  },
-  {
-    "name": "Anaideia"
-  },
-  {
-    "name": "Angelia"
-  },
-  {
-    "name": "Apate"
-  },
-  {
-    "name": "Apheleia"
-  },
-  {
-    "name": "Aporia"
-  },
-  {
-    "name": "Arete"
-  },
-  {
-    "name": "Atë"
-  },
-  {
-    "name": "Bia"
-  },
-  {
-    "name": "Caerus"
-  },
-  {
-    "name": "Corus"
-  },
-  {
-    "name": "Deimos"
-  },
-  {
-    "name": "Dikaiosyne"
-  },
-  {
-    "name": "Dike"
-  },
-  {
-    "name": "Dolos"
-  },
-  {
-    "name": "Dysnomia"
-  },
-  {
-    "name": "Dyssebeia"
-  },
-  {
-    "name": "Eirene"
-  },
-  {
-    "name": "Ekecheiria"
-  },
-  {
-    "name": "Achos"
-  },
-  {
-    "name": "Ania"
-  },
-  {
-    "name": "Lupe"
-  },
-  {
-    "name": "Achlys"
-  },
-  {
-    "name": "Adephagia"
-  },
-  {
-    "name": "Adikia"
-  },
-  {
-    "name": "Aergia"
-  },
-  {
-    "name": "Agon"
-  },
-  {
-    "name": "Aidos"
-  },
-  {
-    "name": "Aisa"
-  },
-  {
-    "name": "Alala"
-  },
-  {
-    "name": "Alastor"
-  },
-  {
-    "name": "Aletheia"
-  },
-  {
-    "name": "Eleos"
-  },
-  {
-    "name": "Elpis"
-  },
-  {
-    "name": "Epiphron"
-  },
-  {
-    "name": "Eris"
-  },
-  {
-    "name": "Anteros"
-  },
-  {
-    "name": "Eros"
-  },
-  {
-    "name": "Hedylogos"
-  },
-  {
-    "name": "Himeros"
-  },
-  {
-    "name": "Pothos"
-  },
-  {
-    "name": "Eucleia"
-  },
-  {
-    "name": "Eulabeia"
-  },
-  {
-    "name": "Eunomia"
-  },
-  {
-    "name": "Eupheme"
-  },
-  {
-    "name": "Eupraxia"
-  },
-  {
-    "name": "Eusebeia"
-  },
-  {
-    "name": "Euthenia"
-  },
-  {
-    "name": "Gelos"
-  },
-  {
-    "name": "Geras"
-  },
-  {
-    "name": "Harmonia"
-  },
-  {
-    "name": "Hebe"
-  },
-  {
-    "name": "Hedone"
-  },
-  {
-    "name": "Heimarmene"
-  },
-  {
-    "name": "Homados"
-  },
-  {
-    "name": "Homonoia"
-  },
-  {
-    "name": "Horkos"
-  },
-  {
-    "name": "Horme"
-  },
-  {
-    "name": "Hybris"
-  },
-  {
-    "name": "Hypnos"
-  },
-  {
-    "name": "Ioke"
-  },
-  {
-    "name": "Kakia"
-  },
-  {
-    "name": "Kalokagathia"
-  },
-  {
-    "name": "Koalemos"
-  },
-  {
-    "name": "Kratos"
-  },
-  {
-    "name": "Kydoimos"
-  },
-  {
-    "name": "Lethe"
-  },
-  {
-    "name": "Limos"
-  },
-  {
-    "name": "Lyssa"
-  },
-  {
-    "name": "Mania"
-  },
-  {
-    "name": "Clotho"
-  },
-  {
-    "name": "Lachesis"
-  },
-  {
-    "name": "Atropos"
-  },
-  {
-    "name": "Momus"
-  },
-  {
-    "name": "Moros"
-  },
-  {
-    "name": "Nemesis"
-  },
-  {
-    "name": "Nike"
-  },
-  {
-    "name": "Nomos"
-  },
-  {
-    "name": "Oizys"
-  },
-  {
-    "name": "Epiales"
-  },
-  {
-    "name": "Morpheus"
-  },
-  {
-    "name": "Phantasos"
-  },
-  {
-    "name": "Phobetor"
-  },
-  {
-    "name": "Palioxis"
-  },
-  {
-    "name": "Peitharchia"
-  },
-  {
-    "name": "Peitho"
-  },
-  {
-    "name": "Penia"
-  },
-  {
-    "name": "Penthus"
-  },
-  {
-    "name": "Pepromene"
-  },
-  {
-    "name": "Pheme"
-  },
-  {
-    "name": "Philophrosyne"
-  },
-  {
-    "name": "Philotes"
-  },
-  {
-    "name": "Phobos"
-  },
-  {
-    "name": "The"
-  },
-  {
-    "name": "Phrike"
-  },
-  {
-    "name": "Phthonus"
-  },
-  {
-    "name": "Pistis"
-  },
-  {
-    "name": "Poine"
-  },
-  {
-    "name": "Polemos"
-  },
-  {
-    "name": "Ponos"
-  },
-  {
-    "name": "Poros"
-  },
-  {
-    "name": "Praxidike"
-  },
-  {
-    "name": "Proioxis"
-  },
-  {
-    "name": "Prophasis"
-  },
-  {
-    "name": "Ptocheia"
-  },
-  {
-    "name": "Soter"
-  },
-  {
-    "name": "Soteria"
-  },
-  {
-    "name": "Sophrosyne"
-  },
-  {
-    "name": "Techne"
-  },
-  {
-    "name": "Thanatos"
-  },
-  {
-    "name": "Thrasos"
-  },
-  {
-    "name": "Tyche"
-  },
-  {
-    "name": "Zelos"
-  },
-  {
-    "name": "Abas"
-  },
-  {
-    "name": "Acastus"
-  },
-  {
-    "name": "Acrisius"
-  },
-  {
-    "name": "Actaeus"
-  },
-  {
-    "name": "Admetus"
-  },
-  {
-    "name": "Adrastus"
-  },
-  {
-    "name": "Aeacus"
-  },
-  {
-    "name": "Aeëtes"
-  },
-  {
-    "name": "Aegeus"
-  },
-  {
-    "name": "Aegimius"
-  },
-  {
-    "name": "Aegisthus"
-  },
-  {
-    "name": "Aegyptus"
-  },
-  {
-    "name": "Aeson"
-  },
-  {
-    "name": "Aëthlius"
-  },
-  {
-    "name": "Aetolus"
-  },
-  {
-    "name": "Agamemnon"
-  },
-  {
-    "name": "Agasthenes"
-  },
-  {
-    "name": "Agenor"
-  },
-  {
-    "name": "Alcinous"
-  },
-  {
-    "name": "Alcmaeon"
-  },
-  {
-    "name": "Aleus"
-  },
-  {
-    "name": "Amphiaraus"
-  },
-  {
-    "name": "Amphictyon"
-  },
-  {
-    "name": "Amphion"
-  },
-  {
-    "name": "Amycus"
-  },
-  {
-    "name": "Anaxagoras"
-  },
-  {
-    "name": "Anchises"
-  },
-  {
-    "name": "Arcesius"
-  },
-  {
-    "name": "Argeus"
-  },
-  {
-    "name": "Argus"
-  },
-  {
-    "name": "Assaracus"
-  },
-  {
-    "name": "Asterion"
-  },
-  {
-    "name": "Athamas"
-  },
-  {
-    "name": "Atreus"
-  },
-  {
-    "name": "Augeas"
-  },
-  {
-    "name": "Autesion"
-  },
-  {
-    "name": "Bias"
-  },
-  {
-    "name": "Busiris"
-  },
-  {
-    "name": "Cadmus"
-  },
-  {
-    "name": "Car"
-  },
-  {
-    "name": "Catreus"
-  },
-  {
-    "name": "Cecrops"
-  },
-  {
-    "name": "Ceisus"
-  },
-  {
-    "name": "Celeus"
-  },
-  {
-    "name": "Cephalus"
-  },
-  {
-    "name": "Cepheus"
-  },
-  {
-    "name": "Charnabon"
-  },
-  {
-    "name": "Cinyras"
-  },
-  {
-    "name": "Codrus"
-  },
-  {
-    "name": "Corinthus"
-  },
-  {
-    "name": "Cranaus"
-  },
-  {
-    "name": "Creon"
-  },
-  {
-    "name": "Cres"
-  },
-  {
-    "name": "Cresphontes"
-  },
-  {
-    "name": "Cretheus"
-  },
-  {
-    "name": "Criasus"
-  },
-  {
-    "name": "Cylarabes"
-  },
-  {
-    "name": "Cynortas"
-  },
-  {
-    "name": "Cyzicus"
-  },
-  {
-    "name": "Danaus"
-  },
-  {
-    "name": "Dardanus"
-  },
-  {
-    "name": "Deiphontes"
-  },
-  {
-    "name": "Demophon"
-  },
-  {
-    "name": "Diomedes"
-  },
-  {
-    "name": "Echemus"
-  },
-  {
-    "name": "Echetus"
-  },
-  {
-    "name": "Eetion"
-  },
-  {
-    "name": "Electryon"
-  },
-  {
-    "name": "Elephenor"
-  },
-  {
-    "name": "Eleusis"
-  },
-  {
-    "name": "Epaphus"
-  },
-  {
-    "name": "Epopeus"
-  },
-  {
-    "name": "Erechtheus"
-  },
-  {
-    "name": "Erginus"
-  },
-  {
-    "name": "Erichthonius"
-  },
-  {
-    "name": "Eteocles"
-  },
-  {
-    "name": "Eurotas"
-  },
-  {
-    "name": "Eurystheus"
-  },
-  {
-    "name": "Euxantius"
-  },
-  {
-    "name": "Gelanor"
-  },
-  {
-    "name": "Haemus"
-  },
-  {
-    "name": "Helenus"
-  },
-  {
-    "name": "Hippothoön"
-  },
-  {
-    "name": "Hyrieus"
-  },
-  {
-    "name": "Ilus"
-  },
-  {
-    "name": "Ixion"
-  },
-  {
-    "name": "Laërtes"
-  },
-  {
-    "name": "Laomedon"
-  },
-  {
-    "name": "Lycaon"
-  },
-  {
-    "name": "Lycurgus"
-  },
-  {
-    "name": "Makedon"
-  },
-  {
-    "name": "Megareus"
-  },
-  {
-    "name": "Melampus"
-  },
-  {
-    "name": "Melanthus"
-  },
-  {
-    "name": "Memnon"
-  },
-  {
-    "name": "Menelaus"
-  },
-  {
-    "name": "Menestheus"
-  },
-  {
-    "name": "Midas"
-  },
-  {
-    "name": "Minos"
-  },
-  {
-    "name": "Myles"
-  },
-  {
-    "name": "Nestor"
-  },
-  {
-    "name": "Nycteus"
-  },
-  {
-    "name": "Odysseus"
-  },
-  {
-    "name": "Oebalus"
-  },
-  {
-    "name": "Oedipus"
-  },
-  {
-    "name": "Oeneus"
-  },
-  {
-    "name": "Oenomaus"
-  },
-  {
-    "name": "Oenopion"
-  },
-  {
-    "name": "Ogygus"
-  },
-  {
-    "name": "Oicles"
-  },
-  {
-    "name": "Oileus"
-  },
-  {
-    "name": "Orestes"
-  },
-  {
-    "name": "Oxyntes"
-  },
-  {
-    "name": "Pandion"
-  },
-  {
-    "name": "Peleus"
-  },
-  {
-    "name": "Pelias"
-  },
-  {
-    "name": "Pelops"
-  },
-  {
-    "name": "Pentheus"
-  },
-  {
-    "name": "Perseus"
-  },
-  {
-    "name": "Phineus"
-  },
-  {
-    "name": "Phlegyas"
-  },
-  {
-    "name": "Phoenix"
-  },
-  {
-    "name": "Phoroneus"
-  },
-  {
-    "name": "Phyleus"
-  },
-  {
-    "name": "Pirithoös"
-  },
-  {
-    "name": "Pittheus"
-  },
-  {
-    "name": "Polybus"
-  },
-  {
-    "name": "Polynices"
-  },
-  {
-    "name": "Priam"
-  },
-  {
-    "name": "Proetus"
-  },
-  {
-    "name": "Pylades"
-  },
-  {
-    "name": "Rhadamanthys"
-  },
-  {
-    "name": "Rhesus"
-  },
-  {
-    "name": "Sarpedon"
-  },
-  {
-    "name": "Sisyphus"
-  },
-  {
-    "name": "Sithon"
-  },
-  {
-    "name": "Talaus"
-  },
-  {
-    "name": "Tegyrios"
-  },
-  {
-    "name": "Telamon"
-  },
-  {
-    "name": "Telephus"
-  },
-  {
-    "name": "Temenus"
-  },
-  {
-    "name": "Teucer"
-  },
-  {
-    "name": "Teutamides"
-  },
-  {
-    "name": "Teuthras"
-  },
-  {
-    "name": "Thersander"
-  },
-  {
-    "name": "Theseus"
-  },
-  {
-    "name": "Thyestes"
-  },
-  {
-    "name": "Tisamenus"
-  },
-  {
-    "name": "Tyndareus"
+    "name": "Themis",
+    "type": "titan",
+    "description": ""
   },
   {
     "name": "Achilles",
@@ -1407,5 +323,1955 @@
     "name": "Zethes",
     "description": "Zethes was one of the demigods and a son of Boreas (the Greek god of the cold north wind and the bringer of winter) and Oreithyia, daughter of King Erechtheus of Athens. His brother was Calais",
     "type": "demigod"
+  },
+  {
+    "name": "Alke",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Amechania",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Anaideia",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Angelia",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Apate",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Apheleia",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Aporia",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Arete",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Atë",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Bia",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Caerus",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Corus",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Deimos",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Dikaiosyne",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Dike",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Dolos",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Dysnomia",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Dyssebeia",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Eirene",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Ekecheiria",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Achos",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Ania",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Lupe",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Achlys",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Adephagia",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Adikia",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Aergia",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Agon",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Aidos",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Aisa",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Alala",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Alastor",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Aletheia",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Eleos",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Elpis",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Epiphron",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Eris",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Anteros",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Eros",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Hedylogos",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Himeros",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Pothos",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Eucleia",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Eulabeia",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Eunomia",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Eupheme",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Eupraxia",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Eusebeia",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Euthenia",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Gelos",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Geras",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Harmonia",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Hebe",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Hedone",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Heimarmene",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Homados",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Homonoia",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Horkos",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Horme",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Hybris",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Hypnos",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Ioke",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Kakia",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Kalokagathia",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Koalemos",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Kratos",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Kydoimos",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Lethe",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Limos",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Lyssa",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Mania",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Clotho",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Lachesis",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Atropos",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Momus",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Moros",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Nemesis",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Nike",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Nomos",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Oizys",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Epiales",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Morpheus",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Phantasos",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Phobetor",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Palioxis",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Peitharchia",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Peitho",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Penia",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Penthus",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Pepromene",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Pheme",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Philophrosyne",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Philotes",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Phobos",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "The",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Phrike",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Phthonus",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Pistis",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Poine",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Polemos",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Ponos",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Poros",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Praxidike",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Proioxis",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Prophasis",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Ptocheia",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Soter",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Soteria",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Sophrosyne",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Techne",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Thanatos",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Thrasos",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Tyche",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Zelos",
+    "type": "deity",
+    "description": ""
+  },
+  {
+    "name": "Briareus",
+    "type": "giant",
+    "description": ""
+  },
+  {
+    "name": "Cottus",
+    "type": "giant",
+    "description": ""
+  },
+  {
+    "name": "Gyges",
+    "type": "giant",
+    "description": ""
+  },
+  {
+    "name": "Agrius",
+    "type": "giant",
+    "description": ""
+  },
+  {
+    "name": "Alcyoneus",
+    "type": "giant",
+    "description": ""
+  },
+  {
+    "name": "Otos",
+    "type": "giant",
+    "description": ""
+  },
+  {
+    "name": "Ephialtes",
+    "type": "giant",
+    "description": ""
+  },
+  {
+    "name": "Antaeus",
+    "type": "giant",
+    "description": ""
+  },
+  {
+    "name": "Argus Panoptes",
+    "type": "giant",
+    "description": ""
+  },
+  {
+    "name": "Arges",
+    "type": "giant",
+    "description": ""
+  },
+  {
+    "name": "Brontes",
+    "type": "giant",
+    "description": ""
+  },
+  {
+    "name": "Steropes",
+    "type": "giant",
+    "description": ""
+  },
+  {
+    "name": "Polyphemus",
+    "type": "giant",
+    "description": ""
+  },
+  {
+    "name": "Enceladus",
+    "type": "giant",
+    "description": ""
+  },
+  {
+    "name": "Geryon",
+    "type": "giant",
+    "description": ""
+  },
+  {
+    "name": "Orion",
+    "type": "giant",
+    "description": ""
+  },
+  {
+    "name": "Porphyrion",
+    "type": "giant",
+    "description": ""
+  },
+  {
+    "name": "Talos",
+    "type": "giant",
+    "description": ""
+  },
+  {
+    "name": "Tityos",
+    "type": "giant",
+    "description": ""
+  },
+  {
+    "name": "Typhon",
+    "type": "giant",
+    "description": ""
+  },
+  {
+    "name": "Hades",
+    "type": "god",
+    "description": ""
+  },
+  {
+    "name": "Zeus",
+    "type": "god",
+    "description": ""
+  },
+  {
+    "name": "Poseidon",
+    "type": "god",
+    "description": ""
+  },
+  {
+    "name": "Apollo",
+    "type": "god",
+    "description": ""
+  },
+  {
+    "name": "Ares",
+    "type": "god",
+    "description": ""
+  },
+  {
+    "name": "Dionysus",
+    "type": "god",
+    "description": ""
+  },
+  {
+    "name": "Hephaestus",
+    "type": "god",
+    "description": ""
+  },
+  {
+    "name": "Hestia",
+    "type": "goddess",
+    "description": ""
+  },
+  {
+    "name": "Demeter",
+    "type": "goddess",
+    "description": ""
+  },
+  {
+    "name": "Hera",
+    "type": "goddess",
+    "description": ""
+  },
+  {
+    "name": "Artemis",
+    "type": "goddess",
+    "description": ""
+  },
+  {
+    "name": "Athena",
+    "type": "goddess",
+    "description": ""
+  },
+  {
+    "name": "Aphrodite",
+    "type": "goddess",
+    "description": ""
+  },
+  {
+    "name": "Hermes",
+    "type": "god",
+    "description": ""
+  },
+  {
+    "name": "Abas",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Acastus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Acrisius",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Actaeus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Admetus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Adrastus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Aeacus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Aeëtes",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Aegeus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Aegimius",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Aegisthus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Aegyptus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Aeson",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Aëthlius",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Aetolus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Agamemnon",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Agasthenes",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Agenor",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Alcinous",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Alcmaeon",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Aleus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Amphiaraus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Amphictyon",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Amphion",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Amycus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Anaxagoras",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Anchises",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Arcesius",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Argeus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Argus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Assaracus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Asterion",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Athamas",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Atreus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Augeas",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Autesion",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Bias",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Busiris",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Cadmus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Car",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Catreus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Cecrops",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Ceisus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Celeus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Cephalus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Cepheus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Charnabon",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Cinyras",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Codrus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Corinthus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Cranaus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Creon",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Cres",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Cresphontes",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Cretheus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Criasus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Cylarabes",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Cynortas",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Cyzicus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Danaus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Dardanus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Deiphontes",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Demophon",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Diomedes",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Echemus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Echetus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Eetion",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Electryon",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Elephenor",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Eleusis",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Epaphus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Epopeus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Erechtheus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Erginus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Erichthonius",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Eteocles",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Eurotas",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Eurystheus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Euxantius",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Gelanor",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Haemus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Helenus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Hippothoön",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Hyrieus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Ilus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Ixion",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Laërtes",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Laomedon",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Lycaon",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Lycurgus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Makedon",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Megareus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Melampus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Melanthus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Memnon",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Menelaus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Menestheus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Midas",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Minos",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Myles",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Nestor",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Nycteus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Odysseus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Oebalus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Oedipus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Oeneus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Oenomaus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Oenopion",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Ogygus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Oicles",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Oileus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Orestes",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Oxyntes",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Pandion",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Peleus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Pelias",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Pelops",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Pentheus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Perseus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Phineus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Phlegyas",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Phoenix",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Phoroneus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Phyleus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Pirithoös",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Pittheus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Polybus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Polynices",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Priam",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Proetus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Pylades",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Rhadamanthys",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Rhesus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Sarpedon",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Sisyphus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Sithon",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Talaus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Tegyrios",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Telamon",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Telephus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Temenus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Teucer",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Teutamides",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Teuthras",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Thersander",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Theseus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Thyestes",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Tisamenus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Tyndareus",
+    "type": "king",
+    "description": ""
+  },
+  {
+    "name": "Aether",
+    "type": "primordial deity",
+    "description": ""
+  },
+  {
+    "name": "Ananke",
+    "type": "primordial deity",
+    "description": ""
+  },
+  {
+    "name": "Chaos",
+    "type": "primordial deity",
+    "description": ""
+  },
+  {
+    "name": "Chronos",
+    "type": "primordial deity",
+    "description": ""
+  },
+  {
+    "name": "Erebos",
+    "type": "primordial deity",
+    "description": ""
+  },
+  {
+    "name": "Eros",
+    "type": "primordial deity",
+    "description": ""
+  },
+  {
+    "name": "Gaia",
+    "type": "primordial deity",
+    "description": ""
+  },
+  {
+    "name": "Hemera",
+    "type": "primordial deity",
+    "description": ""
+  },
+  {
+    "name": "Hypnos",
+    "type": "primordial deity",
+    "description": ""
+  },
+  {
+    "name": "Nyx",
+    "type": "primordial deity",
+    "description": ""
+  },
+  {
+    "name": "Uranus",
+    "type": "primordial deity",
+    "description": ""
+  },
+  {
+    "name": "Phanes",
+    "type": "primordial deity",
+    "description": ""
+  },
+  {
+    "name": "Pontus",
+    "type": "primordial deity",
+    "description": ""
+  },
+  {
+    "name": "Tartarus",
+    "type": "primordial deity",
+    "description": ""
+  },
+  {
+    "name": "Thalassa",
+    "type": "primordial deity",
+    "description": ""
+  },
+  {
+    "name": "Thanatos",
+    "type": "primordial deity",
+    "description": ""
+  },
+  {
+    "name": "Thetis",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Arethusa",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Galene",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Psamathe",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Karkinos",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Ladon",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Leucothea",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Bythos",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Aphros",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Aegaeon",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Achelous",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Amphitrite",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Benthesikyme",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Brizo",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Ceto",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Charybdis",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Cymopoleia",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Delphin",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Eidothea",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Glaucus",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Stheno",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Euryale",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Medusa",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Deino",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Enyo",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Pemphredo",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Aello",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Ocypete",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Podarge",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Celaeno",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Nicothoe",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Hippocampi",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Hydros",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Nereus",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Nerites",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Oceanus",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Palaemon",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Poseidon",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Phorcys",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Pontos",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Proteus",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Scylla",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Aglaope",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Himerope",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Leucosia",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Ligeia",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Molpe",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Parthenope",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Peisinoe",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Raidne",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Teles",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Thelchtereia",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Thelxiope",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Actaeus",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Argyron",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Atabyrius",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Chalcon",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Chryson",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Damon",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Damnameneus",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Dexithea",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Lycos",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Lysagora",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Makelo",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Megalesius",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Mylas",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Nikon",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Ormenos",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Simon",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Skelmis",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Tethys",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Thalassa",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Thaumas",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Thoosa",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Triteia",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Triton",
+    "type": "sea deity",
+    "description": ""
+  },
+  {
+    "name": "Tritones",
+    "type": "sea deity",
+    "description": ""
   }
 ]
