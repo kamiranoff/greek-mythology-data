@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Hades",
+    "type": "god",
+    "description": ""
+  },
+  {
+    "name": "Zeus",
+    "type": "god",
+    "description": ""
+  },
+  {
+    "name": "Poseidon",
+    "type": "god",
+    "description": ""
+  },
+  {
+    "name": "Apollo",
+    "type": "god",
+    "description": ""
+  },
+  {
+    "name": "Ares",
+    "type": "god",
+    "description": ""
+  },
+  {
+    "name": "Dionysus",
+    "type": "god",
+    "description": ""
+  },
+  {
+    "name": "Hephaestus",
+    "type": "god",
+    "description": ""
+  },
+  {
+    "name": "Hestia",
+    "type": "goddess",
+    "description": ""
+  },
+  {
+    "name": "Demeter",
+    "type": "goddess",
+    "description": ""
+  },
+  {
+    "name": "Hera",
+    "type": "goddess",
+    "description": ""
+  },
+  {
+    "name": "Artemis",
+    "type": "goddess",
+    "description": ""
+  },
+  {
+    "name": "Athena",
+    "type": "goddess",
+    "description": ""
+  },
+  {
+    "name": "Aphrodite",
+    "type": "goddess",
+    "description": ""
+  },
+  {
+    "name": "Hermes",
+    "type": "god",
+    "description": ""
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Achilles",
+    "description": "Achilles was one of the demigods and the son of Thetis, a minor sea-goddess and Peleus, the king of Myrmidons",
+    "type": "demigod"
+  },
+  {
+    "name": "Aeacus",
+    "description": "Aeacus was one of the demigods and the son of a son of Zeus and Aegina who was the daughter of a river god.  He was the father of Telamon and Peleus and grandfather of Ajax and Achilles",
+    "type": "demigod"
+  },
+  {
+    "name": "Aeneas",
+    "description": "Aeneas was one of the demigods and the son of the goddess Aphrodite and Prince Anchises",
+    "type": "demigod"
+  },
+  {
+    "name": "Amphion",
+    "description": "Amphion was one of the demigods and a son of Zeus and Antiope",
+    "type": "demigod"
+  },
+  {
+    "name": "Arcas",
+    "description": "Arcas was one of the demigods and a son of Zeus and Callisto a nymph and minor goddess associated with Aphrodite",
+    "type": "demigod"
+  },
+  {
+    "name": "Clymene",
+    "description": "Clymene was one of the demigods and the daughter of the Titan gods Oceanus and Tethys",
+    "type": "demigod"
+  },
+  {
+    "name": "Dardanus",
+    "description": "Dardanus was a demigod and a son of Zeus and Electra who was the daughter of Atlas",
+    "type": "demigod"
+  },
+  {
+    "name": "Epaphus",
+    "description": "Epaphus was one of the demigods and a son of  Zeus and Io, a priestess of the goddess Hera",
+    "type": "demigod"
+  },
+  {
+    "name": "Harmonia",
+    "description": "Harmonia was one of the demigods and a daughter of Zeus and Electra",
+    "type": "demigod"
+  },
+  {
+    "name": "Helen",
+    "description": " of TroyHelen of Troy was one of the demigods and a daughter of Zeus and Leda who was queen of Sparta",
+    "type": "demigod"
+  },
+  {
+    "name": "Hercules",
+    "description": "Hercules (Heracles in Greek) was a demigod and a son of Zeus (Roman equivalent Jupiter) and the mortal Alcmene",
+    "type": "demigod"
+  },
+  {
+    "name": "Iasus",
+    "description": "Iasus was a demigod and a son of Zeus and Electra (one of the seven daughters of Atlas and Pleione). He was the brother of Dardanus",
+    "type": "demigod"
+  },
+  {
+    "name": "Memnon",
+    "description": "Memnon was one of the demigods and the son of Tithonus and Eos, aka Aurora, who was a Titan goddess of the dawn",
+    "type": "demigod"
+  },
+  {
+    "name": "Orion",
+    "description": "Orion was one of the demigods and a son of the sea god Poseidon and Euryale",
+    "type": "demigod"
+  },
+  {
+    "name": "Orpheus",
+    "description": "Orpheus was one of the demigods and a son of Calliope and the god Apollo",
+    "type": "demigod"
+  },
+  {
+    "name": "Perseus",
+    "description": "Perseus was one of the demigods and a son of Zeus and Danae",
+    "type": "demigod"
+  },
+  {
+    "name": "Pollux",
+    "description": "Pollux was one of the demigods and a son of Zeus and the mortal Leda. He was the twin brother of Castor",
+    "type": "demigod"
+  },
+  {
+    "name": "Theseus",
+    "description": "Theseus was one of the demigods and a son of Poseidon and Aethra ",
+    "type": "demigod"
+  },
+  {
+    "name": "Tityos",
+    "description": "Tityos was one of the demigods and a son of Zeus and Elara",
+    "type": "demigod"
+  },
+  {
+    "name": "Zethes",
+    "description": "Zethes was one of the demigods and a son of Boreas (the Greek god of the cold north wind and the bringer of winter) and Oreithyia, daughter of King Erechtheus of Athens. His brother was Calais",
+    "type": "demigod"
+  }
+]
