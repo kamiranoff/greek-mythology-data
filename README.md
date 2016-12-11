@@ -1,0 +1,30 @@
+# greek-mythology-data
+
+Collections greek mythological figures.
+
+## Intallation
+
+```
+npm i --save greek-mythology-data
+```
+
+## Usage
+
+```
+var GreekMyth = require('greek-mythology-data');
+var all = new GreekMyth.Greeks(GreekMyth.all);
+var demigods = new GreekMyth.Greeks(GreekMyth.demigods);
+var generalDeities = new GreekMyth.Greeks(GreekMyth.generalDeities);
+var giants = new GreekMyth.Greeks(GreekMyth.giants);
+var kings = new GreekMyth.Greeks(GreekMyth.kings);
+var primordialDeities = new GreekMyth.Greeks(GreekMyth.primordialDeities);
+var seaDeities = new GreekMyth.Greeks(GreekMyth.seaDeities);
+var titans = new GreekMyth.Greeks(GreekMyth.titans);
+  
+console.log(gods.sortByName();
+```
+
+### Available collections
+```
+.sortByName(); // Return the list reordered by name;
+```
