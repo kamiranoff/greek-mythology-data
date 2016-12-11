@@ -24,7 +24,10 @@ var titans = new GreekMyth.Greeks(GreekMyth.titans);
 console.log(gods.sortByName();
 ```
 
-### Available collections
+### Available methods
 ```
 .sortByName(); // Return the list reordered by name;
 ```
+
+## Note
+This is an attempt at making an easy to use api about greek mythology. It is very far from being complete yet. Please contribute :)
