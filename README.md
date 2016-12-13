@@ -27,6 +27,7 @@ npm i greek-mythology-data --save
 ```
 var GreekMyth = require('greek-mythology-data');
 var all = new GreekMyth.Greeks(GreekMyth.all);
+var gods = new GreekMyth.Greeks(GreekMyth.gods);
 var demigods = new GreekMyth.Greeks(GreekMyth.demigods);
 var generalDeities = new GreekMyth.Greeks(GreekMyth.generalDeities);
 var giants = new GreekMyth.Greeks(GreekMyth.giants);
