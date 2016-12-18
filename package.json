@@ -1,10 +1,12 @@
 {
   "name": "greek-mythology-data",
-  "version": "0.0.6",
+  "version": "0.1.0",
   "description": "Collections of greek mythological figures",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon src/index.js --exec babel-node --presets es2015",
+    "compile": "babel --presets es2015 -d lib/ src/",
+    "prepublish": "npm run compile"
   },
   "repository": {
     "type": "git",
@@ -21,5 +23,9 @@
     "json"
   ],
   "author": "Kevin Amiranoff <kevin.amiranoff@gmail.com> (http://www.kevinamiranoof.com)",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-es2015": "^6.18.0"
+  }
 }

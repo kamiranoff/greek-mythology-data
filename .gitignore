@@ -1,2 +1,5 @@
-.idea/
+/.idea/
 data/iliad.txt
+/lib/
+/node_modules/
+npm-debug.log
