@@ -4,6 +4,7 @@ var generalDeities = require('./data/general-deities.json');
 var giants = require('./data/giants.json');
 var gods = require('./data/gods.json');
 var kings = require('./data/kings.json');
+var nymphs = require('./data/nymphs.json');
 var primordialDeities = require('./data/general-deities.json');
 var seaDeities = require('./data/sea-deities.json');
 var titans = require('./data/titans.json');
@@ -32,6 +33,7 @@ module.exports = {
   giants,
   gods,
   kings,
+  nymphs,
   primordialDeities,
   seaDeities,
   titans
