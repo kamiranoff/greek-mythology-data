@@ -32,6 +32,7 @@ var demigods = new GreekMyth.Greeks(GreekMyth.demigods);
 var generalDeities = new GreekMyth.Greeks(GreekMyth.generalDeities);
 var giants = new GreekMyth.Greeks(GreekMyth.giants);
 var kings = new GreekMyth.Greeks(GreekMyth.kings);
+var nymphs = require('./data/nymphs.json');
 var primordialDeities = new GreekMyth.Greeks(GreekMyth.primordialDeities);
 var seaDeities = new GreekMyth.Greeks(GreekMyth.seaDeities);
 var titans = new GreekMyth.Greeks(GreekMyth.titans);
