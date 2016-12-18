@@ -24,29 +24,41 @@ npm i greek-mythology-data --save
 
 ## Usage
 
+You can make a new instance of GreekMyth and pass it the collection you want  
+or simply import one of the collection if you just need the data.
+
+
 ```
-var GreekMyth = require('greek-mythology-data');
-var all = new GreekMyth.Greeks(GreekMyth.all);
-var gods = new GreekMyth.Greeks(GreekMyth.gods);
-var demigods = new GreekMyth.Greeks(GreekMyth.demigods);
-var generalDeities = new GreekMyth.Greeks(GreekMyth.generalDeities);
-var giants = new GreekMyth.Greeks(GreekMyth.giants);
-var kings = new GreekMyth.Greeks(GreekMyth.kings);
-var primordialDeities = new GreekMyth.Greeks(GreekMyth.primordialDeities);
-var seaDeities = new GreekMyth.Greeks(GreekMyth.seaDeities);
-var titans = new GreekMyth.Greeks(GreekMyth.titans);
-  
-console.log(gods.sortByName());
+import GreekMyth, { godsCollection } from 'greek-mythology-data';
+const gods = new GreekMyth(godsCollection);
+const sortedGods = gods.sortBy('name');
+console.log(gods.list);
+console.log(sortedGods);
+```
+
+### Available Collections
+```
+  allCollection, // all of them
+  demigodsCollection,
+  godsCollection,
+  generalDeitiesCollection,
+  giantsCollection,
+  kingsCollection,
+  nymphsCollection,
+  primordialDeitiesCollection,
+  seaDeitiesCollection,
+  titansCollection,
 ```
 
 ### Available methods
 ```
-.sortByName(); // Return the list reordered by name;
+.list // return the collection.
+.sortBy([String]); // Return the collection reordered by the chosen attribute;
 ```
 <br>
 <br>
 <br>  
-___  
+ 
   
   
 > "What we do in life echoes in eternity."
