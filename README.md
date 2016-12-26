@@ -55,10 +55,18 @@ console.log(sortedGods);
 .list // return the collection.
 .sortBy([String]); // Return the collection reordered by the chosen attribute;
 ```
-<br>
-<br>
-<br>  
+
+##mongodb example import
+```
+ mongoimport --db mythology --collection majorolympians --jsonArray data/major-olympians.json
+```
  
+   
+<br>
+<br>
+<br>
+
+
   
   
 > "What we do in life echoes in eternity."

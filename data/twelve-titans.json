@@ -1,0 +1,290 @@
+[
+ {
+   "greekName": "Κοῖος (Koîos)",
+   "name": "Coeus",
+   "romanName": "",
+    "category": "twelve titan",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+   "description": "Titan of intellect and the axis of heaven around which the constellations revolved."
+ },
+ {
+   "greekName": "Κρεῖος (Kreîos)",
+   "name": "Crius",
+   "romanName": "",
+    "category": "twelve titan",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+   "description": "The least individualized of the Twelve Titans, he is the father of Astraeus, Pallas, and Perses. Implied to be the Titan of constellations."
+ },
+ {
+   "greekName": "Κρόνος (Kronos)",
+   "name": "Cronus",
+   "romanName": "",
+    "category": "twelve titan",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+   "description": "Titan of harvests and personification of destructive time. The leader of the Titans, who overthrew his father Uranus only to be overthrown in turn by his son, Zeus. Not to be confused with Chronos."
+ },
+ {
+   "greekName": "Ὑπερίων (Hyperíōn)",
+   "name": "Hyperion",
+   "romanName": "",
+    "category": "twelve titan",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+   "description": "Titan of light. With Theia, he is the father of Helios (the sun), Selene (the moon), and Eos (the dawn)."
+ },
+ {
+   "greekName": "Ἰαπετός (Iapetós)",
+   "name": "Iapetus",
+   "romanName": "",
+    "category": "twelve titan",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+   "description": "Titan of mortality and father of Prometheus, Epimetheus, Menoetius, and Atlas."
+ },
+ {
+   "greekName": "Mνημοσύνη (Mnēmosýnē)",
+   "name": "Mnemosyne",
+   "romanName": "",
+    "category": "twelve titan",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+   "description": "Titaness of memory and remembrance, and mother of the Nine Muses."
+ },
+ {
+   "greekName": "Ὠκεανός (Ōceanós)",
+   "name": "Oceanus",
+   "romanName": "",
+    "category": "twelve titan",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+   "description": "Titan of the all-encircling river Oceans around the earth, the fount of all the Earth's fresh-water."
+ },
+ {
+   "greekName": "Φοίβη (Phoíbē)",
+   "name": "Phoebe",
+   "romanName": "",
+    "category": "twelve titan",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+   "description": "Titaness of the \"bright\" intellect and prophecy, and consort of Koios."
+ },
+ {
+   "greekName": "Ῥέα (Rhéa)",
+   "name": "Rhea",
+   "romanName": "",
+    "category": "twelve titan",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+   "description": "Titaness of fertility, motherhood and the mountain wilds. She is the sister and consort of Cronus, and mother of Zeus, Hades, Poseidon, Hera, Demeter, and Hestia."
+ },
+ {
+   "greekName": "Τηθύς (Tēthýs)",
+   "name": "Tethys",
+   "romanName": "",
+    "category": "twelve titan",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+   "description": "Titaness of fresh-water, and the mother of the rivers, springs, streams, fountains, and clouds."
+ },
+ {
+   "greekName": "Θεία (Theía)",
+   "name": "Theia",
+   "romanName": "",
+    "category": "twelve titan",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+   "description": "Titaness of sight and the shining light of the clear blue sky. She is the consort of Hyperion, and mother of Helios, Selene, and Eos."
+ },
+ {
+   "greekName": "Θέμις (Thémis)",
+   "name": "Themis",
+   "romanName": "",
+    "category": "twelve titan",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+   "description": "Titaness of divine law and order."
+ }
+]

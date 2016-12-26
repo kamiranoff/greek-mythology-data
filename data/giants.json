@@ -1,102 +1,532 @@
+
 [
-  {
-    "name": "Briareus",
-    "type": "giant",
-    "description": ""
-  },
-  {
-    "name": "Cottus",
-    "type": "giant",
-    "description": ""
-  },
-  {
-    "name": "Gyges",
-    "type": "giant",
-    "description": ""
-  },
-  {
-    "name": "Agrius",
-    "type": "giant",
-    "description": ""
-  },
-  {
-    "name": "Alcyoneus",
-    "type": "giant",
-    "description": ""
-  },
-  {
-    "name": "Otos",
-    "type": "giant",
-    "description": ""
-  },
-  {
-    "name": "Ephialtes",
-    "type": "giant",
-    "description": ""
-  },
-  {
-    "name": "Antaeus",
-    "type": "giant",
-    "description": ""
-  },
-  {
-    "name": "Argus Panoptes",
-    "type": "giant",
-    "description": ""
-  },
-  {
-    "name": "Arges",
-    "type": "giant",
-    "description": ""
-  },
-  {
-    "name": "Brontes",
-    "type": "giant",
-    "description": ""
-  },
-  {
-    "name": "Steropes",
-    "type": "giant",
-    "description": ""
-  },
-  {
-    "name": "Polyphemus",
-    "type": "giant",
-    "description": ""
-  },
-  {
-    "name": "Enceladus",
-    "type": "giant",
-    "description": ""
-  },
-  {
-    "name": "Geryon",
-    "type": "giant",
-    "description": ""
-  },
-  {
-    "name": "Orion",
-    "type": "giant",
-    "description": ""
-  },
-  {
-    "name": "Porphyrion",
-    "type": "giant",
-    "description": ""
-  },
-  {
-    "name": "Talos",
-    "type": "giant",
-    "description": ""
-  },
-  {
-    "name": "Tityos",
-    "type": "giant",
-    "description": ""
-  },
-  {
-    "name": "Typhon",
-    "type": "giant",
-    "description": ""
-  }
+	{
+		"name":"Agrius",
+		"description":" According to Apollodorus, he was killed by the Moirai (Fates) with bronze clubs.",
+		"greekName": "",
+    "romanName": "",
+    "category": "giant",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Alcyoneus",
+		"description":" According to Apollodorus, he was (along with Porphyrion), the greatest of the Giants; immortal while fighting in his native land, he was dragged from his homeland and killed by Heracles. According to Pindar, he was a herdsman, and in a separate battle from the Gigantomachy was killed by Heracles and Telamon, while they were traveling through Phlegra. Representations of Heracles fighting Alcyoneus are found on many sixth century BC and later works of art.",
+		"greekName": "",
+    "romanName": "",
+    "category": "giant",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Alektos/Allektos",
+		"description":" Named on the late sixth century Siphnian Treasury (Alektos), and the second century BC Pergamon Altar (Allektos).",
+		"greekName": "",
+    "romanName": "",
+    "category": "giant",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Aristaeus",
+		"description":" According to the Suda, he was the only Giant to \"survive\". He Is probably named on an Attic black-figure dinos by Lydos (Akropolis 607) dating from the second quarter of the sixth century BC, fighting Hephaestus.",
+		"greekName": "",
+    "romanName": "",
+    "category": "giant",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Asterius/Astarias/Aster",
+		"description":"(\"Bright One\" or \"Glitterer\"): A Giant, also called Aster, killed by Athena, whose death, according to some accounts, was celebrated by the Panathenaea. Probably the same as the Giant Astarias named on the late sixth century Siphnian Treasury. Probably also the same as Asterus, mentioned in the epic poem Meropis, as an invulnerable warrior killed by Athena. In the poem, Heracles, fighting the Meropes, a race of Giants, on the Island of Kos, would have been killed but for Athena's intervention. Athena kills and flays Asterus and uses his impenetrable skin for her aegis. Other accounts name others whose hyde provided Athena's aegis: Apollodrus has Athena flay the Giant Pallas, while Euripides' Ion has Gorgon, here considered to be a Giant, as Athena's victim.",
+		"greekName": "",
+    "romanName": "",
+    "category": "giant",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Clytius",
+		"description":" According to Apollodorus, he was killed by Hecate with her torches.",
+		"greekName": "",
+    "romanName": "",
+    "category": "giant",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Enceladus",
+		"description":" Euripides has Athena fighting him with her \"Gorgon shield\" (her aegis). According to Apollodorus, he was crushed by Athena under the Island of Sicily. Virgil has him struck by Zeus' lightning bolt, and both Virgil and Claudian have him buried under Mount Etna, (other traditions had Typhon or Briareus buried under Etna). For some Enceladus was instead buried in Italy.",
+		"greekName": "",
+    "romanName": "",
+    "category": "giant",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Ephialtes",
+		"description":"(probably different from the Aload Giant who was also named Ephialtes): According to Apollodorus he was blinded by arrows from Apollo and Heracles. He is named on three Attic black-figure pots (Akropolis 2134, Getty 81.AE.211, Louvre E732) dating from the second quarter of the sixth century BC. On Louvre E732, he is, along with Hyperbios and Agasthenes, opposed by Zeus, while on Getty 81.AE.211, his opponents are apparently Apollo and Artemis. He is also named on the late sixth century BC Siphnian Treasury, where he is probably one of the opponents of Apollo and Artemis, and probably as well on what might be the earliest representation of the Gigantomachy, a pinax fragment from Eleusis (Eleusis 349). He is also named on a late fifth century BC cup from Vulci (Berlin F2531), shown battling Apollo. Although the usual opponent of Poseidon among the Giants is Polybotes, one early fifth century red-figure column krater (Vienna 688) has Poseidon attacking Ephialtes.",
+		"greekName": "",
+    "romanName": "",
+    "category": "giant",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Euryalus",
+		"description":" He is named on a late sixth century red-figure cup (Akropolis 2.211) and an early fifth century red-figure cup (British Museum E 47) fighting Hephaestos.",
+		"greekName": "",
+    "romanName": "",
+    "category": "giant",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Eurymedon",
+		"description":" According to Homer, he was a king of the Giants and father of Periboea (mother of Nausithous, king of the Phaeacians, by Poseidon), who \"brought destruction on his froward people\". He was possibly the Eurymedon who raped Hera producing Prometheus as offspring. He is probably named on Akropolis 2134. He is possibly mentioned by the Latin poet Propertius as an opponent of Jove.",
+		"greekName": "",
+    "romanName": "",
+    "category": "giant",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Eurytus",
+		"description":" According to Apollodorus, he was killed by Dionysus with his thyrsus.",
+		"greekName": "",
+    "romanName": "",
+    "category": "giant",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Gration",
+		"description":" According to Apollodorus, he was killed by Artemis.",
+		"greekName": "",
+    "romanName": "",
+    "category": "giant",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Hopladamas (or Hopladamus)",
+		"description":": Possibly named (as Hoplodamas) on two vases dating from the second quarter of the sixth century BC, on one (Akropolis 607) being speared by Apollo, while on the other (Getty 81.AE.211) attacking Zeus. Mentioned (as Hopladamus) by the geographer Pausanias as being a leader of Giants enlisted by the Titaness Rhea, pregnant with Zeus, to defend herself from her husband Cronus.",
+		"greekName": "",
+    "romanName": "",
+    "category": "giant",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Hippolytus",
+		"description":" According to Apollodorus, he was killed by Hermes, who was wearing Hades' helmet, which made its wearer invisible.",
+		"greekName": "",
+    "romanName": "",
+    "category": "giant",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Lion or Leon",
+		"description":" Possibly a Giant, he is mentioned by Photius (as ascribed to Ptolemy Hephaestion) as a giant who was challenged to single combat by Heracles and killed. Lion-headed Giants are shown on the Gigantomachy frieze of the second century BC Pergamon Altar.",
+		"greekName": "",
+    "romanName": "",
+    "category": "giant",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Mimas/Mimon/Mimos",
+		"description":" According to Apollodorus, he was killed by Hephaestus. Euripides has Zeus burning him \"to ashes\" with his thunderbolt. According to others he was killed by Ares. \"Mimos\"—possibly in error for \"Mimas\"—is inscribed (retrograde) on Akropolis 607. He was said to be buried under Prochyte. Mimas is possibly the same as the Giant named Mimon on the late sixth century BC Siphnian Treasury, as well as on a late fifth century BC cup from Vulci (Berlin F2531) shown fighting Ares. Several depictions in Greek art, though, show Aphrodite as the opponent of Mimas.",
+		"greekName": "",
+    "romanName": "",
+    "category": "giant",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+
+	{
+		"name":"Pallas",
+		"description":" According to Apollodorus, he was flayed by Athena, who used his skin as a shield. Other accounts name others whose hyde provided Athena's aegis: the epic poem Meropis has Athena kill and flay the Giant Asterus while Euripides' Ion has Gorgon, here considered to be a Giant, as Athena's victim. Claudian names him as one of several Giants turned to stone by Minerva's Gorgon shield.",
+		"greekName": "",
+    "romanName": "",
+    "category": "giant",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Pelorus",
+		"description":" According to Claudian, he was killed by Mars, the Roman equivalent of Ares.",
+		"greekName": "",
+    "romanName": "",
+    "category": "giant",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Picolous",
+		"description":" A Gigas who had become infatuated with Circe and attempted to capture her, only to be killed by Helios. It is said that the legendary moly plant first sprang forth from Picolous' blood as it seeped into the ground.",
+		"greekName": "",
+    "romanName": "",
+    "category": "giant",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Polybotes",
+		"description":" According to Apollodorus, he was crushed under Nisyros, a piece of the island of Kos broken off and thrown by Poseidon. He is named on two sixth century BC pots, on one (Getty 81.AE.211) he is opposed by Zeus, on the other (Louvre E732) he is opposed by Poseidon carrying Nisyros on his shoulder.",
+		"greekName": "",
+    "romanName": "",
+    "category": "giant",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Porphyrion",
+		"description":" According to Apollodorus, he was (along with Alcyoneus), the greatest of the Giants, he attacked Heracles and Hera but Zeus \"smote him with a thunderbolt, and Hercules shot him dead with an arrow.\" According to Pindar, who calls him \"king of the Giants\", he was slain by an arrow from the bow of Apollo. He is named on a late fifth century BC cup from Vulci (Berlin F2531), where he is battling with Zeus. He was also probably named on the late sixth century BC Siphnian Treasury.",
+		"greekName": "",
+    "romanName": "",
+    "category": "giant",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Thoas/Thoon",
+		"description":" According to Apollodorus, he was killed by the Moirai (Fates) with bronze clubs.",
+		"greekName": "",
+    "romanName": "",
+    "category": "giant",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	}
 ]

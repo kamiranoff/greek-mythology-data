@@ -1,0 +1,3074 @@
+[
+	{
+		"name":"Achlys",
+		"greekName":"Ἀχλύς",
+		"description":"spirit of the death-mist, personification of sadness, misery and poison",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Adephagia",
+		"greekName":"Ἀδηφαγία",
+		"description":"spirit of satiety and gluttony",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Adikia",
+		"greekName":"Ἀδικία",
+		"description":"spirit of injustice and wrongdoing",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Aergia",
+		"greekName":"Ἀεργία",
+		"description":"spirit of idleness, laziness, indolence and sloth",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Agon",
+		"greekName":"Ἀγών",
+		"description":"spirit of contest, who possessed an altar at Olympia, site of the Olympic Games.",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Aidos",
+		"greekName":"Αἰδώς",
+		"description":"spirit of modesty, reverence and respect",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Aisa",
+		"greekName":"Αἴσα",
+		"description":"personification of lot and fate",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Alala",
+		"greekName":"Ἀλαλά",
+		"description":"spirit of the war cry",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Alastor",
+		"greekName":"Ἀλάστωρ",
+		"description":"spirit of blood feuds and vengeance",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Aletheia",
+		"greekName":"Ἀλήθεια",
+		"description":"spirit of truth, truthfulness and sincerity",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Algea",
+		"greekName":"Ἄλγεα",
+		"description":"spirits of pain and suffering",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Achos",
+		"greekName":"Ἄχος",
+		"description":"trouble, distress",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Ania",
+		"greekName":"Ἀνία",
+		"description":"ache, anguish",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Lupe",
+		"greekName":"Λύπη",
+		"description":"pain, grief, sadness",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Alke",
+		"greekName":"Ἀλκή",
+		"description":"spirit of prowess and courage",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Amechania",
+		"greekName":"Ἀμηχανία",
+		"description":"spirit of helplessness and want of means",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Amphilogiai",
+		"greekName":"Ἀμφιλογίαι",
+		"description":"spirits of disputes, debate, and contention",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Anaideia",
+		"greekName":"Ἀναίδεια",
+		"description":"spirit of ruthlessness, shamelessness, and unforgivingness",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Androktasiai",
+		"greekName":"Ἀνδροκτασίαι",
+		"description":"spirits of battlefield slaughter",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Angelia",
+		"greekName":"Ἀγγελία",
+		"description":"spirit of messages, tidings and proclamations",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Apate",
+		"greekName":"Ἀπάτη",
+		"description":"spirit of deceit, guile, fraud and deception",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Apheleia",
+		"greekName":"Ἀφέλεια",
+		"description":"spirit of simplicity",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Aporia",
+		"greekName":"Ἀπορία",
+		"description":"spirit of difficulty, perplexity, powerlessness, and want of means",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Arae",
+		"greekName":"Ἀραί",
+		"description":"spirits of curses",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Arete",
+		"greekName":"Ἀρετή",
+		"description":"spirit of virtue, excellence, goodness, and valour",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Atë",
+		"greekName":"Ἄτη",
+		"description":"spirit of delusion, infatuation, blind folly, recklessness, and ruin",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Bia (Violence)",
+		"greekName":"Βία",
+		"description":"the personification of force and raw energy",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Caerus",
+		"greekName":"Καιρός",
+		"description":"spirit of opportunity",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Corus",
+		"greekName":"Κόρος",
+		"description":"spirit of surfeit",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Deimos",
+		"greekName":"Δεῖμος",
+		"description":"spirit of fear, dread, and terror",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Dikaiosyne",
+		"greekName":"Δικαιοσύνη",
+		"description":"spirit of justice and righteousness",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Dike",
+		"greekName":"Δίκη",
+		"description":"spirit of justice, fair judgement, and the rights established by custom and law",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Dolos",
+		"greekName":"Δόλος",
+		"description":"spirit of trickery, cunning deception, craftiness, treachery, and guile",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Dysnomia",
+		"greekName":"Δυσνομία",
+		"description":"spirit of lawlessness and poor civil constitution",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Dyssebeia",
+		"greekName":"Δυσσέβεια",
+		"description":"spirit of impiety",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Eirene",
+		"greekName":"Εἰρήνη",
+		"description":"goddess of peace",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Ekecheiria",
+		"greekName":"Ἐκεχειρία",
+		"description":"spirit of truce, armistice, and the cessation of all hostilities; honoured at the Olympic Games",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Eleos",
+		"greekName":"Ἔλεος",
+		"description":"spirit of mercy, pity, and compassion",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Elpis",
+		"greekName":"Ἐλπίς",
+		"description":"spirit of hope and expectation",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Epiphron",
+		"greekName":"Ἐπίφρων",
+		"description":"spirit of prudence, shrewdness, thoughtfulness, carefulness, and sagacity",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Eris",
+		"greekName":"Ἔρις",
+		"description":"spirit of strife, discord, contention, and rivalry",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Erotes",
+		"greekName":"ἔρωτες",
+		"description":"",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Anteros",
+		"greekName":"Ἀντέρως",
+		"description":"god of requited love",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Eros",
+		"greekName":"Ἔρως",
+		"description":"god of love and sexual intercourse",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Hedylogos",
+		"greekName":"Ἡδύλογος",
+		"description":"god of sweet talk and flattery",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Hermaphroditus",
+		"greekName":"Ἑρμαφρόδιτος",
+		"description":"god of hermaphrodites, effeminate men and androgyny",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Himeros",
+		"greekName":"Ἵμερος",
+		"description":"god of sexual desire",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Hymen/Hymenaeus",
+		"greekName":"Ὑμήν/Ὑμεναιος",
+		"description":"god of marriage ceremonies, inspiring feasts and song",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Pothos",
+		"greekName":"Πόθος",
+		"description":"god of sexual longing, yearning, and desire",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Eucleia",
+		"greekName":"Εὔκλεια",
+		"description":"spirit of good repute and glory",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Eulabeia",
+		"greekName":"Εὐλάβεια",
+		"description":"spirit of discretion, caution, and circumspection",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Eunomia",
+		"greekName":"Εὐνομία",
+		"description":"goddess of good order and lawful conduct",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Eupheme",
+		"greekName":"Εὐφήμη",
+		"description":"spirit of words of good omen, acclamation, praise, applause, and shouts of triumph",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Eupraxia",
+		"greekName":"Eὐπραξία",
+		"description":"spirit of well-being",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Eusebeia",
+		"greekName":"Eὐσέβεια",
+		"description":"spirit of piety, loyalty, duty, and filial respect",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Euthenia",
+		"greekName":"Εὐθενία",
+		"description":"spirit of prosperity, abundance, and plenty",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Gelos",
+		"greekName":"Γέλως",
+		"description":"spirit of laughter",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Geras",
+		"greekName":"Γῆρας",
+		"description":"spirit of old age",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Harmonia",
+		"greekName":"Ἁρμονία",
+		"description":"goddess of harmony and concord",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Hebe",
+		"greekName":"Ήβη",
+		"description":"goddess of youth",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Hedone",
+		"greekName":"Ἡδονή",
+		"description":"spirit of pleasure, enjoyment, and delight",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Heimarmene",
+		"greekName":"Εἵμαρμένη",
+		"description":"personification of share destined by fate",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Homados",
+		"greekName":"Ὅμαδος",
+		"description":"spirit of the din of battle",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Homonoia",
+		"greekName":"Ὁμόνοια",
+		"description":"spirit of concord, unanimity, and oneness of mind",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Horkos",
+		"greekName":"Ὅρκος",
+		"description":"spirit of oaths",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Horme",
+		"greekName":"Ὁρμή",
+		"description":"spirit of impulse or effort (to do a thing), eagerness, setting oneself in motion, and starting an action",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Hybris",
+		"greekName":"Ὕβρις",
+		"description":"spirit of outrageous behaviour",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Hypnos",
+		"greekName":"Ὕπνος",
+		"description":"god of sleep",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Hysminai",
+		"greekName":"Ὑσμῖναι",
+		"description":"spirits of fighting and combat",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Ioke",
+		"greekName":"Ἰωκή",
+		"description":"spirit of pursuit in battle",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Kakia",
+		"greekName":"Kακία",
+		"description":"spirit of vice and moral badness",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Kalokagathia",
+		"greekName":"Καλοκαγαθία",
+		"description":"spirit of nobility",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Keres",
+		"greekName":"Κῆρες",
+		"description":"spirit of violent or cruel death",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Koalemos",
+		"greekName":"Κοάλεμος",
+		"description":"spirit of stupidity and foolishness",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Kratos",
+		"greekName":"Κράτος",
+		"description":"spirit of strength, might, power, and sovereign rule",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Kydoimos",
+		"greekName":"Κυδοιμός",
+		"description":"spirit of the din of battle, confusion, uproar, and hubbub",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Lethe",
+		"greekName":"Λήθη",
+		"description":"spirit of forgetfulness and oblivion, and of the river of the same name",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Limos",
+		"greekName":"Λιμός",
+		"description":"spirit of hunger and starvation",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Litae",
+		"greekName":"Λιταί",
+		"description":"spirits of prayer",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Lyssa",
+		"greekName":"Λύσσα",
+		"description":"spirit of rage, fury and rabies in animals",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Machai",
+		"greekName":"Μάχαι",
+		"description":"spirits of fighting and combat",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Mania",
+		"greekName":"Μανία",
+		"description":"spirit or spirits of madness, insanity, and frenzy",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Moirai or Fates", 
+		"greekName":"Μοίραι",
+		"description":"",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Clotho",
+		"greekName":"Κλωθώ",
+		"description":"the spinner of the life thread",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Lachesis",
+		"greekName":"Λάχεσις",
+		"description":"the measurer of the life thread",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Atropos",
+		"greekName":"Άτροπος",
+		"description":"the severer of the life thread",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Momus",
+		"greekName":"Μῶμος",
+		"description":"spirit of mockery, blame, censure and stinging criticism",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Moros",
+		"greekName":"Μόρος",
+		"description":"spirit of doom",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Neikea",
+		"greekName":"τὰ Νείκη",
+		"description":"spirits of quarrels, feuds and grievances",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Nemesis",
+		"greekName":"Νέμεσις",
+		"description":"goddess of revenge, balance, righteous indignation, and retribution",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Nike",
+		"greekName":"Νίκη",
+		"description":"goddess of victory",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Nomos",
+		"greekName":"Νόμος",
+		"description":"spirit of law",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Oizys",
+		"greekName":"Ὀϊζύς",
+		"description":"spirit of woe and misery",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Oneiroi",
+		"greekName":"Ὄνειροι",
+		"description":"spirits of dreams",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Epiales",
+		"greekName":"Ἐπιάλης",
+		"description":"spirit of nightmares",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Morpheus",
+		"greekName":"Μορφεύς",
+		"description":"god of dreams, who takes shape of humans",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Phantasos",
+		"greekName":"Φάντασος",
+		"description":"spirit of dreams of fantasy, who takes shape of inanimate objects",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Phobetor/Icelos",
+		"greekName":"Φοβήτωρ/Ἴκελος",
+		"description":"spirit of nightmares, who takes shape of animals",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Palioxis",
+		"greekName":"Παλίωξις",
+		"description":"spirit of backrush, flight and retreat from battle",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Peitharchia",
+		"greekName":"Πειθαρχία",
+		"description":"spirit of obedience",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Peitho",
+		"greekName":"Πειθώ",
+		"description":"spirit of persuasion and seduction",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Penia",
+		"greekName":"Πενία",
+		"description":"spirit of poverty and need",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Penthus",
+		"greekName":"Πένθος",
+		"description":"spirit of grief, mourning, and lamentation",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Pepromene",
+		"greekName":"Πεπρωμένη",
+		"description":"personification of the destined share, similar to Heimarmene",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Pheme",
+		"greekName":"Φήμη",
+		"description":"spirit of rumour, report, and gossip",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Philophrosyne",
+		"greekName":"Φιλοφροσύνη",
+		"description":"spirit of friendliness, kindness, and welcome",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Philotes",
+		"greekName":"Φιλότης",
+		"description":"spirit of friendship, affection, and sexual intercourse",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Phobos",
+		"greekName":"Φόβος",
+		"description":"spirit of panic fear, flight, and battlefield rout",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Phonoi",
+		"greekName":"Φόνοι",
+		"description":"spirits of murder, killing, and slaughter",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Phrike",
+		"greekName":"Φρίκη",
+		"description":"spirit of horror and trembling fear",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Phthonus",
+		"greekName":"Φθόνος",
+		"description":"spirit of envy and jealousy",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Pistis",
+		"greekName":"Πίστις",
+		"description":"spirit of trust, honesty, and good faith",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Poine",
+		"greekName":"Ποίνη",
+		"description":"spirit of retribution, vengeance, recompense, punishment, and penalty for the crime of murder and manslaughter",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Polemos",
+		"greekName":"Πόλεμος",
+		"description":"personification of war",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Ponos",
+		"greekName":"Πόνος",
+		"description":"spirit of hard labour and toil",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Poros",
+		"greekName":"Πόρος",
+		"description":"spirit of expediency, the means of accomplishing or providing, contrivance and device",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Praxidike",
+		"greekName":"Πραξιδίκη",
+		"description":"spirit of exacting justice",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Proioxis",
+		"greekName":"Προίωξις",
+		"description":"spirit of onrush and battlefield pursuit",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Prophasis",
+		"greekName":"Πρόφασις",
+		"description":"spirit of excuses and pleas",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Ptocheia",
+		"greekName":"Πτωχεία",
+		"description":"spirit of beggary",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Soter",
+		"greekName":"Σωτήρ",
+		"description":"male spirit of safety, preservation, and deliverance from harm",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Soteria",
+		"greekName":"Σωτηρία",
+		"description":"female personification of safety, preservation, and deliverance from harm",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Sophrosyne",
+		"greekName":"Σωφροσύνη",
+		"description":"spirit of moderation, self-control, temperance, restraint, and discretion",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Techne",
+		"greekName":"Τέχνη",
+		"description":"personification of art and skill",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Thanatos",
+		"greekName":"Θάνατος",
+		"description":"spirit of death and mortality",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Thrasos",
+		"greekName":"Θράσος",
+		"description":"spirit of boldness",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Tyche",
+		"greekName":"Τύχη",
+		"description":"goddess of fortune, chance, providence, and fate",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	},
+	{
+		"name":"Zelos",
+		"greekName":" Ζῆλος",
+		"description":"spirit of eager rivalry, emulation, envy, jealousy, and zeal",
+		"romanName": "",
+    "category": "deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+	}
+]

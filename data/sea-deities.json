@@ -1,387 +1,1648 @@
 [
-  {
-    "name": "Thetis",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Arethusa",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Galene",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Psamathe",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Karkinos",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Ladon",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Leucothea",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Bythos",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Aphros",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Aegaeon",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Achelous",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Amphitrite",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Benthesikyme",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Brizo",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Ceto",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Charybdis",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Cymopoleia",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Delphin",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Eidothea",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Glaucus",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Stheno",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Euryale",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Medusa",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Deino",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Enyo",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Pemphredo",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Aello",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Ocypete",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Podarge",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Celaeno",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Nicothoe",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Hippocampi",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Hydros",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Nereus",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Nerites",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Oceanus",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Palaemon",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Poseidon",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Phorcys",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Pontos",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Proteus",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Scylla",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Aglaope",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Himerope",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Leucosia",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Ligeia",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Molpe",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Parthenope",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Peisinoe",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Raidne",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Teles",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Thelchtereia",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Thelxiope",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Actaeus",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Argyron",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Atabyrius",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Chalcon",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Chryson",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Damon",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Damnameneus",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Dexithea",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Lycos",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Lysagora",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Makelo",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Megalesius",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Mylas",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Nikon",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Ormenos",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Simon",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Skelmis",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Tethys",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Thalassa",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Thaumas",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Thoosa",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Triteia",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Triton",
-    "type": "sea deity",
-    "description": ""
-  },
-  {
-    "name": "Tritones",
-    "type": "sea deity",
-    "description": ""
-  }
+	{
+		"name":"Aegaeon",
+		"greekName":"Αιγαίων",
+		"description":"god of violent sea storms and ally of the Titans",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Achelous",
+		"greekName":"Αχελώος",
+		"description":"shark-shaped sea spirit",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Amphitrite",
+		"greekName":"Αμφιτρίτη",
+		"description":"sea goddess and consort of Poseidon",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Benthesikyme",
+		"greekName":"Βενθεσικύμη",
+		"description":"daughter of Poseidon, who resided in Ethiopia",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Brizo",
+		"greekName":"Βριζώ",
+		"description":"patron goddess of sailors, who sent prophetic dreams",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Ceto",
+		"greekName":"Κῆτώ",
+		"description":"goddess of the dangers of the ocean and of sea monsters",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Charybdis",
+		"greekName":"Χάρυβδις",
+		"description":"a sea monster and spirit of whirlpools and the tide",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Cymopoleia",
+		"greekName":"Κυμοπόλεια",
+		"description":"a daughter of Poseidon married to the Giant Briareus",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Delphin", 
+		"greekName":"Δέλφιν",
+		"description":"the leader of the dolphins, Poseidon placed him in the sky as the constellation Delphin",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Eidothea", 
+		"greekName":"Ειδοθέα", 
+		"description": "prophetic sea nymph and daughter of Proteus",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Glaucus",
+		"greekName":"Γλαῦκος",
+		"description":"the fisherman's sea god",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Gorgons",
+		"greekName":"Γοργόνες",
+		"description":"three monstrous sea spirits",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Stheno",
+		"greekName":"Σθεννώ",
+		"description":"",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Euryale",
+		"greekName":"Εὐρυάλη",
+		"description":"",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Medusa",
+		"greekName":"Μέδουσα",
+		"description":"the only mortal of the three",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Graeae",
+		"greekName":"Γραῖαι",
+		"description":"three ancient sea spirits who personified the white foam of the sea; they shared one eye and one tooth between them",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Deino",
+		"greekName":"Δεινώ",
+		"description":"",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Enyo",
+		"greekName":"Ενυώ",
+		"description":"",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Pemphredo",
+		"greekName":"Πεμφρεδώ",
+		"description":"",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Harpies",
+		"greekName":"Ηάρπυιαι",
+		"description":"winged spirits of sudden, sharp gusts of wind",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Aello/Aellope/Aellopous",
+		"greekName":"Αελλώ/Αελλώπη/Αελλόπους",
+		"description":"",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Ocypete/Ocypode/Ocythoe",
+		"greekName":"Ωκυπέτη/Ωκυπόδη/Ωκυθόη",
+		"description":"",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Podarge/Podarke",
+		"greekName":"Ποδάργη/Ποδάρκη",
+		"description":"",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Celaeno",
+		"greekName":"Κελαινώ",
+		"description":"",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Nicothoe",
+		"greekName":"Νικοθόη",
+		"description":"",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Hippocampi",
+		"greekName":"´Ιππόκαμπος",
+		"description":"horses of the sea that have the upper-body of a horse and the lower-body of a fish",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Ichthyocentaurs",
+		"greekName":"Ιχθυοκένταυροι",
+		"description":"a race of centaurine sea-gods with the upper bodies of men, the lower fore-parts of horses, ending in the serpentine tails of fish",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Bythos",
+		"greekName":"Βύθος",
+		"descritpion":"sea depth",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Aphros",
+		"greekName":"Άφρος",
+		"descritpion":"sea foam",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Karkinos",
+		"greekName":"Καρκίνος",
+		"description":"a giant crab who allied itself with the Hydra against Heracles. When it died, Hera placed it in the sky as the constellation Cancer",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Ladon",
+		"greekName":"Λάδων",
+		"description":"a hundred-headed sea serpent who guarded the western reaches of the sea, and the island and golden apples of the Hesperides",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Leucothea",
+		"greekName":"Λευκοθέα",
+		"description":"a sea goddess who aided sailors in distress",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Nereides",
+		"greekName":"Νηρηίδες",
+		"description":"sea nymphs"
+	},
+	{
+		"name":"Thetis",
+		"greekName":"Θέτις",
+		"description":"leader of the Nereids who presided over the spawning of marine life in the sea",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Arethusa",
+		"greekName":"Αρετούσα",
+		"description":"a daughter of Nereus who was transformed into a fountain",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Galene",
+		"greekName":"Γαλήνη",
+		"description":"goddess of calm seas",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Psamathe",
+		"greekName":"Πσαμάθη",
+		"description":"goddess of sand beaches",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Nereus",
+		"greekName":"Νηρέας",
+		"description":"the old man of the sea, and the god of the sea's rich bounty of fish",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Nerites",
+		"greekName":"Νερίτης",
+		"description":"a sea spirit who was transformed into a shell-fish by Aphrodite",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Oceanus",
+		"greekName":"Ὠκεανός",
+		"description":"Titan god of the Earth-encircling river Oceanus, the font of all the Earth's fresh-water",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Palaemon",
+		"greekName":"Παλαίμων",
+		"description":"a young sea god who aided sailors in distress",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Phorcys",
+		"greekName":"Φόρκυς",
+		"description":"god of the hidden dangers of the deep",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Pontos",
+		"greekName":"Πόντος",
+		"description":"primeval god of the sea, father of the fish and other sea creatures",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Proteus",
+		"greekName":"Πρωτεύς",
+		"description":"a shape-shifting, prophetic old sea god, and the herdsman of Poseidon's seals",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Poseidon",
+		"greekName":"Ποσειδῶν",
+		"description":"king of the sea and lord of the sea gods; also god of rivers, flood and drought, earthquakes, and horses",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Scylla",
+		"greekName":"Σκύλλα",
+		"description":"monstrous sea goddess",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Sirens",
+		"greekName":"Σειρῆνες",
+		"description":"sea nymphs who lured sailors to their death with their song",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Aglaope/Aglaophonos/Aglaopheme", 
+		"greekName":"Αγλαόπη/Αγλαόφωνος/Αγλαοφήμη",
+		"description":"",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Himerope", 
+		"greekName":"Ίμερόπη",
+		"description":"",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Leucosia", 
+		"greekName":"Λευκοσία",
+		"description":"",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Ligeia", 
+		"greekName":"Λιγεία",
+		"description":"",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Molpe", 
+		"greekName":"Μολπή",
+		"description":"",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Parthenope", 
+		"greekName":"Παρθενόπη",
+		"description":"",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Peisinoe/Peisithoe", 
+		"greekName":"Πεισινόη/Πεισιθόη",
+		"description":"",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Raidne", 
+		"greekName":"Ραίδνη",
+		"description":"",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Teles", 
+		"greekName":"Τέλης",
+		"description":"",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Thelchtereia", 
+		"greekName":"Θελχτήρεια",
+		"description":"",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Thelxiope/Thelxiepeia", 
+		"greekName":"Θελξιόπη/Θελξιέπεια",
+		"description":"",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Telchines",
+		"greekName":"Τελχινες",
+		"description":"sea spirits native to the island of Rhodes; the gods killed them when they turned to evil magic",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+
+	{
+		"name":"Actaeus",
+		"greekName":"Ακταίος",
+		"description":"",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Argyron",
+		"greekName":"Αργυρών",
+		"description":"",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Atabyrius",
+		"greekName":"Αταβύριος",
+		"description":"",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Chalcon",
+		"greekName":"Χαλκών",
+		"description":"",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Chryson",
+		"greekName":"Χρυσών",
+		"description":"",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Damon/Demonax",
+		"greekName":"Δαμων/Δημώναξ",
+		"description":"",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Damnameneus",
+		"greekName":"Δαμναμενεύς",
+		"description":"",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Dexithea", 
+		"greekName":"Δεξιθέα",
+		"description":"mother of Euxanthios by Minos",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Lycos/Lyktos", 
+		"greekName":"Λύκος/Λύκτος", 
+		"description":"",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Lysagora",
+		"greekName":"Λυσαγόρα",
+		"description":"",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Makelo",
+		"greekName":"Μακελώ",
+		"description":"",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Megalesius",
+		"greekName":"Μεγαλήσιος",
+		"description":"",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Mylas",
+		"greekName":"Μύλας",
+		"description":"",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Nikon",
+		"greekName":"Νίκων",
+		"description":"",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Ormenos",
+		"greekName":"Ορμενος",
+		"description":"",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Simon",
+		"greekName":"Σίμων",
+		"description":"",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Skelmis",
+		"greekName":"Σκελμις",
+		"description":"",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Tethys",
+		"greekName":"Τηθύς",
+		"description":"Titan goddess of the sources fresh water, and the mother of the rivers, springs, streams, fountains, and clouds",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Thalassa",
+		"greekName":"Θάλασσα",
+		"description":"primeval goddess of the sea and consort of Pontos",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Thaumas",
+		"greekName":"Θαῦμας",
+		"description":"god of the wonders of the sea",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Thoosa",
+		"greekName":"Θόοσα",
+		"description":"goddess of swift currents",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Triteia",
+		"greekName":"Τριτεια",
+		"description":"daughter of Triton and companion of Ares",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Triton",
+		"greekName":"Τρίτων",
+		"description":"fish-tailed son and herald of Poseidon",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Tritones",
+		"greekName":"Τρίτωνες",
+		"description":"fish-tailed spirits in Poseidon's retinue",
+		"romanName": "",
+		"category": "sea deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	}
 ]

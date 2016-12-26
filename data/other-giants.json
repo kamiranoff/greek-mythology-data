@@ -1,0 +1,555 @@
+
+[
+	{
+		"name":"Otus/Otos (Aloadae)",
+		"greekName":"Ότος (Ἀλῳάδαι)",
+		"description":"twin giants who attempted to climb to Olympus by piling mountains on top of each other.",
+		"romanName": "",
+		"category": "giant",
+		"immortal": "immortal",
+		"gender": "male",
+		"images": [
+			{
+				"thumbnail": ""
+			},
+			{
+				"regular": ""
+			}
+		],
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		},
+	},
+	{
+		"name":"Ephialtes (Aloadae)",
+		"greekName":"Εφιάλτης (Ἀλῳάδαι)",
+		"description":"twin giants who attempted to climb to Olympus by piling mountains on top of each other.",
+		"romanName": "",
+		"category": "giant",
+		"immortal": "immortal",
+		"gender": "male",
+		"images": [
+			{
+				"thumbnail": ""
+			},
+			{
+				"regular": ""
+			}
+		],
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		},
+	},
+	{
+		"name":"Anax",
+		"greekName":"Αναξ", 
+		"description":"was a giant of the island of Lade near Miletos in Lydia, Anatolia.",
+		"romanName": "",
+		"category": "giant",
+		"immortal": "immortal",
+		"gender": "male",
+		"images": [
+			{
+				"thumbnail": ""
+			},
+			{
+				"regular": ""
+			}
+		],
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		},
+	},
+	{
+		"name":"Antaeus",
+		"greekName":"Ἀνταῖος",
+		"description":"a Libyan giant who wrestled all visitors to the death until he was slain by Heracles",
+		"romanName": "",
+		"category": "giant",
+		"immortal": "immortal",
+		"gender": "male",
+		"images": [
+			{
+				"thumbnail": ""
+			},
+			{
+				"regular": ""
+			}
+		],
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		},
+	},
+	{
+		"name":"Antiphates",
+		"greekName":"Ἀντιφάτης",
+		"description":"the king of the man-eating giants known as Laestrygones which were encountered by Odysseus on his travels.",
+		"romanName": "",
+		"category": "giant",
+		"immortal": "immortal",
+		"gender": "male",
+		"images": [
+			{
+				"thumbnail": ""
+			},
+			{
+				"regular": ""
+			}
+		],
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		},
+	},
+	{
+		"name":"Argus Panoptes",
+		"greekName":"Ἄργος Πανόπτης", 
+		"description":"a hundred-eyed giant tasked with guarding over Io",
+		"romanName": "",
+		"category": "giant",
+		"immortal": "immortal",
+		"gender": "male",
+		"images": [
+			{
+				"thumbnail": ""
+			},
+			{
+				"regular": ""
+			}
+		],
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		},
+	},
+	{
+		"name":"Asterius",
+		"greekName":"Αστεριος",
+		"description":"a Lydian giant.",
+		"romanName": "",
+		"category": "giant",
+		"immortal": "immortal",
+		"gender": "male",
+		"images": [
+			{
+				"thumbnail": ""
+			},
+			{
+				"regular": ""
+			}
+		],
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		},
+	},
+	{
+		"name":"Cacus",
+		"greekName":"Κακος",
+		"description":"a fire-breathing Latin giant slain by Heracles.",
+		"romanName": "",
+		"category": "giant",
+		"immortal": "immortal",
+		"gender": "male",
+		"images": [
+			{
+				"thumbnail": ""
+			},
+			{
+				"regular": ""
+			}
+		],
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		},
+	},
+	{
+		"name":"Arges (Elder Cyclopes)",
+		"greekName":"Ἄργης",
+		"description":"One of three one-eyed giants who forged the lightning-bolts of Zeus, Trident of Poseidon and Helmet of Hades",
+		"romanName": "",
+		"category": "giant",
+		"immortal": "immortal",
+		"gender": "male",
+		"images": [
+			{
+				"thumbnail": ""
+			},
+			{
+				"regular": ""
+			}
+		],
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		},
+	},
+	{
+		"name":"Brontes (Elder Cyclopes)",
+		"greekName":"Βρόντης",
+		"description":"One of three one-eyed giants who forged the lightning-bolts of Zeus, Trident of Poseidon and Helmet of Hades",
+		"romanName": "",
+		"category": "giant",
+		"immortal": "immortal",
+		"gender": "male",
+		"images": [
+			{
+				"thumbnail": ""
+			},
+			{
+				"regular": ""
+			}
+		],
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		},
+	},
+	{
+		"name":"Steropes (Elder Cyclopes)",
+		"greekName":"Στερόπης",
+		"description":"One of three one-eyed giants who forged the lightning-bolts of Zeus, Trident of Poseidon and Helmet of Hades",
+		"romanName": "",
+		"category": "giant",
+		"immortal": "immortal",
+		"gender": "male",
+		"images": [
+			{
+				"thumbnail": ""
+			},
+			{
+				"regular": ""
+			}
+		],
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		},
+	},
+	{
+		"name":"Polyphemus",
+		"greekName":"Πολύφημος",
+		"description":"a cyclops who briefly captured Odysseus and his men, only to be overcome and blinded by the hero",
+		"romanName": "",
+		"category": "giant",
+		"immortal": "immortal",
+		"gender": "male",
+		"images": [
+			{
+				"thumbnail": ""
+			},
+			{
+				"regular": ""
+			}
+		],
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		},
+	},
+	{
+		"name":"Gegenees",
+		"greekName":"Γηγενέες",
+		"description":"a tribe of six-armed giants fought by the Argonauts on Bear Mountain in Mysia",
+		"romanName": "",
+		"category": "giant",
+		"immortal": "immortal",
+		"gender": "male",
+		"images": [
+			{
+				"thumbnail": ""
+			},
+			{
+				"regular": ""
+			}
+		],
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		},
+	},
+	{
+		"name":"Geryon",
+		"greekName":"Γηρυων",
+		"description":"a three-bodied giant who dwelt on the sunset isle at the ends of the earth. He was slain by Heracles when the hero arrived to fetch the giant's cattle as one of his twelve labours.",
+		"romanName": "",
+		"category": "giant",
+		"immortal": "immortal",
+		"gender": "male",
+		"images": [
+			{
+				"thumbnail": ""
+			},
+			{
+				"regular": ""
+			}
+		],
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		},
+	},
+	{
+		"name":"Hekatonkheires",
+		"greekName":"Ἑκατόγχειρες",
+		"romanName":"Centimanes",
+		"description":"the Hundred-Handed Ones, giant gods of violent storms and hurricanes. Three sons of Uranus and Gaia, each with their own distinct characters.",
+		"category": "giant",
+		"immortal": "immortal",
+		"gender": "male",
+		"images": [
+			{
+				"thumbnail": ""
+			},
+			{
+				"regular": ""
+			}
+		],
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		},
+	},
+	{
+		"name":"Briareus",
+		"greekName":"Βριάρεως",
+		"description":"or Aigaion (Αἰγαίων), The Vigorous - see [Hekatonkheires]",
+		"romanName": "",
+		"category": "giant",
+		"immortal": "immortal",
+		"gender": "male",
+		"images": [
+			{
+				"thumbnail": ""
+			},
+			{
+				"regular": ""
+			}
+		],
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		},
+	},
+	{
+		"name":"Cottus",
+		"greekName":"Κόττος",
+		"description":"The Furious - see [Hekatonkheires]",
+		"romanName": "",
+		"category": "giant",
+		"immortal": "immortal",
+		"gender": "male",
+		"images": [
+			{
+				"thumbnail": ""
+			},
+			{
+				"regular": ""
+			}
+		],
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		},
+	},
+	{
+		"name":"Gyges",
+		"greekName":"Γύγης",
+		"description":"The Big-Limbed - see [Hekatonkheires]",
+		"romanName": "",
+		"category": "giant",
+		"immortal": "immortal",
+		"gender": "male",
+		"images": [
+			{
+				"thumbnail": ""
+			},
+			{
+				"regular": ""
+			}
+		],
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		},
+	},
+	{
+		"name":"Laestrygonians",
+		"greekName":"Λαιστρυγόνες",
+		"description":"a tribe of man-eating giants encountered by Odysseus on his travels",
+		"romanName": "",
+		"category": "giant",
+		"immortal": "immortal",
+		"gender": "male",
+		"images": [
+			{
+				"thumbnail": ""
+			},
+			{
+				"regular": ""
+			}
+		],
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		},
+	},
+	{
+		"name":"Orion",
+		"greekName":"Ὠρίων",
+		"description":"a giant huntsman whom Zeus placed among the stars as the constellation of Orion",
+		"romanName": "",
+		"category": "giant",
+		"immortal": "immortal",
+		"gender": "male",
+		"images": [
+			{
+				"thumbnail": ""
+			},
+			{
+				"regular": ""
+			}
+		],
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		},
+	},
+	{
+		"name":"Talos",
+		"greekName":"Τάλως",
+		"description":"a giant forged from bronze by Hephaestus, and given by Zeus to his lover Europa as her personal protector",
+		"romanName": "",
+		"category": "giant",
+		"immortal": "immortal",
+		"gender": "male",
+		"images": [
+			{
+				"thumbnail": ""
+			},
+			{
+				"regular": ""
+			}
+		],
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		},
+	},
+	{
+		"name":"Tityos",
+		"greekName":"Τίτυος",
+		"description":"a giant slain by Apollo and Artemis when he attempted to violate their mother Leto.",
+		"romanName": "",
+		"category": "giant",
+		"immortal": "immortal",
+		"gender": "male",
+		"images": [
+			{
+				"thumbnail": ""
+			},
+			{
+				"regular": ""
+			}
+		],
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		},
+	},
+	{
+		"name":"Typhon",
+		"greekName":"Τυφῶν",
+		"description":"a monstrous immortal storm-giant who attempted to launch an attack on Mt. Olympus but was defeated by the Olympians and imprisoned in the pits of Tartarus",
+		"romanName": "",
+		"category": "giant",
+		"immortal": "immortal",
+		"gender": "male",
+		"images": [
+			{
+				"thumbnail": ""
+			},
+			{
+				"regular": ""
+			}
+		],
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	}
+]
