@@ -1,0 +1,722 @@
+[
+  {
+    "name": "Achilles",
+    "greekName": "Ἀχιλλεύς",
+    "description": "hero of the Trojan War",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Aiakos",
+    "greekName": "Αἰακός",
+    "description": "a king of Aegina, appointed as a Judge of the Dead in the Underworld after his death",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Aeolus",
+    "greekName": "Αἴολος",
+    "description": "a king of Thessaly, made the immortal king of the winds by Zeus",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Alabandus",
+    "greekName": "Ἀλάβανδος",
+    "description": "he was the founder of the town of Alabanda",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Amphiaraus",
+    "greekName": "Ἀμφιάραος",
+    "description": "a hero of the war of the Seven Against Thebes who became an oracular spirit of the Underworld after his death",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Ariadne",
+    "greekName": "Αριάδνη",
+    "description": "a Cretan princess who became the immortal wife of Dionysus",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Aristaeus",
+    "greekName": "Ἀρισταῖος",
+    "description": "a Thessalian hero, his inventions saw him immortalised as the god of bee-keeping, cheese-making, herding, olive-growing, and hunting",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Asclepius",
+    "greekName": "Ἀσκληπιός",
+    "description": "a Thessalian physician who was struck down by Zeus, to be later recovered by his father Apollo",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Attis",
+    "greekName": "Ἄττις",
+    "description": "a consort of Cybele, granted immortality as one of her attendants",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Bolina",
+    "greekName": "Βολίνα",
+    "description": "a mortal woman transformed into an immortal nymph by Apollo",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "The Dioscuri",
+    "greekName": "Διόσκουροι",
+    "description": "divine twins",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Castor",
+    "greekName": "Κάστωρ",
+    "description": "The Dioscuri - One of the divine twins",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Pollux",
+    "greekName": "Πολυδεύκης",
+    "description": "The Dioscuri - One of the divine twins",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Endymion",
+    "greekName": "Ἐνδυμίων",
+    "description": "lover of Selene, granted eternal sleep so as never to age or die",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Ganymede",
+    "greekName": "Γανυμήδης",
+    "description": "a handsome Trojan prince, abducted by Zeus and made cup-bearer of the gods",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Glaucus",
+    "greekName": "Γλαῦκος",
+    "description": "the fisherman's sea god, made immortal after eating a magical herb",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Hemithea and Parthenos",
+    "greekName": "Ἡμιθέα and Παρθένος",
+    "description": "princesses of the Island of Naxos who leapt into the sea to escape their father's wrath; Apollo transformed them into demi-goddesses",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Heracles",
+    "greekName": "Ἡρακλῆς",
+    "description": "ascended hero",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Lampsace",
+    "greekName": "Λαμψάκη",
+    "description": "a semi-historical Bebrycian princess honored as goddess for her assistance to the Greeks",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Minos",
+    "greekName": "Μίνως",
+    "description": "a king of Crete, appointed as a Judge of the Dead in the Underworld after his death",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Ino",
+    "greekName": "Ἰνώ",
+    "description": "a Theban princess who became the sea goddess Leucothea",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Tenes",
+    "greekName": "Τέννης",
+    "description": "was a hero of the island of Tenedos",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "The Leucippides",
+    "greekName": "Λευκιππίδες",
+    "description": "wives of the Dioscuri",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Phoebe",
+    "greekName": "Φοίβη",
+    "description": "wife of Pollux",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Hilaera",
+    "greekName": "Ἱλάειρα",
+    "description": "wife of Castor",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Orithyia",
+    "greekName": "Ὠρείθυια",
+    "description": "an Athenian princess abducted by Boreas and made the goddess of cold, gusty mountain winds",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Palaemon",
+    "greekName": "Παλαίμων",
+    "description": "a Theban prince, made into a sea god along with his mother, Ino",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Phylonoe",
+    "greekName": "Φυλονόη",
+    "description": "daughter of Tyndareus and Leda, made immortal by Artemis",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Psyche",
+    "greekName": "Ψυχή",
+    "description": "goddess of the soul",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Semele",
+    "greekName": "Σεμελη",
+    "description": "mortal mother of Dionysus, who later was made the goddess Thyone (Θυωνη)",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  }
+]

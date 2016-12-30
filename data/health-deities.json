@@ -1,0 +1,194 @@
+[
+  {
+    "name": "Asclepius",
+    "greekName": "Ασκληπιός",
+    "description": "god of healing",
+    "romanName": "",
+    "category": "health deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Aceso",
+    "greekName": "Ἀκεσώ",
+    "description": "goddess of the healing of wounds and the curing of illnesses",
+    "romanName": "",
+    "category": "health deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Aegle",
+    "greekName": "Αἴγλη",
+    "description": "goddess of radiant good health",
+    "romanName": "",
+    "category": "health deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Epione",
+    "greekName": "Ἠπιόνη",
+    "description": "goddess of the soothing of pain",
+    "romanName": "",
+    "category": "health deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Hygieia",
+    "greekName": "Ὑγεία",
+    "description": "goddess of cleanliness and good health",
+    "romanName": "",
+    "category": "health deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Iaso",
+    "greekName": "Ἰασώ",
+    "description": "goddess of cures, remedies, and modes of healing",
+    "romanName": "",
+    "category": "health deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Panacea",
+    "greekName": "Πανάκεια",
+    "description": "goddess of healing",
+    "romanName": "",
+    "category": "health deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Telesphorus",
+    "greekName": "Τελεσφόρος",
+    "description": "demi-god of convalescence, who \"brought to fulfillment\" recuperation from illness or injury",
+    "romanName": "",
+    "category": "health deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  }
+]

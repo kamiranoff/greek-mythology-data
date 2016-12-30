@@ -1,0 +1,1634 @@
+[
+  {
+    "name": "Acratopotes",
+    "greekName": "Ἀκρατοπότης",
+    "description": "god of unmixed wine",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Adrastea",
+    "greekName": "Αδράστεια",
+    "description": "a daughter of Ares and Aphrodite, or an epithet of Nemesis",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Agdistis",
+    "greekName": "Ἄγδιστις",
+    "description": "Phrygian hermaphroditic deity",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "male/female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Alexiares",
+    "greekName": "Αλεξιαρης",
+    "description": "one of the twin sons of Heracles who presided over the defence of fortified towns and citadels",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Anicetus",
+    "greekName": "Ανικητος",
+    "description": "one of the twin sons of Heracles who presided over the defence of fortified towns and citadels",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Aphroditus",
+    "greekName": "Ἀφρόδιτος",
+    "description": "Cyprian hermaphroditic Aphrodite",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "male/female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Astraea",
+    "greekName": "Αστραία",
+    "description": "virgin goddess of justice",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Auxesia and Damia",
+    "greekName": "Αυξησία and Δαμία",
+    "description": "two local fertility goddesses",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Charites",
+    "greekName": "Χάριτες",
+    "description": "goddesses of charm, beauty, nature, human creativity, and fertility",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Aglaea",
+    "greekName": "Αγλαΐα",
+    "description": "goddess of beauty, adornment, splendor and glory",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Euphrosyne",
+    "greekName": "Εὐφροσύνη",
+    "description": "goddess of good cheer, joy, mirth, and merriment",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Thalia",
+    "greekName": "Θάλεια",
+    "description": "goddess of festive celebrations and rich and luxurious banquets",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Hegemone",
+    "greekName": "Ηγεμόνη",
+    "description": "\"mastery\"",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Antheia",
+    "greekName": "Άνθεια",
+    "description": "goddess of flowers and flowery wreaths",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Pasithea",
+    "greekName": "Πασιθέα",
+    "description": "goddess of rest and relaxation",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Cleta",
+    "greekName": "Κλήτα",
+    "description": "\"the glorious\"",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Phaenna",
+    "greekName": "Φαέννα",
+    "description": "\"the shining\"",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Eudaimonia",
+    "greekName": "Ευδαιμονία",
+    "description": "\"happiness\"",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Euthymia",
+    "greekName": "Ευθυμία",
+    "description": "\"good mood\"",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Calleis",
+    "greekName": "Καλλείς",
+    "description": "\"beauty\"",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Paidia",
+    "greekName": "Παιδία",
+    "description": "\"play, amusement\"",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Pandaisia",
+    "greekName": "Πανδαισία",
+    "description": "\"banquet for everyone\"",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Pannychis",
+    "greekName": "Παννυχίς",
+    "description": "\"all-night (festivity)\"",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Ceraon",
+    "greekName": "Κεραων",
+    "description": "demi-god of the meal, specifically the mixing of wine",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Chrysus",
+    "greekName": "Χρύσος",
+    "description": "spirit of gold",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Circe",
+    "greekName": "Κίρκη",
+    "description": "goddess-witch of Aeaea",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Daemones Ceramici",
+    "greekName": "Δαίμονες Κεραμικοί",
+    "description": "five malevolent spirits who plagued the craftsman potter",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Syntribos",
+    "greekName": "Σύντριβος",
+    "description": "Daemones Ceramici - the shatterer",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Smaragos",
+    "greekName": "Σμάραγος",
+    "description": "Daemones Ceramici - the smasher",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Asbetos",
+    "greekName": "Ασβετος",
+    "description": "Daemones Ceramici - the charrer",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Sabaktes",
+    "greekName": "Σαβάκτης",
+    "description": "Daemones Ceramici - the destroyer",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Omodamos",
+    "greekName": "Ωμόδαμος",
+    "description": "Daemones Ceramici - crudebake",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Deipneus",
+    "greekName": "Δειπνεύς",
+    "description": "demi-god of the preparation of meals, specifically the making of bread",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Eiresione",
+    "greekName": "Ειρεσιώνη",
+    "description": "personification of the olive branch",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Eileithyia",
+    "greekName": "Εἰλείθυια",
+    "description": "goddess of childbirth",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Enyalius",
+    "greekName": "Ενυάλιος",
+    "description": "minor god of war",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Enyo",
+    "greekName": "Ἐνυώ",
+    "description": "goddess of destructive war",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Harpocrates",
+    "greekName": "Ἁρποκράτης",
+    "description": "god of silence",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Hermaphroditus",
+    "greekName": "Ἑρμάφρόδιτός",
+    "description": "god of hermaphrodites and effeminate men",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Hymenaios",
+    "greekName": "Ὑμέναιος",
+    "description": "god of marriage and marriage feasts",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Ichnaea",
+    "greekName": "Ιχναία",
+    "description": "goddess of tracking",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Iynx",
+    "greekName": "Ιύνξ",
+    "description": "goddess of the love charm",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Matton",
+    "greekName": "Μάττων",
+    "description": "demi-god of the meal, specifically the kneading of dough",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Muses",
+    "greekName": "Μούσαι",
+    "description": "goddesses of music, song and dance, and the source of inspiration to poets",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Aoide",
+    "greekName": "Ἀοιδή",
+    "description": "Titan Muse - daughter of Uranus and Gaia - muse of song",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Arche",
+    "greekName": "Αρχή",
+    "description": "Titan Muse - daughter of Uranus and Gaia - muse of origins",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Melete",
+    "greekName": "Μελέτη",
+    "description": "Titan Muse - daughter of Uranus and Gaia - muse of meditation and practice",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Mneme",
+    "greekName": "Μνήμη",
+    "description": "Titan Muse - daughter of Uranus and Gaia - muse of memory",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Thelxinoe",
+    "greekName": "Θελξινόη",
+    "description": "Titan Muse - daughter of Uranus and Gaia - muse \"charmer of minds\"",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Calliope",
+    "greekName": "Καλλιόπη",
+    "description": "Olympian Muses - daughter of Zeus and Mnemosyne - muse of epic poetry",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Clio",
+    "greekName": "Κλειώ",
+    "description": "Olympian Muses - daughter of Zeus and Mnemosyne - muse of history",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Euterpe",
+    "greekName": "Ευτέρπη",
+    "description": "Olympian Muses - daughter of Zeus and Mnemosyne - muse of musical poetry",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Erato",
+    "greekName": "Ερατώ",
+    "description": "Olympian Muses - daughter of Zeus and Mnemosyne - muse of lyric poetry",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Melpomene",
+    "greekName": "Μελπομένη",
+    "description": "Olympian Muses - daughter of Zeus and Mnemosyne - muse of tragedy",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Polyhymnia",
+    "greekName": "Πολυμνία or Πολύμνια",
+    "description": "Olympian Muses - daughter of Zeus and Mnemosyne - muse of sacred poetry",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Terpsichore",
+    "greekName": "Τερψιχόρη",
+    "description": "Olympian Muses - daughter of Zeus and Mnemosyne - muse of dance and choral poetry",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Thalia",
+    "greekName": "Θάλεια",
+    "description": "Olympian Muses - daughter of Zeus and Mnemosyne - muse of comedy and bucolic poetry",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Urania",
+    "greekName": "Ουρανία",
+    "description": "Olympian Muses - daughter of Zeus and Mnemosyne - muse of astronomy",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Cephisso",
+    "greekName": "Κεφισσώ",
+    "description": "Younger Muse, daughter of Apollo",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Apollonis",
+    "greekName": "Απολλωνίς",
+    "description": "Younger Muse, daughter of Apollo",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Borysthenis",
+    "greekName": "Βορυσθενίς",
+    "description": "Younger Muse, daughter of Apollo",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Hypate",
+    "greekName": "Υπάτη",
+    "description": "Younger Muse, daughter of Apollo - \"the upper (chord of the lyre)\"",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Mese",
+    "greekName": "Μέση",
+    "description": "Younger Muse, daughter of Apollo - \"the middle (chord of the lyre)\"",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Nete",
+    "greekName": "Νήτη",
+    "description": "Younger Muse, daughter of Apollo - \"the lower (chord of the lyre)\"",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Polymatheia",
+    "greekName": "Πολυμάθεια",
+    "description": "muse of knowledge",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Palaestra",
+    "greekName": "Παλαίστρα",
+    "description": "goddess of wrestling",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Rhapso",
+    "greekName": "Ραψώ",
+    "description": "minor goddess or nymph whose name apparently refers to sewing",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Taraxippus",
+    "greekName": "Ταράξιππος",
+    "description": "ghost that frightened horses",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  }
+]

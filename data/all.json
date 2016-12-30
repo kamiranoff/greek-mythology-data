@@ -11722,5 +11722,7482 @@
       "lovers": [],
       "children": []
     }
+  },
+   {
+    "name": "Adonis",
+    "greekName": "Άδωνις",
+    "description": " a life-death-rebirth deity",
+    "romanName": "",
+    "category": "agricultural deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Aphaea",
+    "greekName": "Αφαία",
+    "description": " minor goddess of agriculture and fertility",
+    "romanName": "",
+    "category": "agricultural deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Carme",
+    "greekName": "Κάρμη",
+    "description": " a Cretan spirit who presided over the harvest festival",
+    "romanName": "",
+    "category": "agricultural deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Carmanor",
+    "greekName": "Καρμάνωρ",
+    "description": " a Cretan harvest god",
+    "romanName": "",
+    "category": "agricultural deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Chrysothemis",
+    "greekName": "Χρυσόθεμις",
+    "description": " goddess of the \"Golden Custom\", a harvest festival, daughter of Demeter and Carmanor",
+    "romanName": "",
+    "category": "agricultural deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Cyamites",
+    "greekName": "Κυαμίτης",
+    "description": " demi-god of the bean",
+    "romanName": "",
+    "category": "agricultural deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Demeter",
+    "greekName": "Δημήτηρ",
+    "description": " goddess of fertility, agriculture, grain, and harvest",
+    "romanName": "",
+    "category": "agricultural deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Despoina",
+    "greekName": "Δέσποινη",
+    "description": " daughter of Poseidon and Demeter, goddess of mysteries in Arcadia",
+    "romanName": "",
+    "category": "agricultural deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Dionysus",
+    "greekName": "Διόνυσος",
+    "description": " god of viticulture and wine",
+    "romanName": "",
+    "category": "agricultural deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Eunostus",
+    "greekName": "Εύνοστος",
+    "description": " goddess of the flour mill",
+    "romanName": "",
+    "category": "agricultural deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Hestia",
+    "greekName": "Ἑστία",
+    "description": " maiden goddess of the hearth who presided over the baking of bread, mankind's stable food",
+    "romanName": "",
+    "category": "agricultural deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Persephone",
+    "greekName": "Περσεφόνη",
+    "description": " queen of the underworld, wife of Hades and goddess of spring growth",
+    "romanName": "",
+    "category": "agricultural deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Philomelus",
+    "greekName": "Φιλόμελος",
+    "description": " agricultural demi-god inventor of the wagon and the plough",
+    "romanName": "",
+    "category": "agricultural deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Plutus",
+    "greekName": "Πλοῦτος",
+    "description": " god of wealth, including agricultural wealth, son of Demeter",
+    "romanName": "",
+    "category": "agricultural deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Triptolemus",
+    "greekName": "Τριπτόλεμος",
+    "description": " god of farming and agriculture, he brought agriculture to Greece",
+    "romanName": "",
+    "category": "agricultural deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+    {
+    "name": "Asclepius",
+    "greekName": "Ασκληπιός",
+    "description": "god of healing",
+    "romanName": "",
+    "category": "health deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Aceso",
+    "greekName": "Ἀκεσώ",
+    "description": "goddess of the healing of wounds and the curing of illnesses",
+    "romanName": "",
+    "category": "health deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Aegle",
+    "greekName": "Αἴγλη",
+    "description": "goddess of radiant good health",
+    "romanName": "",
+    "category": "health deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Epione",
+    "greekName": "Ἠπιόνη",
+    "description": "goddess of the soothing of pain",
+    "romanName": "",
+    "category": "health deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Hygieia",
+    "greekName": "Ὑγεία",
+    "description": "goddess of cleanliness and good health",
+    "romanName": "",
+    "category": "health deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Iaso",
+    "greekName": "Ἰασώ",
+    "description": "goddess of cures, remedies, and modes of healing",
+    "romanName": "",
+    "category": "health deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Panacea",
+    "greekName": "Πανάκεια",
+    "description": "goddess of healing",
+    "romanName": "",
+    "category": "health deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Telesphorus",
+    "greekName": "Τελεσφόρος",
+    "description": "demi-god of convalescence, who \"brought to fulfillment\" recuperation from illness or injury",
+    "romanName": "",
+    "category": "health deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+   {
+    "name": "Acratopotes",
+    "greekName": "Ἀκρατοπότης",
+    "description": "god of unmixed wine",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Adrastea",
+    "greekName": "Αδράστεια",
+    "description": "a daughter of Ares and Aphrodite, or an epithet of Nemesis",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Agdistis",
+    "greekName": "Ἄγδιστις",
+    "description": "Phrygian hermaphroditic deity",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "male/female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Alexiares",
+    "greekName": "Αλεξιαρης",
+    "description": "one of the twin sons of Heracles who presided over the defence of fortified towns and citadels",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Anicetus",
+    "greekName": "Ανικητος",
+    "description": "one of the twin sons of Heracles who presided over the defence of fortified towns and citadels",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Aphroditus",
+    "greekName": "Ἀφρόδιτος",
+    "description": "Cyprian hermaphroditic Aphrodite",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "male/female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Astraea",
+    "greekName": "Αστραία",
+    "description": "virgin goddess of justice",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Auxesia and Damia",
+    "greekName": "Αυξησία and Δαμία",
+    "description": "two local fertility goddesses",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Charites",
+    "greekName": "Χάριτες",
+    "description": "goddesses of charm, beauty, nature, human creativity, and fertility",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Aglaea",
+    "greekName": "Αγλαΐα",
+    "description": "goddess of beauty, adornment, splendor and glory",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Euphrosyne",
+    "greekName": "Εὐφροσύνη",
+    "description": "goddess of good cheer, joy, mirth, and merriment",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Thalia",
+    "greekName": "Θάλεια",
+    "description": "goddess of festive celebrations and rich and luxurious banquets",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Hegemone",
+    "greekName": "Ηγεμόνη",
+    "description": "\"mastery\"",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Antheia",
+    "greekName": "Άνθεια",
+    "description": "goddess of flowers and flowery wreaths",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Pasithea",
+    "greekName": "Πασιθέα",
+    "description": "goddess of rest and relaxation",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Cleta",
+    "greekName": "Κλήτα",
+    "description": "\"the glorious\"",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Phaenna",
+    "greekName": "Φαέννα",
+    "description": "\"the shining\"",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Eudaimonia",
+    "greekName": "Ευδαιμονία",
+    "description": "\"happiness\"",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Euthymia",
+    "greekName": "Ευθυμία",
+    "description": "\"good mood\"",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Calleis",
+    "greekName": "Καλλείς",
+    "description": "\"beauty\"",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Paidia",
+    "greekName": "Παιδία",
+    "description": "\"play, amusement\"",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Pandaisia",
+    "greekName": "Πανδαισία",
+    "description": "\"banquet for everyone\"",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Pannychis",
+    "greekName": "Παννυχίς",
+    "description": "\"all-night (festivity)\"",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Ceraon",
+    "greekName": "Κεραων",
+    "description": "demi-god of the meal, specifically the mixing of wine",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Chrysus",
+    "greekName": "Χρύσος",
+    "description": "spirit of gold",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Circe",
+    "greekName": "Κίρκη",
+    "description": "goddess-witch of Aeaea",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Daemones Ceramici",
+    "greekName": "Δαίμονες Κεραμικοί",
+    "description": "five malevolent spirits who plagued the craftsman potter",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Syntribos",
+    "greekName": "Σύντριβος",
+    "description": "Daemones Ceramici - the shatterer",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Smaragos",
+    "greekName": "Σμάραγος",
+    "description": "Daemones Ceramici - the smasher",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Asbetos",
+    "greekName": "Ασβετος",
+    "description": "Daemones Ceramici - the charrer",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Sabaktes",
+    "greekName": "Σαβάκτης",
+    "description": "Daemones Ceramici - the destroyer",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Omodamos",
+    "greekName": "Ωμόδαμος",
+    "description": "Daemones Ceramici - crudebake",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Deipneus",
+    "greekName": "Δειπνεύς",
+    "description": "demi-god of the preparation of meals, specifically the making of bread",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Eiresione",
+    "greekName": "Ειρεσιώνη",
+    "description": "personification of the olive branch",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Eileithyia",
+    "greekName": "Εἰλείθυια",
+    "description": "goddess of childbirth",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Enyalius",
+    "greekName": "Ενυάλιος",
+    "description": "minor god of war",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Enyo",
+    "greekName": "Ἐνυώ",
+    "description": "goddess of destructive war",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Harpocrates",
+    "greekName": "Ἁρποκράτης",
+    "description": "god of silence",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Hermaphroditus",
+    "greekName": "Ἑρμάφρόδιτός",
+    "description": "god of hermaphrodites and effeminate men",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Hymenaios",
+    "greekName": "Ὑμέναιος",
+    "description": "god of marriage and marriage feasts",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Ichnaea",
+    "greekName": "Ιχναία",
+    "description": "goddess of tracking",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Iynx",
+    "greekName": "Ιύνξ",
+    "description": "goddess of the love charm",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Matton",
+    "greekName": "Μάττων",
+    "description": "demi-god of the meal, specifically the kneading of dough",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Muses",
+    "greekName": "Μούσαι",
+    "description": "goddesses of music, song and dance, and the source of inspiration to poets",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Aoide",
+    "greekName": "Ἀοιδή",
+    "description": "Titan Muse - daughter of Uranus and Gaia - muse of song",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Arche",
+    "greekName": "Αρχή",
+    "description": "Titan Muse - daughter of Uranus and Gaia - muse of origins",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Melete",
+    "greekName": "Μελέτη",
+    "description": "Titan Muse - daughter of Uranus and Gaia - muse of meditation and practice",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Mneme",
+    "greekName": "Μνήμη",
+    "description": "Titan Muse - daughter of Uranus and Gaia - muse of memory",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Thelxinoe",
+    "greekName": "Θελξινόη",
+    "description": "Titan Muse - daughter of Uranus and Gaia - muse \"charmer of minds\"",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Calliope",
+    "greekName": "Καλλιόπη",
+    "description": "Olympian Muses - daughter of Zeus and Mnemosyne - muse of epic poetry",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Clio",
+    "greekName": "Κλειώ",
+    "description": "Olympian Muses - daughter of Zeus and Mnemosyne - muse of history",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Euterpe",
+    "greekName": "Ευτέρπη",
+    "description": "Olympian Muses - daughter of Zeus and Mnemosyne - muse of musical poetry",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Erato",
+    "greekName": "Ερατώ",
+    "description": "Olympian Muses - daughter of Zeus and Mnemosyne - muse of lyric poetry",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Melpomene",
+    "greekName": "Μελπομένη",
+    "description": "Olympian Muses - daughter of Zeus and Mnemosyne - muse of tragedy",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Polyhymnia",
+    "greekName": "Πολυμνία or Πολύμνια",
+    "description": "Olympian Muses - daughter of Zeus and Mnemosyne - muse of sacred poetry",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Terpsichore",
+    "greekName": "Τερψιχόρη",
+    "description": "Olympian Muses - daughter of Zeus and Mnemosyne - muse of dance and choral poetry",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Thalia",
+    "greekName": "Θάλεια",
+    "description": "Olympian Muses - daughter of Zeus and Mnemosyne - muse of comedy and bucolic poetry",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Urania",
+    "greekName": "Ουρανία",
+    "description": "Olympian Muses - daughter of Zeus and Mnemosyne - muse of astronomy",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Cephisso",
+    "greekName": "Κεφισσώ",
+    "description": "Younger Muse, daughter of Apollo",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Apollonis",
+    "greekName": "Απολλωνίς",
+    "description": "Younger Muse, daughter of Apollo",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Borysthenis",
+    "greekName": "Βορυσθενίς",
+    "description": "Younger Muse, daughter of Apollo",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Hypate",
+    "greekName": "Υπάτη",
+    "description": "Younger Muse, daughter of Apollo - \"the upper (chord of the lyre)\"",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Mese",
+    "greekName": "Μέση",
+    "description": "Younger Muse, daughter of Apollo - \"the middle (chord of the lyre)\"",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Nete",
+    "greekName": "Νήτη",
+    "description": "Younger Muse, daughter of Apollo - \"the lower (chord of the lyre)\"",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Polymatheia",
+    "greekName": "Πολυμάθεια",
+    "description": "muse of knowledge",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Palaestra",
+    "greekName": "Παλαίστρα",
+    "description": "goddess of wrestling",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Rhapso",
+    "greekName": "Ραψώ",
+    "description": "minor goddess or nymph whose name apparently refers to sewing",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Taraxippus",
+    "greekName": "Ταράξιππος",
+    "description": "ghost that frightened horses",
+    "romanName": "",
+    "category": "other deity",
+    "immortal": "immortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Achilles",
+    "greekName": "Ἀχιλλεύς",
+    "description": "hero of the Trojan War",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Aiakos",
+    "greekName": "Αἰακός",
+    "description": "a king of Aegina, appointed as a Judge of the Dead in the Underworld after his death",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Aeolus",
+    "greekName": "Αἴολος",
+    "description": "a king of Thessaly, made the immortal king of the winds by Zeus",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Alabandus",
+    "greekName": "Ἀλάβανδος",
+    "description": "he was the founder of the town of Alabanda",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Amphiaraus",
+    "greekName": "Ἀμφιάραος",
+    "description": "a hero of the war of the Seven Against Thebes who became an oracular spirit of the Underworld after his death",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Ariadne",
+    "greekName": "Αριάδνη",
+    "description": "a Cretan princess who became the immortal wife of Dionysus",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Aristaeus",
+    "greekName": "Ἀρισταῖος",
+    "description": "a Thessalian hero, his inventions saw him immortalised as the god of bee-keeping, cheese-making, herding, olive-growing, and hunting",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Asclepius",
+    "greekName": "Ἀσκληπιός",
+    "description": "a Thessalian physician who was struck down by Zeus, to be later recovered by his father Apollo",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Attis",
+    "greekName": "Ἄττις",
+    "description": "a consort of Cybele, granted immortality as one of her attendants",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Bolina",
+    "greekName": "Βολίνα",
+    "description": "a mortal woman transformed into an immortal nymph by Apollo",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "The Dioscuri",
+    "greekName": "Διόσκουροι",
+    "description": "divine twins",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Castor",
+    "greekName": "Κάστωρ",
+    "description": "The Dioscuri - One of the divine twins",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Pollux",
+    "greekName": "Πολυδεύκης",
+    "description": "The Dioscuri - One of the divine twins",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Endymion",
+    "greekName": "Ἐνδυμίων",
+    "description": "lover of Selene, granted eternal sleep so as never to age or die",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Ganymede",
+    "greekName": "Γανυμήδης",
+    "description": "a handsome Trojan prince, abducted by Zeus and made cup-bearer of the gods",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Glaucus",
+    "greekName": "Γλαῦκος",
+    "description": "the fisherman's sea god, made immortal after eating a magical herb",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Hemithea and Parthenos",
+    "greekName": "Ἡμιθέα and Παρθένος",
+    "description": "princesses of the Island of Naxos who leapt into the sea to escape their father's wrath; Apollo transformed them into demi-goddesses",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Heracles",
+    "greekName": "Ἡρακλῆς",
+    "description": "ascended hero",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Lampsace",
+    "greekName": "Λαμψάκη",
+    "description": "a semi-historical Bebrycian princess honored as goddess for her assistance to the Greeks",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Minos",
+    "greekName": "Μίνως",
+    "description": "a king of Crete, appointed as a Judge of the Dead in the Underworld after his death",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Ino",
+    "greekName": "Ἰνώ",
+    "description": "a Theban princess who became the sea goddess Leucothea",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Tenes",
+    "greekName": "Τέννης",
+    "description": "was a hero of the island of Tenedos",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "The Leucippides",
+    "greekName": "Λευκιππίδες",
+    "description": "wives of the Dioscuri",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Phoebe",
+    "greekName": "Φοίβη",
+    "description": "wife of Pollux",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Hilaera",
+    "greekName": "Ἱλάειρα",
+    "description": "wife of Castor",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Orithyia",
+    "greekName": "Ὠρείθυια",
+    "description": "an Athenian princess abducted by Boreas and made the goddess of cold, gusty mountain winds",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Palaemon",
+    "greekName": "Παλαίμων",
+    "description": "a Theban prince, made into a sea god along with his mother, Ino",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Phylonoe",
+    "greekName": "Φυλονόη",
+    "description": "daughter of Tyndareus and Leda, made immortal by Artemis",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Psyche",
+    "greekName": "Ψυχή",
+    "description": "goddess of the soul",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Semele",
+    "greekName": "Σεμελη",
+    "description": "mortal mother of Dionysus, who later was made the goddess Thyone (Θυωνη)",
+    "romanName": "",
+    "category": "deified mortal",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+   {
+    "name": "Abderus",
+    "greekName": "Ἄβδηρος",
+    "description": "aided Heracles during his eighth labour and was killed by the Mares of Diomedes",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Achilles",
+    "greekName": "Αχιλλεύς or Αχιλλέας",
+    "description": "hero of the Trojan War and a central character in Homer's Iliad",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Aeneas",
+    "greekName": "Αινείας",
+    "description": "a hero of the Trojan War and progenitor of the Roman people",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Ajax the Great",
+    "greekName": "\"Αίας οr Μέγας\"",
+    "description": "a hero of the Trojan War and king of Salamis",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Ajax the Lesser",
+    "greekName": "\"Αίας οr Μικρός\"",
+    "description": "a hero of the Trojan War and leader of the Locrian army",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Amphitryon",
+    "greekName": "Αμφιτρύων",
+    "description": "Theban general who rescued Thebes from the Teumessian fox; his wife was Alcmene, mother of Heracles",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Antilochus",
+    "greekName": "Ἀντίλοχος",
+    "description": "Son of Nestor sacrificed himself to save his father in the Trojan War along with other deeds of valor",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Bellerophon",
+    "greekName": "",
+    "description": "hero who slew the Chimera",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Castor",
+    "greekName": "",
+    "description": "the mortal Dioscuri twin; after Castor's death, his immortal brother Pollux shared his divinity with him in order that they might remain together",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Chrysippus",
+    "greekName": "",
+    "description": "a divine hero of Elis",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Daedalus",
+    "greekName": "",
+    "description": "creator of the labyrinth and great inventor, until King Minos trapped him in his own creation.",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Diomedes",
+    "greekName": "",
+    "description": "a king of Argos and hero of the Trojan War",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Eleusis",
+    "greekName": "",
+    "description": "eponymous hero of the town of Eleusis",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Eunostus",
+    "greekName": "",
+    "description": "a Boeotian hero",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Ganymede",
+    "greekName": "",
+    "description": "Trojan hero and lover of Zeus, who was given immortality and appointed cup-bearer to the gods",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Hector",
+    "greekName": "",
+    "description": "hero of the Trojan War and champion of the Trojan people",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Icarus",
+    "greekName": "",
+    "description": "the son of the master craftsman Daedalus",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Iolaus",
+    "greekName": "",
+    "description": "nephew of Heracles who aided his uncle in one of his Labors",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Jason",
+    "greekName": "",
+    "description": "leader of the Argonauts",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Meleager",
+    "greekName": "",
+    "description": "a hero who sailed with the Argonauts and killed the Calydonian Boar",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Odysseus",
+    "greekName": "",
+    "description": "a hero and king of Ithaca whose adventures are the subject of Homer's Odyssey; he also played a key role during the Trojan War",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Orpheus",
+    "greekName": "",
+    "description": "a legendary musician and poet who attempted to retrieve his dead wife from the Underworld",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Pandion",
+    "greekName": "",
+    "description": "the eponymous hero of the Attic tribe Pandionis, usually assumed to be one of the legendary Athenian kings Pandion I or Pandion II.",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Perseus",
+    "greekName": "Περσεύς",
+    "description": "son of Zeus and the founder-king of Mycenae and slayer of the Gorgon Medusa",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Theseus",
+    "greekName": "",
+    "description": "son of Poseidon and a king of Athens and slayer of the Minotaur",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Abas",
+    "greekName": "",
+    "description": "a king of Argos",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Acastus",
+    "greekName": "",
+    "description": "a king of Iolcus who sailed with the Argonauts and participated in the Calydonian Boar hunt",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Acrisius",
+    "greekName": "",
+    "description": "a king of Argos",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Actaeus",
+    "greekName": "",
+    "description": "first king of Attica",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Admetus",
+    "greekName": "Άδμητος",
+    "description": "a king of Pherae who sailed with the Argonauts and participated in the Calydonian Boar hunt",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Adrastus",
+    "greekName": "Άδραστος",
+    "description": "a king of Argos and one of the Seven Against Thebes",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Aeacus",
+    "greekName": "Αιακός",
+    "description": "a king of the island of Aegina in the Saronic Gulf; after he died, he became one of the three judges of the dead in the Underworld",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Aeëtes",
+    "greekName": "",
+    "description": "a king of Colchis and father of Medea",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Aegeus",
+    "greekName": "Αιγεύς",
+    "description": "a king of Athens and father of Theseus",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Aegimius",
+    "greekName": "",
+    "description": "a king of Thessaly and progenitor of the Dorians",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Aegisthus",
+    "greekName": "Αίγισθος",
+    "description": "lover of Clytemnestra, with whom he plotted to murder Agamemnon and seized the kingship of Mycenae",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Aegyptus",
+    "greekName": "Αίγυπτος",
+    "description": "a king of Egypt",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Aeson",
+    "greekName": "",
+    "description": "father of Jason and rightful king of Iolcus, whose throne was usurped by his half-brother Pelias",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Aëthlius",
+    "greekName": "",
+    "description": "first king of Elis",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Aetolus",
+    "greekName": "Αιτωλός",
+    "description": "a king of Elis",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Agamemnon",
+    "greekName": "Ἀγαμέμνων",
+    "description": "a king of Mycenae and commander of the Greek armies during the Trojan War",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Agasthenes",
+    "greekName": "",
+    "description": "a king of Elis",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Agenor",
+    "greekName": "Αγήνωρ",
+    "description": "a king of Phoenicia",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Alcinous",
+    "greekName": "Αλκίνους",
+    "description": " Ἀλκίνοος), a king of Phaeacia",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Alcmaeon",
+    "greekName": "",
+    "description": "a king of Argos and one of the Epigoni",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Aleus",
+    "greekName": "",
+    "description": "a king of Tegea",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Amphiaraus",
+    "greekName": "Ἀμφιάραος",
+    "description": "a seer and king of Argos who participated in the Calydonian Boar hunt and the war of the Seven Against Thebes",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Amphictyon",
+    "greekName": "Ἀμφικτύων",
+    "description": "a king of Athens",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Amphion and Zethus",
+    "greekName": "",
+    "description": "twin sons of Zeus and kings of Thebes, who constructed the city's walls",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Amycus",
+    "greekName": "",
+    "description": "son of Poseidon and king of the Bebryces",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Anaxagoras",
+    "greekName": "Ἀναξαγόρας",
+    "description": "a king of Argos",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Anchises",
+    "greekName": "Αγχίσης",
+    "description": "a king of Dardania and father of Aeneas",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Arcesius",
+    "greekName": "",
+    "description": "a king of Ithaca and father of Laertes",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Argeus",
+    "greekName": "",
+    "description": "a king of Argos",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Argus",
+    "greekName": "",
+    "description": "a son of Zeus and king of Argos after Phoroneus",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Assaracus",
+    "greekName": "",
+    "description": "a king of Dardania",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Asterion",
+    "greekName": "",
+    "description": "a king of Crete",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Athamas",
+    "greekName": "Ἀθάμας",
+    "description": "a king of Orchomenus",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Atreus",
+    "greekName": "Ἀτρεύς",
+    "description": "a king of Mycenae and father of Agamemnon and Menelaus",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Augeas",
+    "greekName": "Αυγείας",
+    "description": "a king of Elis",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Autesion",
+    "greekName": "",
+    "description": "a king of Thebes",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Bias",
+    "greekName": "",
+    "description": "a king of Argos",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Busiris",
+    "greekName": "",
+    "description": "a king of Egypt",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Cadmus",
+    "greekName": "",
+    "description": "founder-king of Thebes",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Car",
+    "greekName": "",
+    "description": "a king of Megara",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Catreus",
+    "greekName": "",
+    "description": "a king of Crete, prophesied to die at the hands of his own son",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Cecrops",
+    "greekName": "",
+    "description": "an autochthonous king of Athens",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Ceisus",
+    "greekName": "",
+    "description": "a king of Argos",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Celeus",
+    "greekName": "",
+    "description": "a king of Eleusis",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Cephalus",
+    "greekName": "",
+    "description": "a king of Phocis who accidentally killed his own wife",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Cepheus",
+    "greekName": "",
+    "description": "a king of Ethiopia",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Cepheus",
+    "greekName": "",
+    "description": "a king of Tegea and an Argonaut",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Charnabon",
+    "greekName": "",
+    "description": "a king of the Getae",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Cinyras",
+    "greekName": "",
+    "description": "a king of Cyprus and father of Adonis",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Codrus",
+    "greekName": "",
+    "description": "a king of Athens",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Corinthus",
+    "greekName": "",
+    "description": "founder-king of Corinth",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Cranaus",
+    "greekName": "",
+    "description": "a king of Athens",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Creon",
+    "greekName": "",
+    "description": "a king of Thebes, brother of Jocasta and uncle of Oedipus",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Creon",
+    "greekName": "",
+    "description": "a king of Corinth who was hospitable towards Jason and Medea",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Cres",
+    "greekName": "",
+    "description": "an early Cretan king",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Cresphontes",
+    "greekName": "",
+    "description": "a king of Messene and descendent of Heracles",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Cretheus",
+    "greekName": "",
+    "description": "founder-king of Iolcus",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Criasus",
+    "greekName": "",
+    "description": "a king of Argos",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Cylarabes",
+    "greekName": "",
+    "description": "a king of Argos",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Cynortas",
+    "greekName": "",
+    "description": "a king of Sparta",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Cyzicus",
+    "greekName": "",
+    "description": "king of the Dolionians, mistakenly killed by the Argonauts",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Danaus",
+    "greekName": "",
+    "description": "a king of Egypt and father of the Danaides",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Dardanus",
+    "greekName": "",
+    "description": "founder-king of Dardania, and son of Zeus and Electra",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Deiphontes",
+    "greekName": "",
+    "description": "a king of Argos",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Demophon",
+    "greekName": "",
+    "description": "of Athens, a king of Athens",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Diomedes",
+    "greekName": "",
+    "description": "a king of Argos and hero of the Trojan War",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Echemus",
+    "greekName": "",
+    "description": "a king of Arcadia",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Echetus",
+    "greekName": "",
+    "description": "a king of Epirus",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Eetion",
+    "greekName": "",
+    "description": "a king of Cilician Thebe and father of Andromache",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Electryon",
+    "greekName": "",
+    "description": "a king of Tiryns and Mycenae; son of Perseus and Andromeda",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Elephenor",
+    "greekName": "",
+    "description": "a king of the Abantes of Euboea",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Eleusis",
+    "greekName": "",
+    "description": "eponym and king of Eleusis, Attica",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Epaphus",
+    "greekName": "",
+    "description": "a king of Egypt and founder of Memphis, Egypt",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Epopeus",
+    "greekName": "",
+    "description": "a king of Sicyon",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Erechtheus",
+    "greekName": "",
+    "description": "a king of Athens",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Erginus",
+    "greekName": "",
+    "description": "a king of Minyean Orchomenus in Boeotia",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Erichthonius",
+    "greekName": "",
+    "description": "a king of Athens, born of Hephaestus' attempt to rape Athena",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Eteocles",
+    "greekName": "",
+    "description": "a king of Thebes and son of Oedipus; he and his brother Polynices killed each other",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Eteocles",
+    "greekName": "",
+    "description": "son of Andreus, a king of Orchomenus",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Eurotas",
+    "greekName": "",
+    "description": "a king of Sparta",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Eurystheus",
+    "greekName": "",
+    "description": "a king of Tiryns",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Euxantius",
+    "greekName": "",
+    "description": "a king of Ceos, son of Minos and Dexithea",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Gelanor",
+    "greekName": "",
+    "description": "a king of Argos",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Haemus",
+    "greekName": "",
+    "description": "a king of Thrace",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Helenus",
+    "greekName": "",
+    "description": "seer and twin brother of Cassandra, who later became king of Epirus",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Hippothoön",
+    "greekName": "",
+    "description": "a king of Eleusis",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Hyrieus",
+    "greekName": "",
+    "description": "a king of Boeotia",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Ilus",
+    "greekName": "",
+    "description": "founder-king of Troy",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Ixion",
+    "greekName": "",
+    "description": "a king of the Lapiths who attempted to rape Hera and was bound to a flaming wheel in Tartarus",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Laërtes",
+    "greekName": "",
+    "description": "father of Odysseus and king of the Cephallenians; he sailed with the Argonauts and participated in the Calydonian Boar hunt",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Laomedon",
+    "greekName": "",
+    "description": "a king of Troy and father of Priam",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Lycaon of Arcadia",
+    "greekName": "",
+    "description": "a deceitful Arcadian king who was transformed by Zeus into a wolf",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Lycurgus of Arcadia, a king of Arcadia",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Lycurgus of Nemea",
+    "greekName": "",
+    "description": " a king of Nemea",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Makedon",
+    "greekName": "",
+    "description": "a king of Macedon",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Megareus of Onchestus",
+    "greekName": "",
+    "description": "a king of Onchestus in Boeotia",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Megareus of Thebes",
+    "greekName": "",
+    "description": " a king of Thebes",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Melampus",
+    "greekName": "",
+    "description": "a legendary soothsayer and healer, and king of Argos",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Melanthus",
+    "greekName": "",
+    "description": "a king of Messenia",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Memnon",
+    "greekName": "",
+    "description": "a king of Ethiopia who fought on the side of Troy during the Trojan War",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Menelaus",
+    "greekName": "",
+    "description": "a king of Sparta and the husband of Helen",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Menestheus",
+    "greekName": "",
+    "description": "a king of Athens who fought on the side of the Greeks during the Trojan War",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Midas",
+    "greekName": "",
+    "description": "a king of Phrygia granted the power to turn anything to gold with a touch",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Minos",
+    "greekName": "",
+    "description": "a king of Crete; after his death, became one of the judges of the dead in the Underworld",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Myles",
+    "greekName": "",
+    "description": "a king of Laconia",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Nestor",
+    "greekName": "",
+    "description": "a king of Pylos who sailed with the Argonauts, participated in the Calydonian Boar hunt and fought with the Greek armies in the Trojan War",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Nycteus",
+    "greekName": "",
+    "description": "a king of Thebes",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Odysseus",
+    "greekName": "",
+    "description": "a hero and king of Ithaca whose adventures are the subject of Homer's Odyssey; he also played a key role during the Trojan War",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Oebalus",
+    "greekName": "",
+    "description": "a king of Sparta",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Oedipus",
+    "greekName": "",
+    "description": "a king of Thebes fated to kill his father and marry his mother",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Oeneus",
+    "greekName": "",
+    "description": "a king of Calydon",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Oenomaus",
+    "greekName": "",
+    "description": "a king of Pisa",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Oenopion",
+    "greekName": "",
+    "description": "a king of Chios",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Ogygus",
+    "greekName": "",
+    "description": "a king of Thebes",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Oicles",
+    "greekName": "",
+    "description": "a king of Argos",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Oileus",
+    "greekName": "",
+    "description": "a king of Locris",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Orestes",
+    "greekName": "",
+    "description": "a king of Argos and a son of Clytemnestra and Agamemnon; he killed his mother in revenge for her murder of his father",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Oxyntes",
+    "greekName": "",
+    "description": "a king of Athens",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Pandion I",
+    "greekName": "",
+    "description": "a king of Athens",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Pandion II",
+    "greekName": "",
+    "description": "a king of Athens",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Peleus",
+    "greekName": "",
+    "description": "king of the Myrmidons and father of Achilles; he sailed with the Argonauts and participated in the Calydonian Boar hunt",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Pelias",
+    "greekName": "",
+    "description": "a king of Iolcus and usurper of Aeson's rightful throne",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Pelops",
+    "greekName": "",
+    "description": "a king of Pisa and founder of the House of Atreus",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Pentheus",
+    "greekName": "",
+    "description": "a king of Thebes who banned the worship of Dionysus and was torn apart by Maenads",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Periphas",
+    "greekName": "",
+    "description": "legendary king of Attica who Zeus turned into an eagle.",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Perseus",
+    "greekName": "Περσεύς",
+    "description": "founder-king of Mycenae and slayer of the Gorgon Medusa",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Phineus",
+    "greekName": "",
+    "description": "a king of Thrace",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Phlegyas",
+    "greekName": "",
+    "description": "a king of the Lapiths",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Phoenix, son of Agenor",
+    "greekName": "",
+    "description": "founder-king of Phoenicia",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Phoroneus",
+    "greekName": "",
+    "description": "a king of Argos",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Phyleus",
+    "greekName": "",
+    "description": "a king of Elis",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Pirithoös",
+    "greekName": "",
+    "description": "king of the Lapiths and husband of Hippodamia, at whose wedding the Battle of Lapiths and Centaurs occurred",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Pittheus",
+    "greekName": "",
+    "description": "a king of Troezen and grandfather of Theseus",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Polybus of Corinth",
+    "greekName": "",
+    "description": "a king of Corinth",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Polybus of Sicyon",
+    "greekName": "",
+    "description": "a king of Sicyon and son of Hermes",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Polybus of Thebes",
+    "greekName": "",
+    "description": "a king of Thebes",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Polynices",
+    "greekName": "",
+    "description": "a king of Thebes and son of Oedipus; he and his brother Eteocles killed each other",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Priam",
+    "greekName": "",
+    "description": "king of Troy during the Trojan War",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Proetus",
+    "greekName": "",
+    "description": "a king of Argos and Tiryns",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Pylades",
+    "greekName": "",
+    "description": "a king of Phocis and friend of Orestes",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Rhadamanthys",
+    "greekName": "",
+    "description": "a king of Crete; after his death, he became a judge of the dead in the Underworld",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Rhesus",
+    "greekName": "",
+    "description": "a king of Thrace who sided with Troy in the Trojan War",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Sarpedon",
+    "greekName": "",
+    "description": "a king of Lycia and son of Zeus who fought on the side of the Greeks during the Trojan War",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Sisyphus",
+    "greekName": "",
+    "description": "a king of Thessaly who attempted to cheat death and was sentenced to an eternity of rolling a boulder up a hill, only to watch it roll back down",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Sithon",
+    "greekName": "",
+    "description": "a king of Thrace",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Talaus",
+    "greekName": "",
+    "description": "a king of Argos who sailed with the Argonauts",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Tegyrios",
+    "greekName": "",
+    "description": "a king of Thrace",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Telamon",
+    "greekName": "",
+    "description": "a king of Salamis and father of Ajax; he sailed with the Argonauts and participated in the Calydonian Boar hunt",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Telephus",
+    "greekName": "",
+    "description": "a king of Mysia and son of Heracles",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Temenus",
+    "greekName": "",
+    "description": "a king of Argos and descendent of Heracles",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Teucer",
+    "greekName": "",
+    "description": "founder-king of Salamis who fought alongside the Greeks in the Trojan War",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Teutamides",
+    "greekName": "",
+    "description": "a king of Larissa",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Teuthras",
+    "greekName": "",
+    "description": "a king of Mysia",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Thersander",
+    "greekName": "",
+    "description": "a king of Thebes and one of the Epigoni",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Theseus",
+    "greekName": "",
+    "description": "a king of Athens and slayer of the Minotaur",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Thyestes",
+    "greekName": "",
+    "description": "a king of Mycenae and brother of Atreus",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Tisamenus",
+    "greekName": "",
+    "description": "a king of Argos, Mycenae, and Sparta",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Tyndareus",
+    "greekName": "",
+    "description": "a king of Sparta",
+    "romanName": "",
+    "category": "king",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
   }
+
 ]
