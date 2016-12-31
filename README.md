@@ -66,7 +66,7 @@ console.log(sortedFigures);
 ```
   allCollection // all of them
 ```
-nb: separated collections are available in ./uncomplete_data (but you might find some typos and books and events have not been added yet);
+nb: separated collections are available in ./incomplete_data (but you might find some typos and books and events have not been added yet);
 
 
 ### Available methods
