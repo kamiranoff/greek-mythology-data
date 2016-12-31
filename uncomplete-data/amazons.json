@@ -1,0 +1,554 @@
+[
+  {
+    "name": "Aegea",
+    "greekName": "",
+    "description": "a queen of the Amazons",
+    "romanName": "",
+    "category": "amazon",
+    "immortal": "mortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Aella",
+    "greekName": "Ἄελλα",
+    "description": "an Amazon who was killed by Heracles",
+    "romanName": "",
+    "category": "amazon",
+    "immortal": "mortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Alcibie",
+    "greekName": "Ἀλκιβίη",
+    "description": "an Amazonian warrior, killed by Diomedes at Troy",
+    "romanName": "",
+    "category": "amazon",
+    "immortal": "mortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Antandre",
+    "greekName": "Ἀντάνδρη",
+    "description": "an Amazonian warrior, killed by Achilles at Troy",
+    "romanName": "",
+    "category": "amazon",
+    "immortal": "mortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Antiope",
+    "greekName": "Ἀντιόπη",
+    "description": "a daughter of Ares and sister of Hippolyta",
+    "romanName": "",
+    "category": "amazon",
+    "immortal": "mortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Areto",
+    "greekName": "Ἀρετώ",
+    "description": "an Amazon",
+    "romanName": "",
+    "category": "amazon",
+    "immortal": "mortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Asteria",
+    "greekName": "Ἀστερία",
+    "description": "an Amazon who was killed by Heracles",
+    "romanName": "",
+    "category": "amazon",
+    "immortal": "mortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Bremusa",
+    "greekName": "Βρέμουσα",
+    "description": "an Amazonian warrior, killed by Idomeneus at Troy",
+    "romanName": "",
+    "category": "amazon",
+    "immortal": "mortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Celaeno",
+    "greekName": "Κελαινώ",
+    "description": "an Amazonian warrior, killed by Heracles",
+    "romanName": "",
+    "category": "amazon",
+    "immortal": "mortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Eurypyle",
+    "greekName": "Εὐρυπύλη",
+    "description": "an Amazon leader who invaded Ninus and Babylonia",
+    "romanName": "",
+    "category": "amazon",
+    "immortal": "mortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Hippolyta",
+    "greekName": "Ἱππολύτη",
+    "description": "a queen of Amazons and daughter of Ares",
+    "romanName": "",
+    "category": "amazon",
+    "immortal": "mortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Hippothoe",
+    "greekName": "Ἱπποθόη",
+    "description": "an Amazonian warrior, killed by Achilles at Troy",
+    "romanName": "",
+    "category": "amazon",
+    "immortal": "mortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Iphito",
+    "greekName": "Ἰφιτώ",
+    "description": "an Amazon who served under Hippolyta",
+    "romanName": "",
+    "category": "amazon",
+    "immortal": "mortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Lampedo",
+    "greekName": "Λαμπεδώ",
+    "description": "an Amazon queen who ruled with her sister Marpesia",
+    "romanName": "",
+    "category": "amazon",
+    "immortal": "mortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Marpesia",
+    "greekName": "Μαρπεσία",
+    "description": "an Amazon queen who ruled with her sister Lampedo",
+    "romanName": "",
+    "category": "amazon",
+    "immortal": "mortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Melanippe",
+    "greekName": "Μελανίππη",
+    "description": "a daughter of Ares and sister of Hippolyta and Antiope",
+    "romanName": "",
+    "category": "amazon",
+    "immortal": "mortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Molpadia",
+    "greekName": "Μολπαδία",
+    "description": "an Amazon who killed Antiope",
+    "romanName": "",
+    "category": "amazon",
+    "immortal": "mortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Myrina",
+    "greekName": "Μύρινα",
+    "description": "a queen of the Amazons",
+    "romanName": "",
+    "category": "amazon",
+    "immortal": "mortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Orithyia",
+    "greekName": "Ὠρείθυια",
+    "description": "an Amazon queen",
+    "romanName": "",
+    "category": "amazon",
+    "immortal": "mortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Otrera",
+    "greekName": "Ὀτρήρα",
+    "description": "an Amazon queen, consort of Ares and mother of Hippolyta",
+    "romanName": "",
+    "category": "amazon",
+    "immortal": "mortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Pantariste",
+    "greekName": "Πανταρίστη",
+    "description": "an Amazon who fought with Hippolyta against Heracles",
+    "romanName": "",
+    "category": "amazon",
+    "immortal": "mortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Penthesilea",
+    "greekName": "Πενθεσίλεια",
+    "description": "an Amazon queen who fought in the Trojan War on the side of Troy",
+    "romanName": "",
+    "category": "amazon",
+    "immortal": "mortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Thalestris",
+    "greekName": "Θάληστρις",
+    "description": "a queen of the Amazons",
+    "romanName": "",
+    "category": "amazon",
+    "immortal": "mortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  }
+]

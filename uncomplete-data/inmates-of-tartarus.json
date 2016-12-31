@@ -1,0 +1,98 @@
+[
+  {
+    "name": "The Danaides",
+    "greekName": "",
+    "description": "forty-nine daughters of Danaus who murdered their husbands and were condemned to an eternity of carrying water in leaky jugs",
+    "romanName": "",
+    "category": "inmate of Tartarus",
+    "immortal": "mortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Ixion",
+    "greekName": "",
+    "description": "a king of the Lapiths who attempted to rape Hera and was bound to a flaming wheel in Tartarus",
+    "romanName": "",
+    "category": "inmate of Tartarus",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Sisyphus",
+    "greekName": "",
+    "description": "a king of Thessaly who attempted to cheat death and was sentenced to an eternity of rolling a boulder up a hill, only to watch it roll back down",
+    "romanName": "",
+    "category": "inmate of Tartarus",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Tantalus",
+    "greekName": "",
+    "description": "a king of Anatolia who butchered his son Pelops and served him as a meal to the gods; he was punished with the torment of starvation, food and drink eternally dangling just out of reach",
+    "romanName": "",
+    "category": "inmate of Tartarus",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  }
+]
