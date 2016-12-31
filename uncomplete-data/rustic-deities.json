@@ -1,0 +1,4101 @@
+[
+	{
+		"name":"Aetna",
+		"greekName":"Αἴτνη",
+		"description": "goddess of the volcanic Mount Etna in Sicily",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Amphictyonis",
+		"greekName":"Αμφικτυονίς",
+		"description": "goddess of wine and friendship between nations, a local form of Demeter",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Anthousai",
+		"greekName":"Ανθούσαι",
+		"description": "flower nymphs",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Aristaeus",
+		"greekName":"Ἀρισταῖος",
+		"description": "god of bee-keeping, cheese-making, herding, olive-growing, and hunting",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Attis",
+		"greekName":"Άττις",
+		"description": "vegetation god and consort of Cybele",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Britomartis",
+		"greekName":"Βριτόμαρτις",
+		"description": "Cretan goddess of hunting and nets used for fishing, fowling and the hunting of small game",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Cabeiri",
+		"greekName":"Κάβειροι",
+		"description": "gods or spirits who presided over the Mysteries of the islands of Lemnos and Samothrace",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Aitnaios",
+		"greekName":"Αιτναιος",
+		"description":"see Cabeiri",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Alkon",
+		"greekName":"Αλκων",
+		"description":"see Cabeiri",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Eurymedon",
+		"greekName":"Ευρυμεδών",
+		"description":"see Cabeiri",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Onnes",
+		"greekName":"Όννης",
+		"description":"see Cabeiri",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Tonnes",
+		"greekName":"Τόννης",
+		"description":"see Cabeiri",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Centaurs",
+		"greekName":"Κένταυροι",
+		"description": "a race of half-man, half-horse beings",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Asbolus",
+		"greekName":"Άσβολος",
+		"description":"Centaur.",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Chariclo",
+		"greekName":"Χαρικλώ",
+		"description": "Centaur - wife of the centaur Chiron",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Chiron",
+		"greekName":"Χείρων",
+		"description": "Centaur - the eldest and wisest of the Centaurs",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Eurytion",
+		"greekName":"Ευρυτιων",
+		"description":"Centaur.",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Nessus",
+		"greekName":"Νέσσος",
+		"description": "Centaur - a ferryman at the river Euenus",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Pholus",
+		"greekName":"Φώλος",
+		"description":"Centaur",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Cercopes",
+		"greekName":"Κέρκοπες",
+		"description": "a pair of monkey-like thieves who plagued the land of Lydia in western Anatolia",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Akmon",
+		"greekName":"Ακμών",
+		"description":"see Cercopes",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Passalos",
+		"greekName":"Πάσσαλος",
+		"description":"see Cercopes",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Chloris",
+		"greekName":"Χλωρίς",
+		"description": "goddess of flowers and wife of Zephyrus",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Comus",
+		"greekName":"Κόμος",
+		"description": "god of revelry, merrymaking, and festivity",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Corymbus",
+		"greekName":"Κόρυμβος",
+		"description": "god of the fruit of the ivy",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Curetes",
+		"greekName":"Κουρέτες",
+		"description": "guardians of infant Zeus on Mount Ida, barely distinguished from the Dactyls and the Corybantes",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Cybele",
+		"greekName":"Κυβέλη",
+		"description": "a Phrygian mountain goddess associated with Rhea",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Dactyls",
+		"greekName":"Δάκτυλοι",
+		"description":"\"fingers\", minor deities originally representing fingers of a hand",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Acmon",
+		"greekName":"Ακμών",
+		"description":"see Dactyls",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Damnameneus",
+		"greekName":"Δαμναμενεύς",
+		"description":"see Dactyls",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Delas",
+		"greekName":"Δήλας",
+		"description":"see Dactyls",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Epimedes",
+		"greekName":"Επιμήδης",
+		"description":"see Dactyls",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Heracles",
+		"greekName":"",
+		"description":"see Dactyls - not to be confused with the hero Heracles",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Iasios",
+		"greekName":"Ιάσιος",
+		"description":"see Dactyls",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Kelmis",
+		"greekName":"Κελμις",
+		"description":"see Dactyls",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Skythes",
+		"greekName":"Σκύθης",
+		"description":"see Dactyls",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Titias",
+		"greekName":"Τιτίας",
+		"description":"see Dactyls - companions of Cybele",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Cyllenus",
+		"greekName":"Κύλληνος",
+		"description":"see Dactyls - companions of Cybele",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Dryades",
+		"greekName":"Δρυάδες",
+		"description": "tree and forest nymphs",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Epimeliades",
+		"greekName":"Επιμελίδες",
+		"description": "nymphs of highland pastures and protectors of sheep flocks",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Hamadryades",
+		"greekName":"Αμαδρυάδες",
+		"description": "oak tree dryades",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Hecaterus",
+		"greekName":"Ηεκατερος",
+		"description": "minor god of the hekateris — a rustic dance of quickly moving hands — and perhaps of the skill of hands in general",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"The Horae",
+		"greekName":"Ώρες",
+		"description": "The Hours",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Eunomia",
+		"greekName":"Ευνομία",
+		"description": "The Horae - The goddesses of natural order - Spirit of good order, and springtime goddess of green pastures",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Dike",
+		"greekName":"Δίκη",
+		"description": "The Horae - The goddesses of natural order - spirit of justice, may have represented springtime growth",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Eirene",
+		"greekName":"Ειρήνη",
+		"description": "The Horae - The goddesses of natural order - spirit of peace and goddess of the springtime",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Thallo",
+		"greekName":"Θαλλώ",
+		"description": "The Horae - The goddesses of springtime growth - goddess of spring buds and shoots, identified with Eirene",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Auxo",
+		"greekName":"Αυξώ",
+		"description": "The Horae - The goddesses of springtime growth - goddess of spring growth",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Karpo",
+		"greekName":"Καρπώ",
+		"description": "The Horae - The goddesses of springtime growth - goddess of the fruits of the earth",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Pherousa",
+		"greekName":"Φέρουσα",
+		"description":"The Horae - The goddesses of welfare - the bringer",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Euporie",
+		"greekName":"Ευπορίη",
+		"description":"The Horae - The goddesses of welfare - abundance",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Orthosie",
+		"greekName":"Ορθοσίη",
+		"description":"The Horae - The goddesses of welfare - prosperity",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Auge",
+		"greekName":"Αυγή",
+		"description":"The Horae - The goddesses of the natural portions of time and the times of day -  first light of the morning",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Anatole/Anatolia",
+		"greekName":"Ανατολή/Ανατολία",
+		"description":"The Horae - The goddesses of the natural portions of time and the times of day -  sunrise",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Mousika or Musica",
+		"greekName":"Μουσική",
+		"description":"The Horae - The goddesses of the natural portions of time and the times of day -  the morning hour of music and study",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Gymnastika, Gymnastica/Gymnasia",
+		"greekName":"Γυμναστίκή/Γυμνασία",
+		"description":"The Horae - The goddesses of the natural portions of time and the times of day -  the morning hour of gymnastics/exercise",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Nymphe",
+		"greekName":"Νυμφή",
+		"description":"The Horae - The goddesses of the natural portions of time and the times of day -  the morning hour of ablutions (bathing, washing)",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Mesembria",
+		"greekName":"Μεσημβρία",
+		"description":"The Horae - The goddesses of the natural portions of time and the times of day -  noon",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Sponde",
+		"greekName":"Σπονδή",
+		"description":"The Horae - The goddesses of the natural portions of time and the times of day -  libations poured after lunch",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Elete",
+		"greekName":"",
+		"description":"The Horae - The goddesses of the natural portions of time and the times of day -  prayer, the first of the afternoon work hours",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Akte, Acte/Cypris",
+		"greekName": "Ακτή/Κυπρίς",
+		"description":"The Horae - The goddesses of the natural portions of time and the times of day -  eating and pleasure, the second of the afternoon work hours",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Hesperis",
+		"greekName":"Έσπερίς",
+		"description":"The Horae - The goddesses of the natural portions of time and the times of day -  evening",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Dysis",
+		"greekName":"Δύσις",
+		"description":"The Horae - The goddesses of the natural portions of time and the times of day -  sunset",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Arktos",
+		"greekName":"Άρκτος",
+		"description":"The Horae - The goddesses of the natural portions of time and the times of day -  night sky, constellation",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Eiar",
+		"greekName":"Είαρ",
+		"description":"The Horae - The goddesses of seasons of the year -  spring",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Theros",
+		"greekName":"Θέρος",
+		"description":"The Horae - The goddesses of seasons of the year -  summer",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Pthinoporon",
+		"greekName":"Φθινόπωρον",
+		"description":"The Horae - The goddesses of seasons of the year -  autumn",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Cheimon",
+		"greekName":"Χειμών",
+		"description":"The Horae - The goddesses of seasons of the year -  winter",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Korybantes",
+		"greekName":"Κορύβαντες",
+		"description":" the crested dancers who worshipped Cybele",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Damneus",
+		"greekName":"Δαμνεύς",
+		"description":"Korybantes - the crested dancers who worshipped Cybele - \"the one who tame\"",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Idaios",
+		"greekName":"Ιδαίος",
+		"description":"Korybantes - the crested dancers who worshipped Cybele - \"of Mount Ida\"",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Kyrbas",
+		"greekName":"Κύρβας",
+		"description":"Korybantes - the crested dancers who worshipped Cybele - whose name is probably a variant of Korybas, singular for \"Korybantes\"",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Okythoos",
+		"greekName":"Ωκύθοος",
+		"description":"Korybantes - the crested dancers who worshipped Cybele - \"the one running swiftly\"",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Prymneus",
+		"greekName":"Πρυμνεύς",
+		"description":"Korybantes - the crested dancers who worshipped Cybele - \"of lower area\"",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Pyrrhichos",
+		"greekName":"Πυρῥιχος",
+		"description":"Korybantes - the crested dancers who worshipped Cybele - god of the rustic dance",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Maenades",
+		"greekName":"μαινάδες",
+		"description":" crazed nymphs in the retinue of Dionysus",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Methe",
+		"greekName":"Μέθη",
+		"description":" nymph of drunkenness",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Meliae",
+		"greekName":"Μελίαι",
+		"description":" nymphs of honey and the ash tree",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Naiades",
+		"greekName":"Ναιάδες",
+		"description":"fresh water nymphs.",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Daphne",
+		"greekName":"Δάφνη",
+		"description":"see Naiades - fresh water nymph.",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Metope",
+		"greekName":"Μετώπη",
+		"description":"see Naiades - fresh water nymph.",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Minthe",
+		"greekName":"Μίνθη",
+		"description":"see Naiades - fresh water nymph.",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"The Nymphai Hyperboreioi",
+		"greekName":"Νύμφαι Υπερβόρειοι",
+		"description":"The Nymphai Hyperboreioi - who presided over aspects of archery",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Hekaerge",
+		"greekName":"Εκαέργη",
+		"description":"The Nymphai Hyperboreioi - who presided over aspects of archery - represented distancing",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Loxo",
+		"greekName":"Λοξώ",
+		"description":"The Nymphai Hyperboreioi - who presided over aspects of archery - represented trajectory",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Oupis",
+		"greekName":"Ουπις",
+		"description":"The Nymphai Hyperboreioi - who presided over aspects of archery - represented aim",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Oreades",
+		"greekName":"Ὀρεάδες",
+		"description":"mountain nymphs",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Adrasteia",
+		"greekName":"Αδράστεια",
+		"description":"Oreades - mountain nymphs - a nursemaid of the infant Zeus",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Echo",
+		"greekName":"Ηχώ",
+		"description":"Oreades - mountain nymphs - a nymph cursed never to speak except to repeat the words of others",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Oceanides",
+		"greekName":"Ωκεανίδες",
+		"description":"fresh water nymphs",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Beroe",
+		"greekName":"Βερόη",
+		"description":"see Oceanides - fresh water nymph - A nymph of Beirut, the daughter of Aphrodite and Adonis, who was wooed by both Dionysus and Poseidon",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Calypso",
+		"greekName":"Καλυψώ",
+		"description":"see Oceanides - fresh water nymph",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Clytie",
+		"greekName":"Κλυτίη",
+		"description":"see Oceanides - fresh water nymph",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Idyia",
+		"greekName":"Ίδυια", "description":"see Oceanides - fresh water nymph - wife of the Colchian king Aeetes, mother of Medea",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Acaste",
+		"greekName": "",
+		"description": "see Oceanides"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Admete",
+		"greekName": "",
+		"description": "see Oceanides"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Adrasteia",
+		"greekName": "",
+		"description": "see Oceanides - Hyginus, Fabulae 182"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Aethra",
+		"greekName": "",
+		"description": "see Oceanides - Hyginus, Astronomica 2.21; Pherecydes of Leros, fr. 90c Fowler; Ovid, Fasti 5.171"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Aetna",
+		"greekName": "",
+		"description": "see Oceanides - Stephanus of Byzantium, s.v. Παλιχη"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Amalthea",
+		"greekName": "",
+		"description": "see Oceanides - Hyginus, Fabulae 182;[6] Schol. ad Hom. II. 21.194; usually not an Oceanid, e.g. Apollodorus, 2.7.5"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Amphirho",
+		"greekName": "",
+		"description": "see Oceanides"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Amphitrite",
+		"greekName": "",
+		"description": "see Oceanides - Also Apollodorus, 1.4.5; the name of a Nereid at Hesiod, Theogony, 243, 254, and Apollodorus, 1.2.7"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Argia/Argea",
+		"greekName": "",
+		"description": "see Oceanides - Also Hyginus, Fabulae 143"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Asia",
+		"greekName": "",
+		"description": "see Oceanides - Andron of Halicarnassus fr. 7 Fowler [= FGrHist 10 F 7] (mother is Pompholyge);[7] the name of a Nereid at Hyginus, Fabulae Th. 8"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Asterodia",
+		"greekName": "",
+		"description": "see Oceanides - Scholia on Apollonius of Rhodes, Argonautica 3.242 (Parisian, Florentine)."
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Asterope",
+		"greekName": "",
+		"description": "see Oceanides - Stephanus of Byzantium, s.v. Akragantes"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Beroe",
+		"greekName": "",
+		"description": "see Oceanides - Virgil, Georgics 4.341; cf. Nonnus, Dionysiaca 41.153; the name of a Nereid at Hyginus, Fabulae Th. 8"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Callirhoe",
+		"greekName": "",
+		"description": "see Oceanides - Apollodorus, 2.5.10"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Calypso",
+		"greekName": "",
+		"description": "see Oceanides - The name of a Nereid at Apollodorus, 1.2.7; \"probably not\" the same as the Calypso who was the lover of Odysseus[8]"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Camarina",
+		"greekName": "",
+		"description": "see Oceanides - Pindar, Olympian 5.1–4"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Capheira",
+		"greekName": "",
+		"description": "see Oceanides - Diodorus Siculus, 5.55"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Cerceis",
+		"greekName": "",
+		"description": "see Oceanides"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Ceto",
+		"greekName": "",
+		"description": "see Oceanides - Nonnus, Dionysiaca 26.355; the name of a Nereid at Apollodorus, 1.2.7"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Chryseis",
+		"greekName": "",
+		"description": "see Oceanides"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Clio/Cleio",
+		"greekName": "",
+		"description": "see Oceanides - Virgil, Georgics 4.341; the name of a Nereid at Hyginus, Fabulae Th. 8"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Clitemneste",
+		"greekName": "",
+		"description": "see Oceanides"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Clymene",
+		"greekName": "",
+		"description": "see Oceanides - Hyginus, Fabulae 156; Tzetzes, Chiliades 4.19.359; possibly the same as at Virgil, Georgics 4.345; the name of a Nereid at Hyginus, Fabulae Th. 8"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Clytie/Clytia",
+		"greekName": "",
+		"description": "see Oceanides"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Coryphe",
+		"greekName": "",
+		"description": "see Oceanides - Cicero, De Natura Deorum 3.59"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Daeira",
+		"greekName": "",
+		"description": "see Oceanides - Pausanias, 1.38.7; cf. Pherecydes of Leros, fr. 45 Fowler (called a sister of Styx)"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Dione",
+		"greekName": "",
+		"description": "see Oceanides - The name of a Nereid at Apollodorus, 1.2.7"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Dodone",
+		"greekName": "",
+		"description": "see Oceanides - Epaphroditus, fr. 57 Braswell–Billerbeck[9]"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Doris",
+		"greekName": "",
+		"description": "see Oceanides - The name of a Nereid at Hyginus, Fabulae Th. 8"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Electra",
+		"greekName": "",
+		"description": "see Oceanides"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Ephyra",
+		"greekName": "",
+		"description": "see Oceanides - Hyginus, Fabulae 275.6; Eumelus fr. 1 Fowler (apud Pausanias, 2.1.1); possibly the same as at Virgil, Georgics 4.343; the name of a Nereid at Hyginus, Fabulae Th. 8"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Euagoreis",
+		"greekName": "",
+		"description": "see Oceanides"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Eudora",
+		"greekName": "",
+		"description": "see Oceanides - The name of a Nereid at Apollodorus, 1.2.7"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Europa",
+		"greekName": "",
+		"description": "see Oceanides - Andron of Halicarnassus fr. 7 Fowler [= FGrHist 10 F 7] (mother is Parthenope);[10] not the Europa who was abducted by Zeus, became the mother of Minos, and for whom the continent of Europe was named"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Eurynome",
+		"greekName": "",
+		"description": "see Oceanides - Also Apollodorus, 1.3.1"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Galaxaura",
+		"greekName": "",
+		"description": "see Oceanides"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Hesione",
+		"greekName": "",
+		"description": "see Oceanides - Acusilaus, fr. 34 Fowler; Aeschylus, Prometheus Bound 560."
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Hestyaea",
+		"greekName": "",
+		"description": "see Oceanides"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Hippo",
+		"greekName": "",
+		"description": "see Oceanides"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Iache",
+		"greekName": "",
+		"description": "see Oceanides"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Ianeira/Ianira",
+		"greekName": "",
+		"description": "see Oceanides - The name of a Nereid at Homer, Iliad 18.47; Apollodorus, 1.2.7; Hyginus, Fabulae Th. 8"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Ianthe",
+		"greekName": "",
+		"description": "see Oceanides"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Ida",
+		"greekName": "",
+		"description": "see Oceanides - Hyginus, Fabulae 182[11]"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Idyia/Eidyia",
+		"greekName": "",
+		"description": "see Oceanides - Apollodorus, 1.9.23; Apollonius of Rhodes, Argonautica, 3.243–244"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Leucippe",
+		"greekName": "",
+		"description": "see Oceanides"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Libye",
+		"greekName": "",
+		"description": "see Oceanides - Andron of Halicarnassus fr. 7 Fowler [= FGrHist 10 F 7] (mother is Pompholyge)[12]"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Lyris",
+		"greekName": "",
+		"description": "see Oceanides"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Melia",
+		"greekName": "",
+		"description": "see Oceanides - Apollodorus, 2.1.1; Pindar, fr. 52k 43; Pausanias, 9.10.5[13]"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Meliboea",
+		"greekName": "",
+		"description": "see Oceanides - Apollodorus, 3.8.1"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Melite",
+		"greekName": "",
+		"description": "see Oceanides - The name of a Nereid at Hesiod, Theogony 247; Homer, Iliad 18.42; Apollodorus, 1.2.7; Hyginus, Fabulae Th. 8"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Melobosis",
+		"greekName": "",
+		"description": "see Oceanides"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Menestho",
+		"greekName": "",
+		"description": "see Oceanides"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Menippe",
+		"greekName": "",
+		"description": "see Oceanides"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Mentis",
+		"greekName": "",
+		"description": "see Oceanides"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Merope",
+		"greekName": "",
+		"description": "see Oceanides - Hyginus, Fabulae 154"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Metis",
+		"greekName": "",
+		"description": "see Oceanides - Also Apollodorus, 1.2.1"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Mopsopia",
+		"greekName": "",
+		"description": "see Oceanides - Suda, s.v. Εὐφορίων, according to which, Mopsopia, an old name for Attica, was supposed to have come from her"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Nemesis",
+		"greekName": "",
+		"description": "see Oceanides - Pausanias, 1.33.3; a daughter of Nyx at Hesiod, Theogony 223; and Hyginus, Fabulae Th. 1"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Ocyrhoe",
+		"greekName": "",
+		"description": "see Oceanides"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Pasiphae",
+		"greekName": "",
+		"description": "see Oceanides"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Pasithoe",
+		"greekName": "",
+		"description": "see Oceanides"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Peitho",
+		"greekName": "",
+		"description": "see Oceanides - Pherecydes of Leros, fr. 66 Fowler."
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Periboea",
+		"greekName": "",
+		"description": "see Oceanides - Nonnus, Dionysiaca 48.248"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Perse/Perseis",
+		"greekName": "",
+		"description": "see Oceanides - Hyginus, Fabulae 156;[14] Homer, Odyssey 10.139; Hecataeus of Miletus, fr. 35A Fowler; Cicero, De Natura Deorum 3.48; Tzetzes, Chiliades 4.19.358; also Hesiod, Theogony 956"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Petraea",
+		"greekName": "",
+		"description": "see Oceanides"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Phaeno",
+		"greekName": "",
+		"description": "see Oceanides"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Philyra",
+		"greekName": "",
+		"description": "see Oceanides - Hyginus, Fabulae 138; Pherecydes of Leros, fr. 50 Fowler; cf. Callimachus, Hymn 1—To Zeus 33–36"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Pleione",
+		"greekName": "",
+		"description": "see Oceanides - Apollodorus, 3.10.1; Ovid, Fasti 5.81–84; cf. Hyginus, Fabulae 192"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Plexaura",
+		"greekName": "",
+		"description": "see Oceanides"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Plouto/Pluto",
+		"greekName": "",
+		"description": "see Oceanides"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Polydora",
+		"greekName": "",
+		"description": "see Oceanides"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Polyphe",
+		"greekName": "",
+		"description": "see Oceanides - Suda, s.v. Ἱππεία Ἀθηνᾶ"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Polyxo",
+		"greekName": "",
+		"description": "see Oceanides"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Prymno",
+		"greekName": "",
+		"description": "see Oceanides"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Rhodea/Rhodeia/Rhodia",
+		"greekName": "",
+		"description": "see Oceanides - Greek: Ῥόδειά"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Rhodope",
+		"greekName": "",
+		"description": "see Oceanides"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Rhodos/Rhode",
+		"greekName": "",
+		"description": "see Oceanides - Epimenides, fr. 11 Fowler; the daughter of Poseidon at Apollodorus, 1.4.5; Herodorus, fr. 62 Fowler; and Diodorus Siculus, 5.55"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "The Sirens",
+		"greekName": "",
+		"description": "see Oceanides - Epimenides, fr. 8 Fowler; usually the daughters of Achelous, e.g. Apollodorus, 1.3.4, 1.7.10, E.7.18; Hyginus, Fabulae 125.13, 141.1; Apollonius of Rhodes, Argonautica 4.896.[15]"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Stilbo",
+		"greekName": "",
+		"description": "see Oceanides"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Styx",
+		"greekName": "",
+		"description": "see Oceanides - Epimenides, fr. 7 Fowler; a daughter of Nyx at Hyginus, Fabulae Th. 1"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Telesto",
+		"greekName": "",
+		"description": "see Oceanides"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Thoe",
+		"greekName": "",
+		"description": "see Oceanides - The name of a Nereid at Hyginus, Fabulae Th. 8"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Thraike",
+		"greekName": "",
+		"description": "see Oceanides - Andron of Halicarnassus fr. 7 Fowler [= FGrHist 10 F 7] (mother is Parthenope)[16]"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Tyche",
+		"greekName": "",
+		"description": "see Oceanides"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Urania",
+		"greekName": "",
+		"description": "see Oceanides - Not the Muse Urania"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Xanthe",
+		"greekName": "",
+		"description": "see Oceanides"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name": "Zeuxo",
+		"greekName": "",
+		"description": "see Oceanides"
+		,	  "romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"The Ourea",
+		"greekName":"Ούρος",
+		"description":"primeval gods of mountains",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"The Palici",
+		"greekName":"Παλικοί",
+		"description":"a pair of rustic gods who presided over the geysers and thermal springs in Sicily",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Pan",
+		"greekName":"Πάν",
+		"description":"god of shepherds, pastures, and fertility",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Potamoi",
+		"greekName":"Ποταμοί",
+		"description":"river gods",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Achelous",
+		"greekName":"Αχέλους",
+		"description":"river god",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Acis",
+		"greekName":"Άκις",
+		"description":"river god",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Acheron",
+		"greekName":"Αχέρων",
+		"description":"river god",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Alpheus",
+		"greekName":"Αλφειός",
+		"description":"river god",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Asopus",
+		"greekName":"Ασωπός",
+		"description":"river god",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Cladeus",
+		"greekName":"Κλάδεος",
+		"description":"river god",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Eurotas",
+		"greekName":"Ευρώτας",
+		"description":"river god",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Cocytus",
+		"greekName":"Kωκυτός",
+		"description":"river god",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Lethe",
+		"greekName":"λήθη",
+		"description":"river god",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Peneus",
+		"greekName":"Πηνειός",
+		"description":"river god",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Phlegethon",
+		"greekName":"Φλεγέθων)",
+		"description":"river god",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Styx",
+		"greekName":"Στύξ",
+		"description":"river god",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Scamander",
+		"greekName":"Σκάμανδρος",
+		"description":"river god",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Priapus",
+		"greekName":"Πρίαπος",
+		"description":"god of garden fertility",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Rhea",
+		"greekName":"Ῥέα",
+		"description":"the great mother and queen of the mountain wilds",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Satyrs",
+		"greekName":"Σάτυροι",
+		"description":"rustic fertility spirits",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Krotos",
+		"greekName":"Κρότος",
+		"description":"a great hunter and musician who kept the company of the Muses on Mount Helicon",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Silenus",
+		"greekName":"Σειληνός",
+		"description":"an old rustic god of the dance of the wine-press",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Telete",
+		"greekName":"Τελέτη",
+		"description":"goddess of initiation into the Bacchic orgies",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Zagreus",
+		"greekName":"Ζαγρεύς",
+		"description":"in the Orphic mysteries, the first incarnation of Dionysus",
+		"romanName": "",
+		"category": "rustic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	}
+]

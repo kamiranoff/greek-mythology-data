@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Adonis",
+    "greekName": "Άδωνις",
+    "description": " a life-death-rebirth deity",
+    "romanName": "",
+    "category": "agricultural deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Aphaea",
+    "greekName": "Αφαία",
+    "description": " minor goddess of agriculture and fertility",
+    "romanName": "",
+    "category": "agricultural deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Carme",
+    "greekName": "Κάρμη",
+    "description": " a Cretan spirit who presided over the harvest festival",
+    "romanName": "",
+    "category": "agricultural deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Carmanor",
+    "greekName": "Καρμάνωρ",
+    "description": " a Cretan harvest god",
+    "romanName": "",
+    "category": "agricultural deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Chrysothemis",
+    "greekName": "Χρυσόθεμις",
+    "description": " goddess of the \"Golden Custom\", a harvest festival, daughter of Demeter and Carmanor",
+    "romanName": "",
+    "category": "agricultural deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Cyamites",
+    "greekName": "Κυαμίτης",
+    "description": " demi-god of the bean",
+    "romanName": "",
+    "category": "agricultural deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Demeter",
+    "greekName": "Δημήτηρ",
+    "description": " goddess of fertility, agriculture, grain, and harvest",
+    "romanName": "",
+    "category": "agricultural deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Despoina",
+    "greekName": "Δέσποινη",
+    "description": " daughter of Poseidon and Demeter, goddess of mysteries in Arcadia",
+    "romanName": "",
+    "category": "agricultural deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Dionysus",
+    "greekName": "Διόνυσος",
+    "description": " god of viticulture and wine",
+    "romanName": "",
+    "category": "agricultural deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Eunostus",
+    "greekName": "Εύνοστος",
+    "description": " goddess of the flour mill",
+    "romanName": "",
+    "category": "agricultural deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Hestia",
+    "greekName": "Ἑστία",
+    "description": " maiden goddess of the hearth who presided over the baking of bread, mankind's stable food",
+    "romanName": "",
+    "category": "agricultural deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Persephone",
+    "greekName": "Περσεφόνη",
+    "description": " queen of the underworld, wife of Hades and goddess of spring growth",
+    "romanName": "",
+    "category": "agricultural deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Philomelus",
+    "greekName": "Φιλόμελος",
+    "description": " agricultural demi-god inventor of the wagon and the plough",
+    "romanName": "",
+    "category": "agricultural deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Plutus",
+    "greekName": "Πλοῦτος",
+    "description": " god of wealth, including agricultural wealth, son of Demeter",
+    "romanName": "",
+    "category": "agricultural deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Triptolemus",
+    "greekName": "Τριπτόλεμος",
+    "description": " god of farming and agriculture, he brought agriculture to Greece",
+    "romanName": "",
+    "category": "agricultural deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  }
+]

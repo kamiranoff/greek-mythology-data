@@ -29,36 +29,63 @@ or simply import one of the collection if you just need the data.
 
 
 ```
-import GreekMyth, { godsCollection } from 'greek-mythology-data';
-const gods = new GreekMyth(godsCollection);
-const sortedGods = gods.sortBy('name');
-console.log(gods.list);
-console.log(sortedGods);
+import GreekMyth, { allCollection } from 'greek-mythology-data';
+const all = new GreekMyth(allCollection);
+const sortedFigures = all.sortBy('name');
+console.log(all.list);
+console.log(sortedFigures);
+```
+
+### API sample
+```
+  {
+    "name":"Aphrodite",
+    "greekName":"Ἀφροδίτη, Aphroditē",
+    "romanName":"Venus",
+    "category":"major olympians",
+    "description":"Goddess of beauty, love, desire, and pleasure. Although married to Hephaestus she had many lovers, most notably Ares, Adonis, and Anchises. She was depicted as an extraordinarily beautiful woman, with poets praising the radiance of her smile in particular. Her symbols include roses and other flowers, the scallop shell, and the myrtle wreath. Her sacred animals include doves and sparrows. Her Roman counterpart is Venus.",
+    "immortal":"immortal",
+    "gender":"female",
+    "images": {
+      "thumbnail":"",
+      "regular":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project.jpg/640px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project.jpg"
+    },
+    "relatives": {
+      "father":"",
+      "mother":"",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+    "books":[],
+    "events":[]
+  }
 ```
 
 ### Available Collections
 ```
-  allCollection, // all of them
-  demigodsCollection,
-  godsCollection,
-  generalDeitiesCollection,
-  giantsCollection,
-  kingsCollection,
-  nymphsCollection,
-  primordialDeitiesCollection,
-  seaDeitiesCollection,
-  titansCollection,
+  allCollection // all of them
 ```
+nb: separated collections are available in ./uncomplete_data (but you might find some typos and books and events have not been added yet);
+
 
 ### Available methods
 ```
 .list // return the collection.
 .sortBy([String]); // Return the collection reordered by the chosen attribute;
 ```
-<br>
-<br>
-<br>  
+
+##mongodb example import
+```
+ mongoimport --db mythology --collection allfigures --jsonArray data/all.json
+```
  
+   
+<br>
+<br>
+<br>
+
+
   
   
 > "What we do in life echoes in eternity."

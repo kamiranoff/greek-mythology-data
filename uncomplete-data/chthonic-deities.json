@@ -1,0 +1,701 @@
+[
+	{
+		"name":"Amphiaraus",
+		"greekName":"Ἀμφιάραος",
+		"description":"a hero of the war of the Seven Against Thebes who became an oracular spirit of the Underworld after his death",
+		"romanName": "",
+		"category": "Chthonic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Angelos",
+		"greekName":"Ἄγγελος",
+		"description":"a daughter of Zeus and Hera who became an underworld goddess",
+		"romanName": "",
+		"category": "Chthonic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Askalaphos",
+		"greekName":"Ἀσκάλαφος",
+		"description":"the son of Acheron and Orphne who tended the Underworld orchards before being transformed into a screech owl by Demeter",
+		"romanName": "",
+		"category": "Chthonic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Cerberus",
+		"greekName":"Κέρβερος",
+		"description":"the three-headed hound who guarded the gates of Hades",
+		"romanName": "",
+		"category": "Chthonic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Charon",
+		"greekName":"Χάρων",
+		"description":"ferryman of Hades",
+		"romanName": "",
+		"category": "Chthonic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Empusa",
+		"greekName":"Ἔμπουσα",
+		"description":"a monstrous underworld spirit or spirits with flaming hair, the leg of a goat and a leg of bronze. They are also servants of Hecate.",
+		"romanName": "",
+		"category": "Chthonic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Erebos",
+		"greekName":"Ἔρεβος",
+		"description":"the primeval god of darkness, his mists encircled the underworld and filled the hollows of the earth",
+		"romanName": "",
+		"category": "Chthonic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Erinyes",
+		"greekName":"Ἐρινύες",
+		"description":"the Furies, goddesses of retribution, known as \"The Kindly Ones\"",
+		"romanName": "",
+		"category": "Chthonic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Alecto",
+		"greekName":"Ἀληκτώ",
+		"description":"the unceasing one",
+		"romanName": "",
+		"category": "Chthonic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Tisiphone",
+		"greekName":"Τισιφόνη",
+		"description":"avenger of murder",
+		"romanName": "",
+		"category": "Chthonic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Megaera",
+		"greekName":"Μέγαιρα",
+		"description":"the jealous one",
+		"romanName": "",
+		"category": "Chthonic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Hecate",
+		"greekName":"Ἑκάτη",
+		"description":"goddess of magic, witchcraft, the night, moon, ghosts, and necromancy",
+		"romanName": "",
+		"category": "Chthonic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Aiakos",
+		"greekName":"Αἰακός",
+		"description":"Judges of the Dead - former mortal king of Aegina, guardian of the keys of Hades and judge of the men of Europe",
+		"romanName": "",
+		"category": "Chthonic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Minos",
+		"greekName":"Μίνως",
+		"description":"Judges of the Dead - former mortal king of Crete and judge of the final vote",
+		"romanName": "",
+		"category": "Chthonic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Rhadamanthys",
+		"greekName":"Ῥαδάμανθυς",
+		"description":"Judges of the Dead - former mortal lawmaker and judge of the men of Asia",
+		"romanName": "",
+		"category": "Chthonic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Keuthonymos",
+		"greekName":"Κευθόνυμος",
+		"description":"an Underworld spirit and father of Menoetes",
+		"romanName": "",
+		"category": "Chthonic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Cronus",
+		"greekName":"Κρόνος",
+		"description":"deposed king of the Titans; after his release from Tartarus he was appointed king of the Island of the Blessed",
+		"romanName": "",
+		"category": "Chthonic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Lamia",
+		"greekName":"Λάμια",
+		"description":"a vampiric Underworld spirit or spirits in the train of Hecate",
+		"romanName": "",
+		"category": "Chthonic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Lampades",
+		"greekName":"Λαμπάδες",
+		"description":"torch-bearing Underworld nymphs",
+		"romanName": "",
+		"category": "Chthonic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Gorgyra",
+		"greekName":"Γοργύρα",
+		"romanName": "",
+		"category": "Chthonic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Orphne",
+		"greekName":"Ορφνη",
+		"description":"a Lampad nymph of Hades, mother of Askalaphos",
+		"romanName": "",
+		"category": "Chthonic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Macaria",
+		"greekName":"Μακαρία",
+		"description":"daughter of Hades and goddess of blessed death (not to be confused with the daughter of Heracles",
+		"romanName": "",
+		"category": "Chthonic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Melinoe",
+		"greekName":"Μελινόη",
+		"description":"daughter of Persephone and Zeus who presided over the propitiations offered to the ghosts of the dead",
+		"romanName": "",
+		"category": "Chthonic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Menoetes",
+		"greekName":"Μενοίτης",
+		"description":"an Underworld spirit who herded the cattle of Hades",
+		"romanName": "",
+		"category": "Chthonic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Mormo",
+		"greekName":"Μορμώ",
+		"description":"a fearsome Underworld spirit or spirits in the train of Hecate",
+		"romanName": "",
+		"category": "Chthonic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Nyx",
+		"greekName":"Νύξ",
+		"description":"the primeval goddess of night",
+		"romanName": "",
+		"category": "Chthonic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Hades",
+		"greekName":"¨Αδης",
+		"description":"God of underworld and all things beneath the earth",
+		"romanName": "",
+		"category": "Chthonic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Persephone",
+		"greekName":"Περσεφόνη",
+		"description":"queen of the underworld, wife of Hades and goddess of spring growth",
+		"romanName": "",
+		"category": "Chthonic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	}, 
+	{
+		"name":"Acheron",
+		"greekName":"Αχέρων",
+		"description":"Rivers of the Underworld - the river of woe",
+		"romanName": "",
+		"category": "Chthonic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Kokytos",
+		"greekName":"Kωκυτός",
+		"description":"Rivers of the Underworld - the river of wailing",
+		"romanName": "",
+		"category": "Chthonic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Lethe",
+		"greekName":"Λήθη",
+		"description":"Rivers of the Underworld - the river of forgetfulness",
+		"romanName": "",
+		"category": "Chthonic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Phlegethon",
+		"greekName":"Φλεγέθων",
+		"description":"Rivers of the Underworld - the river of fire",
+		"romanName": "",
+		"category": "Chthonic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Styx",
+		"greekName":"Στύξ",
+		"description":"Rivers of the Underworld - the river of hatred and oaths",
+		"romanName": "",
+		"category": "Chthonic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Tartarus",
+		"greekName":"Τάρταρος",
+		"description":"Rivers of the Underworld - the primeval god of the dark, stormy pit of Hades",
+		"romanName": "",
+		"category": "Chthonic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	},
+	{
+		"name":"Thanatos",
+		"greekName":"Θάνατος",
+		"description":"Rivers of the Underworld - spirit of death and minister of Hades",
+		"romanName": "",
+		"category": "Chthonic deity",
+		"immortal": "immortal",
+		"gender": "",
+		"images": {
+			"thumbnail": "",
+			"regular": ""
+		},
+		"relatives": {
+			"father": "",
+			"mother": "",
+			"spouses": [],
+			"lovers": [],
+			"children": []
+		}
+	}
+]

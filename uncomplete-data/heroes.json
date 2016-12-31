@@ -1,0 +1,626 @@
+[
+  {
+    "name": "Abderus",
+    "greekName": "Ἄβδηρος",
+    "description": "aided Heracles during his eighth labour and was killed by the Mares of Diomedes",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Achilles",
+    "greekName": "Αχιλλεύς or Αχιλλέας",
+    "description": "hero of the Trojan War and a central character in Homer's Iliad",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Aeneas",
+    "greekName": "Αινείας",
+    "description": "a hero of the Trojan War and progenitor of the Roman people",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Ajax the Great",
+    "greekName": "\"Αίας οr Μέγας\"",
+    "description": "a hero of the Trojan War and king of Salamis",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Ajax the Lesser",
+    "greekName": "\"Αίας οr Μικρός\"",
+    "description": "a hero of the Trojan War and leader of the Locrian army",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Amphitryon",
+    "greekName": "Αμφιτρύων",
+    "description": "Theban general who rescued Thebes from the Teumessian fox; his wife was Alcmene, mother of Heracles",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Antilochus",
+    "greekName": "Ἀντίλοχος",
+    "description": "Son of Nestor sacrificed himself to save his father in the Trojan War along with other deeds of valor",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Bellerophon",
+    "greekName": "",
+    "description": "hero who slew the Chimera",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Castor",
+    "greekName": "",
+    "description": "the mortal Dioscuri twin; after Castor's death, his immortal brother Pollux shared his divinity with him in order that they might remain together",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Chrysippus",
+    "greekName": "",
+    "description": "a divine hero of Elis",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Daedalus",
+    "greekName": "",
+    "description": "creator of the labyrinth and great inventor, until King Minos trapped him in his own creation.",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Diomedes",
+    "greekName": "",
+    "description": "a king of Argos and hero of the Trojan War",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Eleusis",
+    "greekName": "",
+    "description": "eponymous hero of the town of Eleusis",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Eunostus",
+    "greekName": "",
+    "description": "a Boeotian hero",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Ganymede",
+    "greekName": "",
+    "description": "Trojan hero and lover of Zeus, who was given immortality and appointed cup-bearer to the gods",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Hector",
+    "greekName": "",
+    "description": "hero of the Trojan War and champion of the Trojan people",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Icarus",
+    "greekName": "",
+    "description": "the son of the master craftsman Daedalus",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Iolaus",
+    "greekName": "",
+    "description": "nephew of Heracles who aided his uncle in one of his Labors",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Jason",
+    "greekName": "",
+    "description": "leader of the Argonauts",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Meleager",
+    "greekName": "",
+    "description": "a hero who sailed with the Argonauts and killed the Calydonian Boar",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Odysseus",
+    "greekName": "",
+    "description": "a hero and king of Ithaca whose adventures are the subject of Homer's Odyssey; he also played a key role during the Trojan War",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Orpheus",
+    "greekName": "",
+    "description": "a legendary musician and poet who attempted to retrieve his dead wife from the Underworld",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Pandion",
+    "greekName": "",
+    "description": "the eponymous hero of the Attic tribe Pandionis, usually assumed to be one of the legendary Athenian kings Pandion I or Pandion II.",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Perseus",
+    "greekName": "Περσεύς",
+    "description": "son of Zeus and the founder-king of Mycenae and slayer of the Gorgon Medusa",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  
+  },
+  {
+    "name": "Theseus",
+    "greekName": "",
+    "description": "son of Poseidon and a king of Athens and slayer of the Minotaur",
+    "romanName": "",
+    "category": "hero",
+     "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  }
+]

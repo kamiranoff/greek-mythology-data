@@ -1,0 +1,903 @@
+[
+  {
+    "name":"Achelois",
+    "greekName":"Ἀχελωΐς",
+    "description":"\"she who washes pain away\", a minor moon goddess",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name":"Aeolus/Aiolos",
+    "greekName":"Αίολος",
+    "description":"god of the winds.",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name":"Aether",
+    "greekName":"Αιθήρ",
+    "description":"primeval god of the upper air",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name":"Alectrona",
+    "greekName":"Αλεκτρονα",
+    "description":"solar goddess of the morning or waking up",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name":"Aparctias",
+    "greekName":"Απαρκτίας",
+    "description":"another name for the north wind (not identified with Boreas)",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name":"Apheliotes",
+    "greekName":"Αφηλιώτης",
+    "description":"god of the east wind (when Eurus is considered southeast)",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name":"Argestes",
+    "greekName":"Αργέστης",
+    "description":"another name for the west or northwest wind",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name":"Caicias",
+    "greekName":"Καικίας",
+    "description":"god of the northeast wind",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name":"Circios/Thraskias",
+    "greekName":"Κίρκιος/Θρασκίας", 
+    "description":"god of the north-northwest wind",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name":"Euronotus",
+    "greekName":"Ευρονότος",
+    "description":"god of the southeast wind",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name":"Lips",
+    "greekName":"Λίψ",
+    "description":"god of the southwest wind",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name":"Skeiron",
+    "greekName":"Σκείρων",
+    "description":"god of the northwest wind",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name":"Arke",
+    "greekName":"Άρκη",
+    "description":"messenger of the Titans and twin sister of Iris",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name":"Astraios",
+    "greekName":"Ἀστραῖος",
+    "description":"Titan god of stars and planets, and the art of astrology",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name":"The Astra Planeti",
+    "greekName":"Αστρα Πλανετοι",
+    "description":"gods of the five wandering stars or planets",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name":"Stilbon",
+    "greekName":"Στιλβών",
+    "description":"god of Hermaon, the planet Mercury",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name":"Eosphorus",
+    "greekName":"Ηωσφόρος",
+    "description":"god of Venus the morning star",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name":"Hesperus",
+    "greekName":"Ἓσπερος",
+    "description":"god of Venus the evening star",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name":"Pyroeis",
+    "greekName":"Πυρόεις",
+    "description":"god of Areios, the planet Mars",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name":"Phaethon",
+    "greekName":"Φαέθων",
+    "description":"god of Dios, the planet Jupiter",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name":"Phaenon",
+    "greekName":"Φαίνων",
+    "description":"god of Kronion, the planet Saturn",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name":"Aurai",
+    "greekName":"Αὖραι",
+    "description":"nymphs of the cooling breeze",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name":"Aura",
+    "greekName":"Αὖρα",
+    "description":"goddess of the breeze and the fresh, cool air of early morning",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name":"Chaos",
+    "greekName":"Χάος",
+    "description":"the nothingness from which all else sprang, she also represented the lower atmosphere which surrounded the earth",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name":"Chione",
+    "greekName":"Χιόνη",
+    "description":"goddess of snow and daughter of Boreas",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name":"Uranus",
+    "greekName":"Ουρανός",
+    "description":"primeval god of the heavens",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+
+  {
+    "name":"Hemera",
+    "greekName":"Ημέρα",
+    "description":"primeval goddess of the day",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name":"The Hesperides",
+    "greekName":"´Εσπερίδες",
+    "description":"nymphs that represented a star cluster in the constellation Taurus (Pleiades) and were associated with rain",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name":"Iris",
+    "greekName":"Ίρις",
+    "description":"goddess of the rainbow and divine messenger",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name":"Nephelai",
+    "greekName":"Νεφέλαι",
+    "description":"cloud nymphs",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name":"Pandia",
+    "greekName":"Πανδία",
+    "description":"daughter of Selene and Zeus",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name":"Ersa",
+    "greekName":"Ἕρση",
+    "description":"goddess of the morning dew",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name":"Anemoi", 
+    "greekName":"Άνεμοι", 
+    "description":"gods of the winds",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name":"Boreas",
+    "greekName":"Βορέας",
+    "description":"god of the north wind and of winter",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name":"Eurus",
+    "greekName":"Εύρος",
+    "description":"god of the unlucky east or southeast wind",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name":"Notus",
+    "greekName":"Νότος", 
+    "description":"god of the south wind",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name":"Zephyrus",
+    "greekName":"Ζέφυρος",
+    "description":"god of the west wind",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name":"The Pleiades",
+    "greekName":"Πλειάδες",
+    "description":"goddesses of the constellation Pleiades and were associated with rain",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name":"Alcyone",
+    "greekName":"Αλκυόνη",
+    "description":"",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name":"Sterope",
+    "greekName":"Στερόπη",
+    "description":"",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name":"Celaeno",
+    "greekName":"Κελαινώ",
+    "description":"",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name":"Electra",
+    "greekName":"Ηλέκτρα",
+    "description":"",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name":"Maia",
+    "greekName":"Μαία",
+    "description":"",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name":"Merope",
+    "greekName":"Μερώπη",
+    "description":"",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name":"Taygete",
+    "greekName":"Ταϋγέτη",
+    "description":"",
+    "romanName": "",
+    "category": "sky deity",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  }
+]

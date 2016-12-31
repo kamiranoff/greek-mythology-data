@@ -1,0 +1,506 @@
+[
+ {
+   "greekName": "Ἀστερία (Astería)",
+   "name": "Asteria",
+   "romanName": "",
+    "category": "titan",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+   "description": "Titaness of nocturnal oracles and falling stars."
+ },
+ {
+   "greekName": "Ἀστραῖος (Astraîos)",
+   "name": "Astraeus",
+   "romanName": "",
+    "category": "titan",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+   "description": "Titan of dusk, stars, and planets, and the art of astrology."
+ },
+ {
+   "greekName": "Ἄτλας (Átlas)",
+   "name": "Atlas",
+   "romanName": "",
+    "category": "titan",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+   "description": "Titan forced to carry the heavens upon his shoulders by Zeus. Also Son of Iapetus."
+ },
+ {
+   "greekName": "Αὔρα (Aúra)",
+   "name": "Aura",
+   "romanName": "",
+    "category": "titan",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+   "description": "Titaness of the breeze and the fresh, cool air of early morning."
+ },
+ {
+   "greekName": "Κλυμένη (Clyménē)",
+   "name": "Clymene",
+   "romanName": "",
+    "category": "titan",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+   "description": "Titaness of renown, fame, and infamy, and wife of Iapetus."
+ },
+ {
+   "greekName": "Διώνη (Diṓnē)",
+   "name": "Dione",
+   "romanName": "",
+    "category": "titan",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+   "description": "Titaness of the oracle of Dodona."
+ },
+ {
+   "greekName": "Ἥλιος (Hḗlios)",
+   "name": "Helios",
+   "romanName": "",
+    "category": "titan",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+   "description": "Titan of the sun and guardian of oaths."
+ },
+ {
+   "greekName": "Σελήνη (Selḗnē)",
+   "name": "Selene",
+   "romanName": "",
+    "category": "titan",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+   "description": "Titaness of the moon."
+ },
+ {
+   "greekName": "Ἠώς (Ēṓs)",
+   "name": "Eos",
+   "romanName": "",
+    "category": "titan",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+   "description": "Titaness of the dawn."
+ },
+ {
+   "greekName": "Ἐπιμηθεύς (Epimētheús)",
+   "name": "Epimetheus",
+   "romanName": "",
+    "category": "titan",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+   "description": "Titan of afterthought and the father of excuses."
+ },
+ {
+   "greekName": "Εὐρυβία (Eurybía)",
+   "name": "Eurybia",
+   "romanName": "",
+    "category": "titan",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+   "description": "Titaness of the mastery of the seas and consort of Krios."
+ },
+ {
+   "greekName": "Εὐρυνόμη (Eurynómē)",
+   "name": "Eurynome",
+   "romanName": "",
+    "category": "titan",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+   "description": "Titaness of water-meadows and pasturelands, and mother of the three Charites by Zeus."
+ },
+ {
+   "greekName": "Λήλαντος (Lēlantos)",
+   "name": "Lelantos",
+   "romanName": "",
+    "category": "titan",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+   "description": "Titan of air and the hunter's skill of stalking prey. He is the male counterpart of Leto."
+ },
+ {
+   "greekName": "Λητώ (Lētṓ)",
+   "name": "Leto",
+   "romanName": "",
+    "category": "titan",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+   "description": "Titaness of motherhood and mother of the twin Olympians, Artemis and Apollo."
+ },
+ {
+   "greekName": "Μενοίτιος (Menoítios)",
+   "name": "Menoetius",
+   "romanName": "",
+    "category": "titan",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+   "description": "Titan of violent anger, rash action, and human mortality. Killed by Zeus."
+ },
+ {
+   "greekName": "Μῆτις (Mē̂tis)",
+   "name": "Metis",
+   "romanName": "",
+    "category": "titan",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+   "description": "Titaness of good counsel, advice, planning, cunning, craftiness, and wisdom. Mother of Athena."
+ },
+ {
+   "greekName": "Ὀφίων (Ophíōn)",
+   "name": "Ophion",
+   "romanName": "",
+    "category": "titan",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+   "description": "An elder Titan, in some versions of the myth he ruled the Earth with his consort Eurynome before Cronus overthrew him. Another account describes him as a snake, born from the \"World Egg\""
+ },
+ {
+   "greekName": "Πάλλας (Pállas)",
+   "name": "Pallas",
+   "romanName": "",
+    "category": "titan",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+   "description": "Titan of warcraft. He was killed by Athena during the Titanomachy."
+ },
+ {
+   "greekName": "Πέρσης (Pérsēs)",
+   "name": "Perses",
+   "romanName": "",
+    "category": "titan",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+   "description": "Titan of destruction."
+ },
+ {
+   "greekName": "Προμηθεύς (Promētheús)",
+   "name": "Prometheus",
+   "romanName": "",
+    "category": "titan",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+   "description": "Titan of forethought and crafty counsel, and creator of mankind."
+ },
+ {
+   "greekName": "Στύξ (Stýx)",
+   "name": "Styx",
+   "romanName": "",
+    "category": "titan",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+   "description": "Titaness of the Underworld river Styx and personification of hatred."
+ }
+]

@@ -1,0 +1,530 @@
+[
+  {
+    "name": "Amphilochus",
+    "greekName": "Αμφίλοχος",
+    "description": "a seer and brother of Alcmaeon who died in the war of the Seven Against Thebes",
+    "romanName": "",
+    "category": "seer/oracle",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Anius",
+    "greekName": "",
+    "description": "son of Apollo who prophesied that the Trojan War would be won in its tenth year",
+    "romanName": "",
+    "category": "seer/oracle",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Asbolus",
+    "greekName": "",
+    "description": "a seer Centaur",
+    "romanName": "",
+    "category": "seer/oracle",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Bakis",
+    "greekName": "",
+    "description": "",
+    "romanName": "",
+    "category": "seer/oracle",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Branchus",
+    "greekName": "",
+    "description": "a seer and son of Apollo",
+    "romanName": "",
+    "category": "seer/oracle",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Calchas",
+    "greekName": "",
+    "description": "an Argive seer who aided the Greeks during the Trojan War",
+    "romanName": "",
+    "category": "seer/oracle",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Carnus",
+    "greekName": "",
+    "description": "an Acarnanian seer and lover of Apollo",
+    "romanName": "",
+    "category": "seer/oracle",
+    "immortal": "mortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Carya",
+    "greekName": "",
+    "description": "a seer and lover of Dionysus",
+    "romanName": "",
+    "category": "seer/oracle",
+    "immortal": "mortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Cassandra",
+    "greekName": "",
+    "description": "a princess of Troy cursed to see the future but never to be believed",
+    "romanName": "",
+    "category": "seer/oracle",
+    "immortal": "mortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Ennomus",
+    "greekName": "",
+    "description": "a Mysian seer, killed by Achilles during the Trojan War",
+    "romanName": "",
+    "category": "seer/oracle",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Halitherses",
+    "greekName": "",
+    "description": "an Ithacan seer who warned Penelope's suitors of Odysseus' return",
+    "romanName": "",
+    "category": "seer/oracle",
+    "immortal": "mortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Helenus",
+    "greekName": "",
+    "description": "seer and twin brother of Cassandra, who later became king of Epirus",
+    "romanName": "",
+    "category": "seer/oracle",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Iamus",
+    "greekName": "",
+    "description": "a son of Apollo possessing the gift of prophecy, he founded the Iamidai",
+    "romanName": "",
+    "category": "seer/oracle",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Idmon",
+    "greekName": "",
+    "description": "a seer who sailed with the Argonauts",
+    "romanName": "",
+    "category": "seer/oracle",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Manto",
+    "greekName": "",
+    "description": "seer and daughter of Tiresias",
+    "romanName": "",
+    "category": "seer/oracle",
+    "immortal": "mortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Melampus",
+    "greekName": "",
+    "description": "a legendary soothsayer and healer, and king of Argos",
+    "romanName": "",
+    "category": "seer/oracle",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Mopsus",
+    "greekName": "",
+    "description": "the name of two legendary seers",
+    "romanName": "",
+    "category": "seer/oracle",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Polyeidos",
+    "greekName": "",
+    "description": "a Corinthian seer who saved the life of Glaucus",
+    "romanName": "",
+    "category": "seer/oracle",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Pythia",
+    "greekName": "",
+    "description": "the Oracle of Delphi",
+    "romanName": "",
+    "category": "seer/oracle",
+    "immortal": "mortal",
+    "gender": "female",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Telemus",
+    "greekName": "",
+    "description": "a seer who foresaw that the Cyclops Polyphemus would be blinded by Odysseus",
+    "romanName": "",
+    "category": "seer/oracle",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Theoclymenus",
+    "greekName": "",
+    "description": "an Argive seer",
+    "romanName": "",
+    "category": "seer/oracle",
+    "immortal": "mortal",
+    "gender": "male",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  },
+  {
+    "name": "Tiresias",
+    "greekName": "",
+    "description": "blind prophet of Thebes",
+    "romanName": "",
+    "category": "seer/oracle",
+    "immortal": "mortal",
+    "gender": "",
+    "images": [
+      {
+        "thumbnail": ""
+      },
+      {
+        "regular": ""
+      }
+    ],
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    }
+  }
+]

@@ -1,14 +1,4 @@
-import allCollection from './../data/greeks.json';
-import demigodsCollection from './../data/demigods.json';
-import generalDeitiesCollection from './../data/general-deities.json';
-import giantsCollection from './../data/giants.json';
-import godsCollection from './../data/gods.json';
-import kingsCollection from './../data/kings.json';
-import nymphsCollection from './../data/nymphs.json';
-import primordialDeitiesCollection from './../data/general-deities.json';
-import seaDeitiesCollection from './../data/sea-deities.json';
-import titansCollection from './../data/titans.json';
-
+import allCollection from './../data/all.json';
 class GreekMyth {
 
   constructor(collection) {
@@ -34,15 +24,6 @@ class GreekMyth {
 
 export {
   allCollection,
-  demigodsCollection,
-  generalDeitiesCollection,
-  giantsCollection,
-  godsCollection,
-  kingsCollection,
-  nymphsCollection,
-  primordialDeitiesCollection,
-  seaDeitiesCollection,
-  titansCollection,
 };
 
 export default GreekMyth;
