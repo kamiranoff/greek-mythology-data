@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Iliad",
+    "author": "Homer",
+    "translator": [
+      "Alexander Pope"
+    ],
+    "description": "The Iliad (ˈɪliəd); Ancient Greek: Ἰλιάς Ilias, pronounced [iː.li.ás] in Classical Attic; sometimes referred to as the Song of Ilion or Song of Ilium) is an ancient Greek epic poem in dactylic hexameter, traditionally attributed to Homer. Set during the Trojan War, the ten-year siege of the city of Troy (Ilium) by a coalition of Greek states, it tells of the battles and events during the weeks of a quarrel between King Agamemnon and the warrior Achilles.\nAlthough the story covers only a few weeks in the final year of the war, the Iliad mentions or alludes to many of the Greek legends about the siege; the earlier events, such as the gathering of warriors for the siege, the cause of the war, and related concerns tend to appear near the beginning. Then the epic narrative takes up events prophesied for the future, such as Achilles' looming death and the sack of Troy, although the narrative ends before these events take place. However, as these events are prefigured and alluded to more and more vividly, when it reaches an end the poem has told a more or less complete tale of the Trojan War.\nThe Iliad is paired with something of a sequel, the Odyssey, also attributed to Homer. Along with the Odyssey, the Iliad is among the oldest extant works of Western literature, and its written version is usually dated to around the 8th century BC. Recent statistical modelling based on language evolution gives a date of 760–710 BC. In the modern vulgate (the standard accepted version), the Iliad contains 15,693 lines; it is written in Homeric Greek, a literary amalgam of Ionic Greek and other dialects.",
+    "excerpt": "Achilles’ wrath, to Greece the direful spring\nOf woes unnumber’d, heavenly goddess, sing!\nThat wrath which hurl’d to Pluto’s gloomy reign\nThe souls of mighty chiefs untimely slain;\nWhose limbs unburied on the naked shore,\nDevouring dogs and hungry vultures tore.\nSince great Achilles and Atrides strove,\nSuch was the sovereign doom, and such the will of Jove!\n",
+    "quotes": [
+      "No man or woman born, coward or brave, can shun his destiny.",
+      "Sing, O muse, of the rage of Achilles, son of Peleus, that brought countless ills upon the Achaeans.",
+      "Hateful to me as the gates of Hades is that man who hides one thing in his heart and speaks another."
+    ],
+    "rating": "",
+    "link": "",
+    "fullText": "String",
+    "images":
+      {
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Iliad_VIII_245-253_in_cod_F205%2C_Milan%2C_Biblioteca_Ambrosiana%2C_late_5c_or_early_6c.jpg",
+        "regular": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Homer_Ilias_Griphanius_c1572.jpg"
+      }
+  },
+  {
+    "title": "Odyssey",
+    "author": "Homer",
+    "translator": [
+      "Alexander Pope"
+    ],
+    "description": "The Odyssey (/ˈɒdəsi/; Greek: Ὀδύσσεια Odýsseia, pronounced [o.dýs.sej.ja] in Classical Attic) is one of two major ancient Greek epic poems attributed to Homer. It is, in part, a sequel to the Iliad, the other work ascribed to Homer. The Odyssey is fundamental to the modern Western canon, and is the second-oldest extant work of Western literature; the Iliad is the oldest. Scholars believe the Odyssey was composed near the end of the 8th century BC, somewhere in Ionia, the Greek coastal region of Anatolia.\nThe poem mainly focuses on the Greek hero Odysseus (known as Ulysses in Roman myths), king of Ithaca, and his journey home after the fall of Troy. It takes Odysseus ten years to reach Ithaca after the ten-year Trojan War. In his absence, it is assumed Odysseus has died, and his wife Penelope and son Telemachus must deal with a group of unruly suitors, the Mnesteres (Greek: Μνηστῆρες) or Proci, who compete for Penelope's hand in marriage.\nThe Odyssey continues to be read in the Homeric Greek and translated into modern languages around the world. Many scholars believe the original poem was composed in an oral tradition by an aoidos (epic poet/singer), perhaps a rhapsode (professional performer), and was more likely intended to be heard than read. The details of the ancient oral performance and the story's conversion to a written work inspire continual debate among scholars. The Odyssey was written in a poetic dialect of Greek—a literary amalgam of Aeolic Greek, Ionic Greek, and other Ancient Greek dialects—and comprises 12,110 lines of dactylic hexameter. Among the most noteworthy elements of the text are its non-linear plot, and the influence on events of choices made by women and slaves, besides the actions of fighting men. In the English language as well as many others, the word odyssey has come to refer to an epic voyage.\nThe Odyssey has a lost sequel, the Telegony, which was not written by Homer. It was usually attributed in antiquity to Cinaethon of Sparta. In one source,[which?] the Telegony was said to have been stolen from Musaeus by either Eugamon or Eugammon of Cyrene (see Cyclic poets).\n",
+    "excerpt": "The man for wisdom’s various arts renown’d,\nLong exercised in woes, O Muse! resound;\nWho, when his arms had wrought the destined fall\nOf sacred Troy, and razed her heaven-built wall,\nWandering from clime to clime, observant stray’d,\nTheir manners noted, and their states survey’d,\nOn stormy seas unnumber’d toils he bore,\nSafe with his friends to gain his natal shore:\nVain toils! their impious folly dared to prey\nOn herds devoted to the god of day;\nThe god vindictive doom’d them never more\n(Ah, men unbless’d!) to touch that natal shore.\nOh, snatch some portion of these acts from fate,\nCelestial Muse! and to our world relate.\n",
+    "rating": "",
+    "quotes": ["Of all creatures that breathe and move upon the earth, nothing is bred that is weaker than man.","There is a time for many words, and there is also a time for sleep.","There is nothing more admirable than when two people who see eye to eye keep house as man and wife, confounding their enemies and delighting their friends."],
+    "link": "",
+    "fullText": "",
+    "images": {
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Homerus_-_Odissea%2C_1794_-_3939651_F.jpg/135px-Homerus_-_Odissea%2C_1794_-_3939651_F.jpg",
+      "regular": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Homerus_-_Odissea%2C_1794_-_3939651_F.jpg"
+    }
+  }
+]
