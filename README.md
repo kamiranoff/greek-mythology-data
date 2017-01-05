@@ -77,7 +77,11 @@ nb: separated collections are available in ./incomplete_data (but you might find
 
 ##mongodb example import
 ```
- mongoimport --db mythology --collection allfigures --jsonArray data/all.json
+mongoimport --db mythology --collection allfigures --jsonArray data/all.json
+ 
+mongoimport --db mythology --collection books --jsonArray data/books.json
+
+mongoimport --db mythology --collection quotes --jsonArray data/quotes.json 
 ```
  
    
