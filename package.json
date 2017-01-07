@@ -1,6 +1,6 @@
 {
   "name": "greek-mythology-data",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Collections of greek mythological figures",
   "main": "lib/index.js",
   "scripts": {
