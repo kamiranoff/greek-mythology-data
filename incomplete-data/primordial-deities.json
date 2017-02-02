@@ -1,0 +1,464 @@
+[
+  {
+    "greekName": "Ἀχλύς (Akhlýs)",
+    "name": "Achlys",
+    "description": "The goddess of poisons and the \"Death-Mist\", and personification of misery and sadness. Said to have existed before Chaos itself.",
+    "category": "primordial deity",
+    "romanName": "",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+    "books": [],
+    "events": []
+  },
+  {
+    "greekName": "Αἰών (Aiôn)",
+    "name": "Aion",
+    "description": "The god of eternity, personifying cyclical and unbounded time. Sometimes equated with Chronos.",
+    "category": "primordial deity",
+    "romanName": "",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+    "books": [],
+    "events": []
+  },
+  {
+    "greekName": "Αἰθήρ (Aithḗr)",
+    "name": "Aether",
+    "description": "The god of light and the upper atmosphere.",
+    "category": "primordial deity",
+    "romanName": "",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+    "books": [],
+    "events": []
+  },
+  {
+    "greekName": "Ἀνάγκη (Anánkē)",
+    "name": "Ananke",
+    "description": "The goddess of inevitability, compulsion, and necessity.",
+    "category": "primordial deity",
+    "romanName": "",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+    "books": [],
+    "events": []
+  },
+  {
+    "greekName": "Χάος (Cháos)",
+    "name": "Chaos",
+    "description": "The personification of nothingness from which all of existence sprang. Depicted as a void. Initially genderless, later on described as female.",
+    "category": "primordial deity",
+    "romanName": "",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+    "books": [],
+    "events": []
+  },
+  {
+    "greekName": "Χρόνος (Chrónos)",
+    "name": "Chronos",
+    "description": "The god of empirical time, sometimes equated with Aion. Not to be confused with the Titan Cronus (Kronos), the father of Zeus.",
+    "category": "primordial deity",
+    "romanName": "",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+    "books": [],
+    "events": []
+  },
+  {
+    "greekName": "Ἔρεβος (Érebos)",
+    "name": "Erebus",
+    "description": "The god of darkness and shadow.",
+    "category": "primordial deity",
+    "romanName": "",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+    "books": [],
+    "events": []
+  },
+  {
+    "greekName": "Ἔρως (Eros)",
+    "name": "Eros",
+    "description": "The god of love and attraction.",
+    "category": "primordial deity",
+    "romanName": "",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+    "books": [],
+    "events": []
+  },
+  {
+    "greekName": "Ἡμέρα (Hēméra)",
+    "name": "Hemera",
+    "description": "The goddess of day.",
+    "category": "primordial deity",
+    "romanName": "",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+    "books": [],
+    "events": []
+  },
+  {
+    "greekName": "Ὕπνος (Hypnos)",
+    "name": "Hypnos",
+    "description": "The personification of sleep.",
+    "category": "primordial deity",
+    "romanName": "",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+    "books": [],
+    "events": []
+  },
+  {
+    "greekName": "Γαῖα (Gaîa)",
+    "name": "Gaia (Gaea)",
+    "description": " Personification of the Earth (Mother Earth); mother of the Titans.",
+    "category": "primordial deity",
+    "romanName": "",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+    "books": [],
+    "events": []
+  },
+  {
+    "greekName": "Νέμεσις (Némesis)",
+    "name": "Nemesis",
+    "description": "The goddess of retribution.",
+    "category": "primordial deity",
+    "romanName": "",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+    "books": [],
+    "events": []
+  },
+  {
+    "greekName": "Nῆσοι (Nē̂soi)",
+    "name": "The Nesoi",
+    "description": "The goddesses of the islands and sea.",
+    "category": "primordial deity",
+    "romanName": "",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+    "books": [],
+    "events": []
+  },
+  {
+    "greekName": "Νύξ (Nýx)",
+    "name": "Nyx",
+    "description": "The goddess of night.",
+    "category": "primordial deity",
+    "romanName": "",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+    "books": [],
+    "events": []
+  },
+  {
+    "greekName": "Οὐρανός (Ouranós)",
+    "name": "Uranus",
+    "description": "The god of the heavens (Father Sky); father of the Titans.",
+    "category": "primordial deity",
+    "romanName": "",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+    "books": [],
+    "events": []
+  },
+  {
+    "greekName": "Οὔρεα (Oúrea)",
+    "name": "The Ourea",
+    "description": "The gods of mountains.",
+    "category": "primordial deity",
+    "romanName": "",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+    "books": [],
+    "events": []
+  },
+  {
+    "greekName": "Φάνης (Phánēs)",
+    "name": "Phanes",
+    "description": "The god of procreation in the Orphic tradition.",
+    "category": "primordial deity",
+    "romanName": "",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+    "books": [],
+    "events": []
+  },
+  {
+    "greekName": "Πόντος (Póntos)",
+    "name": "Pontus",
+    "description": "The god of the sea, father of the fish and other sea creatures.",
+    "category": "primordial deity",
+    "romanName": "",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+    "books": [],
+    "events": []
+  },
+  {
+    "greekName": "Τάρταρος (Tártaros)",
+    "name": "Tartarus",
+    "description": "The god of the deepest, darkest part of the underworld, the Tartarean pit (which is also referred to as Tartarus itself).",
+    "category": "primordial deity",
+    "romanName": "",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+    "books": [],
+    "events": []
+  },
+  {
+    "greekName": "Θάλασσα (Thálassa)",
+    "name": "Thalassa",
+    "description": "Personification of the sea and consort of Pontus.",
+    "category": "primordial deity",
+    "romanName": "",
+    "immortal": "immortal",
+    "gender": "female",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+    "books": [],
+    "events": []
+  },
+  {
+    "greekName": "Θάνατος (Thánatos)",
+    "name": "Thanatos",
+    "description": "God of Death. Brother to Hypnos (Sleep) and in some cases Moros (Doom)",
+    "category": "primordial deity",
+    "romanName": "",
+    "immortal": "immortal",
+    "gender": "male",
+    "images": {
+      "thumbnail": "",
+      "regular": ""
+    },
+    "relatives": {
+      "father": "",
+      "mother": "",
+      "spouses": [],
+      "lovers": [],
+      "children": []
+    },
+    "books": [],
+    "events": []
+  }
+]
